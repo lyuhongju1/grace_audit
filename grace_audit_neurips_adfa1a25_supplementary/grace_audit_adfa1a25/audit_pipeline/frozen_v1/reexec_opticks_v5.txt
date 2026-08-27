@@ -1,0 +1,42 @@
+
+### optiv5/darkside_lar  (synthesized 2 parquet inputs)
+  MATCH    grace_python_0ab96a3753a8.py  (all regenerated JSON leaves equal archive)
+  FAILED   grace_python_0b1b3e3c5024.py  SyntaxError: unterminated string literal (detected at line 201)
+  FAILED   grace_python_445c0667b69d.py  FileNotFoundError: [Errno 2] No such file or directory: '/tmp/reexec_h56kgfst/optimized_geometry_electron_hits
+  FAILED   grace_python_74d5a83eabe7.py  FileNotFoundError: [Errno 2] No such file or directory: '/tmp/reexec_h56kgfst/optimized_geometry_electron_hits
+  DIVERGE  grace_python_7a3e098381a7.py
+      pmt_optimization_results.json:pmt_positions.x[35]  archived=0.000570093  correctly-fed=0.0104371  (95% rel)
+      pmt_optimization_results.json:pmt_positions.x[36]  archived=0.00518392  correctly-fed=-0.0628139  (108% rel)
+      pmt_optimization_results.json:pmt_positions.x[37]  archived=-0.159379  correctly-fed=-0.031965  (80% rel)
+      pmt_optimization_results.json:pmt_positions.x[38]  archived=-0.0480222  correctly-fed=0.181309  (126% rel)
+      pmt_optimization_results.json:pmt_positions.x[39]  archived=-0.164649  correctly-fed=0.0855197  (152% rel)
+      pmt_optimization_results.json:pmt_positions.x[40]  archived=0.0924171  correctly-fed=-0.0378573  (141% rel)
+      pmt_optimization_results.json:pmt_positions.x[41]  archived=-0.101141  correctly-fed=-0.013878  (86% rel)
+      pmt_optimization_results.json:pmt_positions.x[42]  archived=-0.000570093  correctly-fed=-0.0104371  (95% rel)
+      ... +48 more leaves differ
+  MATCH    grace_python_7d39d6671238.py  (all regenerated JSON leaves equal archive)
+  FAILED   grace_python_9fd845a72246.py  KeyError: 'totalEdep'
+  FAILED   grace_python_be37bbbf38d0.py  FileNotFoundError: [Errno 2] No such file or directory: '/tmp/reexec_h56kgfst/baseline_geometry_electron_hits.
+  MATCH    grace_python_c74f3e6c8e84.py  (all regenerated JSON leaves equal archive)
+  FAILED   grace_python_ef84af7afd5e.py  FileNotFoundError: [Errno 2] No such file or directory: '/tmp/reexec_h56kgfst/baseline_geometry_electron_hits.
+  stats: {'RAN': 4, 'FAILED': 6, 'TIMEOUT': 0}
+
+### optiv5/detector  (synthesized 3 parquet inputs)
+  FAILED   grace_python_360d57c027d2.py  FileNotFoundError: [Errno 2] No such file or directory: '/tmp/reexec_z6c1rewc/baseline_uniform_electron_hits.r
+  FAILED   grace_python_70229f3597a5.py  FileNotFoundError: [Errno 2] No such file or directory: '/tmp/reexec_z6c1rewc/barrel_optimized_electron_hits.r
+  MATCH    grace_python_8abc9b3cb282.py  (all regenerated JSON leaves equal archive)
+  MATCH    grace_python_90889f4efb8b.py  (all regenerated JSON leaves equal archive)
+  FAILED   grace_python_920fa7e25121.py  FileNotFoundError: [Errno 2] No such file or directory: '/tmp/reexec_z6c1rewc/endcap_heavy_electron_hits.root'
+  MATCH    grace_python_a648a5fd11dc.py  (all regenerated JSON leaves equal archive)
+  MATCH    grace_python_bf4d21987a07.py  (all regenerated JSON leaves equal archive)
+  FAILED   grace_python_dfd54b4eceab.py  FileNotFoundError: [Errno 2] No such file or directory: '/tmp/reexec_z6c1rewc/baseline_uniform_electron_hits.r
+  stats: {'RAN': 4, 'FAILED': 4, 'TIMEOUT': 0}
+
+### optiv5/protodune_lar  (synthesized 2 parquet inputs)
+  FAILED   grace_python_0b9aabdab3fe.py  FileNotFoundError: [Errno 2] No such file or directory: '/tmp/reexec_iuvdwcob/scaled_protodune_electron_hits.r
+  FAILED   grace_python_2062adcfe9b3.py  FileNotFoundError: [Errno 2] No such file or directory: '/tmp/reexec_iuvdwcob/optimized_protodune_electron_hit
+  FAILED   grace_python_2cb84fd5273d.py  FileNotFoundError: [Errno 2] No such file or directory: '/tmp/reexec_iuvdwcob/optimized_protodune_electron_hit
+  MATCH    grace_python_5656bbf316fb.py  (all regenerated JSON leaves equal archive)
+  FAILED   grace_python_8cb6be5c128e.py  FileNotFoundError: [Errno 2] No such file or directory: '/tmp/reexec_iuvdwcob/optimized_protodune_electron_hit
+  FAILED   grace_python_9528ba58e4a6.py  
+  stats: {'RAN': 1, 'FAILED': 5, 'TIMEOUT': 0}

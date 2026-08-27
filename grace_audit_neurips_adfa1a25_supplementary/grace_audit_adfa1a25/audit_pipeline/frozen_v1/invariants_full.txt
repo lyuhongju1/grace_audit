@@ -1,0 +1,24 @@
+
+### celev4/calorimeter
+  I1 BOUND    tungsten_performance_analysis.json:high_density_effects.material_efficiency_gain = 5.028571428571429
+
+### celev7/muon
+  I4 NONLIN   planar_muon_spectrometer_retry/mum: worst linear-fit residual 43% over E=['5000MeV', '20000MeV', '50000MeV']
+
+### optiv5/protodune_lar
+  I1 BOUND    optimization_comparison_results.json:statistical_significance.detection_efficien = 1.2352154766737136
+  I1 BOUND    optimized_performance_analysis.json:statistical_significance.efficiency_signific = 1.2357465949140913
+
+### optiv9/darkside_lar
+  I3 BATCH    darkside_optimized/electron: yield/MeV @5MeV / @1MeV = 0.47  [ARTIFACT]
+  I3 BATCH    darkside_detector/electron: yield/MeV @5MeV / @1MeV = 0.47  [ARTIFACT]
+  I3 BATCH    darkside_detector/proton: yield/MeV @5MeV / @1MeV = 0.22  [ARTIFACT]
+  I4 NONLIN   darkside_optimized/electron: worst linear-fit residual 217% over E=['0MeV', '1MeV', '5MeV']
+  I4 NONLIN   darkside_detector/electron: worst linear-fit residual 217% over E=['0MeV', '1MeV', '5MeV']
+  I4 NONLIN   darkside_detector/proton: worst linear-fit residual 436% over E=['0MeV', '1MeV', '5MeV']
+
+### optiv9/protodune_lar
+  I3 BATCH    protodune_geometry_retry/electron: yield/MeV @5MeV / @1MeV = 0.47  [ARTIFACT]
+  I4 NONLIN   protodune_geometry_retry/electron: worst linear-fit residual 31% over E=['1MeV', '2MeV', '5MeV']
+
+TOTAL invariant flags: 12

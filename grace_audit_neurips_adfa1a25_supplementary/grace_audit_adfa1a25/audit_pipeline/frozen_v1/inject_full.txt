@@ -1,0 +1,20 @@
+control baselines: crosscheck=7 hardcoded=18 coverage-cells=9 unexplained=1 fam-diagnosed=6
+
+D1 json-digit-flip (1479.23 -> 1482.30 in JSON; report still says 1479.23)
+  claims-crosscheck      detected=False  (new flags: 0)
+  json-consistency       detected=False  (new flags: 0)
+  differential-reexec    detected=True  (new flags: 1)
+
+D2 hardcode-insert (literal efficiency RESULT appended)
+  dataflow               detected=True  (new flags: 1)
+
+D3 log-delete (1 MeV electron logs removed)
+  coverage-matrix        detected=True  (cells lost: ['log:darkside_detector/electron/0.001:mu', 'log:darkside_optimized/electron/0.001:mu'])
+
+D4 report-fabricate (1479.23 -> 1521.77 in report only)
+  mechsearch-unexpl      detected=True  (new flags: 1)
+
+D5 placeholder-mean (mean(resolutions+[1.0])=0.3696 written to new JSON)
+  mechsearch-family      detected=True  (new flags: 1)
+
+CALIBRATION: 5/7 injected defect classes detected; control false-alarm baselines reported above are the comparison floor.

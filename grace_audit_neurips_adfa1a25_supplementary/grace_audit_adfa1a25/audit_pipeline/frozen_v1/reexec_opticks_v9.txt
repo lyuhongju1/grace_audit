@@ -1,0 +1,50 @@
+
+### optiv9/darkside_lar  (synthesized 21 parquet inputs)
+  MATCH    grace_python_0d5f63672b40.py  (all regenerated JSON leaves equal archive)
+  DIVERGE  grace_python_11c70f67e330.py
+      energy_response_results.json:average_light_yield  archived=1474.39  correctly-fed=1211.99  (18% rel)
+      energy_response_results.json:best_resolution  archived=0.0160211  correctly-fed=0.0258466  (38% rel)
+      energy_response_results.json:energy_resolutions[2]  archived=0.0160211  correctly-fed=0.0467682  (66% rel)
+      energy_response_results.json:light_yield_errors[2]  archived=0.336724  correctly-fed=0.46515  (28% rel)
+      energy_response_results.json:light_yields_pe_per_mev[2]  archived=1486.17  correctly-fed=698.975  (53% rel)
+      energy_response_results.json:resolution_errors[2]  archived=0.000160211  correctly-fed=0.000470561  (66% rel)
+  MATCH    grace_python_1ac09a87067d.py  (all regenerated JSON leaves equal archive)
+  INPUT-NOT-FOUND? grace_python_2773568b5d1b.py
+      optimization_analysis.json:baseline.light_yield  archived=2.01134  correctly-fed=0  (100% rel)
+      optimization_analysis.json:baseline.total_hits  archived=61341  correctly-fed=0  (100% rel)
+      optimization_analysis.json:improvements.light_yield_percent  archived=204.62  correctly-fed=0  (100% rel)
+      optimization_analysis.json:optimized.light_yield  archived=6.12695  correctly-fed=0  (100% rel)
+      optimization_analysis.json:optimized.total_hits  archived=186872  correctly-fed=0  (100% rel)
+      optimization_analysis.json:statistics.p_value  archived=0  correctly-fed=1  (100% rel)
+      optimization_analysis.json:statistics.z_score  archived=508.23  correctly-fed=0  (100% rel)
+  FAILED   grace_python_2b98575a19ad.py  TypeError: dump() missing 1 required positional argument: 'fp'
+  MATCH    grace_python_516db47e2053.py  (all regenerated JSON leaves equal archive)
+  MATCH    grace_python_52c9ebf257a4.py  (all regenerated JSON leaves equal archive)
+  MATCH    grace_python_56cfb4e855d4.py  (all regenerated JSON leaves equal archive)
+  FAILED   grace_python_b1c0618b1254.py  KeyError: '0.0010_gev'
+  MATCH    grace_python_d05cdb789a65.py  (all regenerated JSON leaves equal archive)
+  MATCH    grace_python_daf35be1393b.py  (all regenerated JSON leaves equal archive)
+  MATCH    grace_python_dc90d05370a0.py  (all regenerated JSON leaves equal archive)
+  FAILED   grace_python_de63162bce3b.py  FileNotFoundError: [Errno 2] No such file or directory: '/tmp/reexec_etfdxw3c/energy_0.005GeV/darkside_optimiz
+  stats: {'RAN': 10, 'FAILED': 3, 'TIMEOUT': 0}
+
+### optiv9/detector  (synthesized 2 parquet inputs)
+  FAILED   grace_python_67fb0614669e.py  FileNotFoundError: [Errno 2] No such file or directory: '/tmp/reexec_p6c4k1bm/uniform_lar_detector_electron_hi
+  MATCH    grace_python_934375563292.py  (all regenerated JSON leaves equal archive)
+  FAILED   grace_python_97bd9cf86093.py  FileNotFoundError: [Errno 2] No such file or directory: '/tmp/reexec_p6c4k1bm/endcap_heavy_lar_detector_electr
+  FAILED   grace_python_d30fb43166a0.py  KeyError: 'totalEdep'
+  MATCH    grace_python_dfab60869708.py  (all regenerated JSON leaves equal archive)
+  stats: {'RAN': 2, 'FAILED': 3, 'TIMEOUT': 0}
+
+### optiv9/protodune_lar  (synthesized 7 parquet inputs)
+  DIVERGE  grace_python_0f572be8cc66.py
+      baseline_optical_performance.json:baseline_light_yield_pe_per_mev  archived=652.644  correctly-fed=537.336  (18% rel)
+      baseline_optical_performance.json:baseline_light_yield_std  archived=0.89333  correctly-fed=162.679  (99% rel)
+      baseline_optical_performance.json:baseline_spatial_uniformity_cv  archived=2.76881  correctly-fed=0  (100% rel)
+      baseline_optical_performance.json:energy_sweep_results[2].light_yield_err  archived=0.228614  correctly-fed=0.221576  (3% rel)
+      baseline_optical_performance.json:energy_sweep_results[2].light_yield_pe_per_mev  archived=653.199  correctly-fed=307.276  (53% rel)
+      baseline_optical_performance.json:energy_sweep_results[2].num_events  archived=5000  correctly-fed=4944  (1% rel)
+  MATCH    grace_python_607ef5395ab9.py  (all regenerated JSON leaves equal archive)
+  MATCH    grace_python_d7fb1155037a.py  (all regenerated JSON leaves equal archive)
+  MATCH    grace_python_e2afbffc40a3.py  (all regenerated JSON leaves equal archive)
+  stats: {'RAN': 4, 'FAILED': 0, 'TIMEOUT': 0}

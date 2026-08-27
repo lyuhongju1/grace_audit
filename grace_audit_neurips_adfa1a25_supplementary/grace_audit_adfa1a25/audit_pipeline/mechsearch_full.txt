@@ -1,0 +1,1540 @@
+
+### celev4/calorimeter: pool=62 quantities (17 log-derived), 8 families, 114 targets
+  [R0003] 100  null-FP=7%  (ations. The investigation employed π+ particle beams)
+        r2: mean(json:baseline_performance_analysis.json:summary.energies_gev[]drop[0]+[1.0])
+        r2: mean(json:baseline_performance_plots.json:energy_points_gev[]drop[0]+[1.0])
+  [R0007] 80.5  null-FP=2%  ( superior energy resolution (σ/E = 0.0500 ± 0.0011) )
+        r2: std(json:baseline_performance_analysis.json:summary.energies_gev[]+[1.0])
+        r2: std(json:baseline_performance_plots.json:energy_points_gev[]+[1.0])
+  [R0016] 100  null-FP=7%  (ion was simulated using π+ particle guns at energies)
+        r2: mean(json:baseline_performance_analysis.json:summary.energies_gev[]drop[0]+[1.0])
+        r2: mean(json:baseline_performance_plots.json:energy_points_gev[]drop[0]+[1.0])
+  [R0024] 0.2572  null-FP=23%  ( showed significant energy dependence:  - **10 GeV**)
+        r2: mean(json:baseline_performance_analysis.json:summary.resolutions[])
+  [R0025] 0.0058  null-FP=8%  (ignificant energy dependence:  - **10 GeV**: σ/E = 0)
+        r2: mean(json:baseline_performance_analysis.json:summary.resolution_errors[])
+  [R0026] 100  null-FP=7%  (energy dependence:  - **10 GeV**: σ/E = 0.2572 ± 0.0)
+        r2: mean(json:baseline_performance_analysis.json:summary.energies_gev[]drop[0]+[1.0])
+        r2: mean(json:baseline_performance_plots.json:energy_points_gev[]drop[0]+[1.0])
+  [R0038] 80.5  null-FP=2%  (on**: σ/E = 0.0500 ± 0.0011 - **Improvement vs. Base)
+        r2: std(json:baseline_performance_analysis.json:summary.energies_gev[]+[1.0])
+        r2: std(json:baseline_performance_plots.json:energy_points_gev[]+[1.0])
+  [R0043] 0.2572  null-FP=23%  ( with hermetic coverage 3. **Baseline Planar Steel**)
+        r2: mean(json:baseline_performance_analysis.json:summary.resolutions[])
+  [R0047] 148903.9  null-FP=0%  (to performance improvements.  The consistent energy )
+        r2: mean(json:baseline_performance_analysis.json:summary.mean_energies_mev[])
+  [R0049] 80.5  null-FP=2%  (e design emerged as the clear performance leader, ac)
+        r2: std(json:baseline_performance_analysis.json:summary.energies_gev[]+[1.0])
+        r2: std(json:baseline_performance_plots.json:energy_points_gev[]+[1.0])
+  [R0058] 100  null-FP=7%  (nce evaluations for the most promising design varian)
+        r2: mean(json:baseline_performance_analysis.json:summary.energies_gev[]drop[0]+[1.0])
+        r2: mean(json:baseline_performance_plots.json:energy_points_gev[]drop[0]+[1.0])
+  [J:cylindrical_performance_analysis.json:baseline_geometry.ener] 0.257201  null-FP=0%  (json:cylindrical_performance_analysis.json:baseline_)
+        r2: mean(json:baseline_performance_analysis.json:summary.resolutions[])
+  [J:cylindrical_performance_analysis.json:baseline_geometry.ener] 0.00575119  null-FP=0%  (json:cylindrical_performance_analysis.json:baseline_)
+        r2: mean(json:baseline_performance_analysis.json:summary.resolution_errors[])
+  [J:baseline_performance_analysis.json:10gev.resolution] 0.257201  null-FP=0%  (json:baseline_performance_analysis.json:10gev.resolu)
+        r2: mean(json:baseline_performance_analysis.json:summary.resolutions[])
+  [J:baseline_performance_analysis.json:10gev.resolution_error] 0.00575119  null-FP=0%  (json:baseline_performance_analysis.json:10gev.resolu)
+        r2: mean(json:baseline_performance_analysis.json:summary.resolution_errors[])
+  [J:baseline_performance_analysis.json:100gev.resolution] 0.257201  null-FP=0%  (json:baseline_performance_analysis.json:100gev.resol)
+        r2: mean(json:baseline_performance_analysis.json:summary.resolutions[])
+  [J:baseline_performance_analysis.json:100gev.resolution_error] 0.00575119  null-FP=0%  (json:baseline_performance_analysis.json:100gev.resol)
+        r2: mean(json:baseline_performance_analysis.json:summary.resolution_errors[])
+  [J:baseline_performance_analysis.json:200gev.resolution] 0.257201  null-FP=0%  (json:baseline_performance_analysis.json:200gev.resol)
+        r2: mean(json:baseline_performance_analysis.json:summary.resolutions[])
+  [J:baseline_performance_analysis.json:200gev.resolution_error] 0.00575119  null-FP=0%  (json:baseline_performance_analysis.json:200gev.resol)
+        r2: mean(json:baseline_performance_analysis.json:summary.resolution_errors[])
+  [J:baseline_performance_analysis.json:summary.resolutions[0]] 0.257201  null-FP=0%  (json:baseline_performance_analysis.json:summary.reso)
+        r2: mean(json:baseline_performance_analysis.json:summary.resolutions[])
+  [J:baseline_performance_analysis.json:summary.resolutions[1]] 0.257201  null-FP=0%  (json:baseline_performance_analysis.json:summary.reso)
+        r2: mean(json:baseline_performance_analysis.json:summary.resolutions[])
+  [J:baseline_performance_analysis.json:summary.resolutions[2]] 0.257201  null-FP=0%  (json:baseline_performance_analysis.json:summary.reso)
+        r2: mean(json:baseline_performance_analysis.json:summary.resolutions[])
+  [J:baseline_performance_analysis.json:summary.resolution_errors] 0.00575119  null-FP=0%  (json:baseline_performance_analysis.json:summary.reso)
+        r2: mean(json:baseline_performance_analysis.json:summary.resolution_errors[])
+  [J:baseline_performance_analysis.json:summary.resolution_errors] 0.00575119  null-FP=0%  (json:baseline_performance_analysis.json:summary.reso)
+        r2: mean(json:baseline_performance_analysis.json:summary.resolution_errors[])
+  [J:baseline_performance_analysis.json:summary.resolution_errors] 0.00575119  null-FP=0%  (json:baseline_performance_analysis.json:summary.reso)
+        r2: mean(json:baseline_performance_analysis.json:summary.resolution_errors[])
+  [J:baseline_performance_plots.json:resolutions[0]] 0.257201  null-FP=0%  (json:baseline_performance_plots.json:resolutions[0])
+        r2: mean(json:baseline_performance_analysis.json:summary.resolutions[])
+  [J:baseline_performance_plots.json:resolution_errors[0]] 0.00575119  null-FP=0%  (json:baseline_performance_plots.json:resolution_erro)
+        r2: mean(json:baseline_performance_analysis.json:summary.resolution_errors[])
+  [J:baseline_performance_plots.json:worst_resolution] 0.257201  null-FP=0%  (json:baseline_performance_plots.json:worst_resolutio)
+        r2: mean(json:baseline_performance_analysis.json:summary.resolutions[])
+  [J:tungsten_performance_analysis.json:tungsten_performance.ener] 0.0500401  null-FP=1%  (json:tungsten_performance_analysis.json:tungsten_per)
+        r3: a/b  a=json:tungsten_performance_analysis.json:tungsten_performance.std_energy_deposit  b=json:tungsten_performance_analysis.json:tungsten_performance.mean_energy_deposit
+        r4: a/b*1.0  a=json:tungsten_performance_analysis.json:tungsten_performance.std_energy_deposit  b=json:tungsten_performance_analysis.json:tungsten_performance.mean_energy_deposit
+        r4: a/b/1.0  a=json:tungsten_performance_analysis.json:tungsten_performance.std_energy_deposit  b=json:tungsten_performance_analysis.json:tungsten_performance.mean_energy_deposit
+  [J:tungsten_performance_analysis.json:tungsten_performance.mean] 9178.66  null-FP=0%  (json:tungsten_performance_analysis.json:tungsten_per)
+        r3: a/b  a=json:tungsten_performance_analysis.json:tungsten_performance.std_energy_deposit  b=json:tungsten_performance_analysis.json:tungsten_performance.energy_resolution
+        r4: a/b*1.0  a=json:tungsten_performance_analysis.json:tungsten_performance.std_energy_deposit  b=json:tungsten_performance_analysis.json:tungsten_performance.energy_resolution
+        r4: a/b/1.0  a=json:tungsten_performance_analysis.json:tungsten_performance.std_energy_deposit  b=json:tungsten_performance_analysis.json:tungsten_performance.energy_resolution
+  [J:tungsten_performance_analysis.json:high_density_effects.reso] 80.5443  null-FP=0%  (json:tungsten_performance_analysis.json:high_density)
+        r3: a/b  a=json:tungsten_performance_analysis.json:compactness_analysis.effective_depth_reduction_percent  b=json:tungsten_performance_analysis.json:summary.compactness_vs_performance_ratio
+        r4: a/b*1.0  a=json:tungsten_performance_analysis.json:compactness_analysis.effective_depth_reduction_percent  b=json:tungsten_performance_analysis.json:summary.compactness_vs_performance_ratio
+        r4: a/b/1.0  a=json:tungsten_performance_analysis.json:compactness_analysis.effective_depth_reduction_percent  b=json:tungsten_performance_analysis.json:summary.compactness_vs_performance_ratio
+  [J:tungsten_performance_analysis.json:resolution_tradeoffs.base] 0.2572  null-FP=23%  (json:tungsten_performance_analysis.json:resolution_t)
+        r2: mean(json:baseline_performance_analysis.json:summary.resolutions[])
+  [J:tungsten_performance_analysis.json:summary.compactness_vs_pe] 0.994653  null-FP=0%  (json:tungsten_performance_analysis.json:summary.comp)
+        r3: a/b  a=json:tungsten_performance_analysis.json:compactness_analysis.effective_depth_reduction_percent  b=json:tungsten_performance_analysis.json:high_density_effects.resolution_improvement_percent
+        r4: a/b*1.0  a=json:tungsten_performance_analysis.json:compactness_analysis.effective_depth_reduction_percent  b=json:tungsten_performance_analysis.json:high_density_effects.resolution_improvement_percent
+        r4: a/b/1.0  a=json:tungsten_performance_analysis.json:compactness_analysis.effective_depth_reduction_percent  b=json:tungsten_performance_analysis.json:high_density_effects.resolution_improvement_percent
+  summary: 7 log-verified, 36 json-copies, 33 diagnosed-by-formula, 38 unexplained/ambiguous
+
+### celev4/emcal: pool=100 quantities (18 log-derived), 12 families, 208 targets
+  [R0007] 0.001  null-FP=0%  (y resolution of 2.14% ± 0.05%, excellent linearity ()
+        r2: mean(json:comprehensive_comparison_metrics.json:energy_resolution.errors[])
+  [R0028] 0.001  null-FP=0%  (Energy Resolution**: 3.44% ± 0.08% - **Linearity**: )
+        r2: mean(json:comprehensive_comparison_metrics.json:energy_resolution.errors[])
+  [R0035] 0.001  null-FP=0%  (Energy Resolution**: 2.14% ± 0.05% - **Linearity**: )
+        r2: mean(json:comprehensive_comparison_metrics.json:energy_resolution.errors[])
+  [R0060] 0.001  null-FP=0%  (--|-------------------| | CsI Block | 3.44 ± 0.08 | )
+        r2: mean(json:comprehensive_comparison_metrics.json:energy_resolution.errors[])
+  [R0065] 0.001  null-FP=0%  (001 | 40.8 | ❌ | | PbWO₄ Projective | 2.14 ± 0.05 | )
+        r2: mean(json:comprehensive_comparison_metrics.json:energy_resolution.errors[])
+  [J:baseline_performance_metrics.json:energy_resolution] 0.0343629  null-FP=0%  (json:baseline_performance_metrics.json:energy_resolu)
+        r3: a/b  a=json:baseline_performance_metrics.json:energy_std_mev  b=json:baseline_performance_metrics.json:mean_energy_mev
+        r4: a/b*1.0  a=json:baseline_performance_metrics.json:energy_std_mev  b=json:baseline_performance_metrics.json:mean_energy_mev
+        r4: a/b/1.0  a=json:baseline_performance_metrics.json:energy_std_mev  b=json:baseline_performance_metrics.json:mean_energy_mev
+  [J:baseline_performance_metrics.json:mean_energy_mev] 467.007  null-FP=0%  (json:baseline_performance_metrics.json:mean_energy_m)
+        r3: a/b  a=json:baseline_performance_metrics.json:energy_std_mev  b=json:baseline_performance_metrics.json:energy_resolution
+        r4: a/b*1.0  a=json:baseline_performance_metrics.json:energy_std_mev  b=json:baseline_performance_metrics.json:energy_resolution
+        r4: a/b/1.0  a=json:baseline_performance_metrics.json:energy_std_mev  b=json:baseline_performance_metrics.json:energy_resolution
+  [J:baseline_performance_metrics.json:containment_95_radius_mm] 53.0612  null-FP=0%  (json:baseline_performance_metrics.json:containment_9)
+        r5: a*(1+b/100)  a=json:baseline_performance_metrics.json:containment_90_radius_mm  b=json:optimal_configuration_analysis.json:target_criteria.min_containment_90_mm
+  [J:final_performance_metrics.json:energy_resolution] 0.0239738  null-FP=1%  (json:final_performance_metrics.json:energy_resolutio)
+        r3: a/b  a=json:final_performance_metrics.json:energy_deposit_std_mev  b=json:final_performance_metrics.json:mean_energy_deposit_mev
+        r4: a/b*1.0  a=json:final_performance_metrics.json:energy_deposit_std_mev  b=json:final_performance_metrics.json:mean_energy_deposit_mev
+        r4: a/b/1.0  a=json:final_performance_metrics.json:energy_deposit_std_mev  b=json:final_performance_metrics.json:mean_energy_deposit_mev
+        ... multiplicity=4
+  [J:final_performance_metrics.json:energy_linearity] 0.0483713  null-FP=0%  (json:final_performance_metrics.json:energy_linearity)
+        r4: a/b*5.0  a=json:final_performance_metrics.json:mean_energy_deposit_mev  b=json:baseline_performance_metrics.json:num_hits_analyzed
+  [J:final_performance_metrics.json:mean_energy_deposit_mev] 4837.13  null-FP=0%  (json:final_performance_metrics.json:mean_energy_depo)
+        r3: a/b  a=json:final_performance_metrics.json:energy_deposit_std_mev  b=json:final_performance_metrics.json:energy_resolution
+        r4: a/b*1.0  a=json:final_performance_metrics.json:energy_deposit_std_mev  b=json:final_performance_metrics.json:energy_resolution
+        r4: a/b/1.0  a=json:final_performance_metrics.json:energy_deposit_std_mev  b=json:final_performance_metrics.json:energy_resolution
+  [J:final_performance_metrics.json:energy_deposit_std_mev] 115.964  null-FP=3%  (json:final_performance_metrics.json:energy_deposit_s)
+        r4: a/b/0.1  a=json:comprehensive_comparison_metrics.json:linearity.errors[2]  b=json:comprehensive_performance_matrix.json:performance_matrix.Accordion (CsI).energy_resolution_error
+  [J:shashlik_performance_metrics.json:shashlik_containment_90_ra] 24.2424  null-FP=2%  (json:shashlik_performance_metrics.json:shashlik_cont)
+        r4: a/b*2.0  a=json:shashlik_performance_metrics.json:shashlik_containment_95_radius  b=json:optimal_configuration_analysis.json:target_criteria.resolution_range_percent[1]
+        r5: a*(1+b/100)  a=json:baseline_plots_results.json:containment_90_radius  b=json:shashlik_performance_metrics.json:containment_change_vs_baseline_percent
+        r5: a*(1+b/100)  a=json:comprehensive_comparison_metrics.json:containment_90.values[1]  b=json:shashlik_performance_metrics.json:containment_change_vs_projective_percent
+  [J:shashlik_performance_metrics.json:shashlik_containment_95_ra] 36.3636  null-FP=2%  (json:shashlik_performance_metrics.json:shashlik_cont)
+        r3: a/b  a=json:shashlik_performance_metrics.json:shashlik_containment_90_radius  b=json:shashlik_performance_metrics.json:ranking_scores[0]
+        r4: a/b*1.0  a=json:shashlik_performance_metrics.json:shashlik_containment_90_radius  b=json:shashlik_performance_metrics.json:ranking_scores[0]
+        r4: a/b/1.0  a=json:shashlik_performance_metrics.json:shashlik_containment_90_radius  b=json:shashlik_performance_metrics.json:ranking_scores[0]
+        ... multiplicity=5
+  [J:shashlik_performance_metrics.json:resolution_change_vs_basel] 6.99099  null-FP=0%  (json:shashlik_performance_metrics.json:resolution_ch)
+        r5: (a-b)/b*100  a=json:shashlik_performance_metrics.json:shashlik_energy_resolution  b=json:baseline_plots_results.json:energy_resolution
+  [J:shashlik_performance_metrics.json:linearity_change_vs_baseli] 911.627  null-FP=0%  (json:shashlik_performance_metrics.json:linearity_cha)
+        r5: (a-b)/b*100  a=json:comprehensive_comparison_metrics.json:linearity.values[2]  b=json:baseline_performance_metrics.json:linearity
+        r5: (a-b)/b*100  a=json:comprehensive_comparison_metrics.json:linearity.values[2]  b=json:baseline_plots_results.json:linearity
+        r5: (a-b)/b*100  a=json:shashlik_performance_metrics.json:shashlik_linearity  b=json:baseline_plots_results.json:linearity
+  [J:shashlik_performance_metrics.json:containment_change_vs_base] -40.6114  null-FP=0%  (json:shashlik_performance_metrics.json:containment_c)
+        r5: (a-b)/b*100  a=json:shashlik_performance_metrics.json:shashlik_containment_90_radius  b=json:baseline_plots_results.json:containment_90_radius
+  [J:shashlik_performance_metrics.json:resolution_change_vs_proje] 71.905  null-FP=8%  (json:shashlik_performance_metrics.json:resolution_ch)
+        r4: a/b*5.0  a=log:accordion_csi_calorimeter/electron/None:sigma  b=log:baseline_calorimeter/electron/None:sigma
+        r5: (a-b)/b*100  a=json:shashlik_performance_metrics.json:shashlik_energy_resolution  b=json:comprehensive_comparison_metrics.json:energy_resolution.values[1]
+  [J:shashlik_performance_metrics.json:linearity_change_vs_projec] 382.719  null-FP=0%  (json:shashlik_performance_metrics.json:linearity_cha)
+        r5: (a-b)/b*100  a=json:comprehensive_comparison_metrics.json:linearity.values[2]  b=json:comprehensive_comparison_metrics.json:linearity.values[1]
+        r5: (a-b)/b*100  a=json:comprehensive_comparison_metrics.json:linearity.values[2]  b=json:projective_performance_metrics.json:projective_metrics.linearity
+        r5: (a-b)/b*100  a=json:shashlik_performance_metrics.json:shashlik_linearity  b=json:comprehensive_comparison_metrics.json:linearity.values[1]
+        ... multiplicity=4
+  [J:shashlik_performance_metrics.json:containment_change_vs_proj] -75.7576  null-FP=3%  (json:shashlik_performance_metrics.json:containment_c)
+        r5: (a-b)/b*100  a=json:shashlik_performance_metrics.json:shashlik_containment_90_radius  b=json:comprehensive_comparison_metrics.json:containment_90.values[1]
+        r5: a-b  a=json:shashlik_performance_metrics.json:shashlik_containment_90_radius  b=json:comprehensive_comparison_metrics.json:containment_90.values[1]
+  [J:optimal_configuration_analysis.json:optimal_performance.reso] 2.1184  null-FP=16%  (json:optimal_configuration_analysis.json:optimal_per)
+        r5: a/b*100  a=json:comprehensive_comparison_metrics.json:energy_resolution.values[3]  b=json:optimal_configuration_analysis.json:target_criteria.max_linearity_deviation
+        r5: a/b*100  a=json:comprehensive_performance_matrix.json:performance_matrix.Accordion (CsI).energy_resolution  b=json:optimal_configuration_analysis.json:target_criteria.max_linearity_deviation
+        r5: a/b*100  a=json:comprehensive_performance_matrix.json:performance_matrix.Accordion (CsI).linearity_error  b=json:comprehensive_comparison_metrics.json:linearity.values[3]
+        ... multiplicity=4
+  [J:optimal_configuration_analysis.json:all_configurations_score] 1.098  null-FP=88%  (json:optimal_configuration_analysis.json:all_configu)
+        r4: a/b/0.1  a=json:shashlik_performance_metrics.json:ranking_scores[1]  b=json:comprehensive_performance_matrix.json:overall_scores.Shashlik (BGO)
+  [J:projective_performance_metrics.json:projective_metrics.energ] 0.0213865  null-FP=3%  (json:projective_performance_metrics.json:projective_)
+        r5: a*(1+b/100)  a=json:baseline_plots_results.json:energy_resolution  b=json:projective_performance_metrics.json:performance_changes.resolution_change_percent
+  [J:projective_performance_metrics.json:performance_changes.reso] -37.763  null-FP=2%  (json:projective_performance_metrics.json:performance)
+        r5: (a-b)/b*100  a=json:projective_performance_metrics.json:projective_metrics.energy_resolution  b=json:baseline_performance_metrics.json:energy_resolution
+        r5: (a-b)/b*100  a=json:projective_performance_metrics.json:projective_metrics.energy_resolution  b=json:baseline_plots_results.json:energy_resolution
+        r5: (a-b)/b*100  a=json:projective_performance_metrics.json:projective_metrics.energy_resolution_error  b=json:baseline_performance_metrics.json:energy_resolution_error
+  [J:projective_performance_metrics.json:performance_changes.line] 109.568  null-FP=3%  (json:projective_performance_metrics.json:performance)
+        r5: (a-b)/b*100  a=json:comprehensive_comparison_metrics.json:linearity.values[1]  b=json:baseline_performance_metrics.json:linearity
+        r5: (a-b)/b*100  a=json:comprehensive_comparison_metrics.json:linearity.values[1]  b=json:baseline_plots_results.json:linearity
+        r5: (a-b)/b*100  a=json:projective_performance_metrics.json:projective_metrics.linearity  b=json:baseline_performance_metrics.json:linearity
+        ... multiplicity=4
+  [J:projective_performance_metrics.json:performance_changes.cont] 144.978  null-FP=1%  (json:projective_performance_metrics.json:performance)
+        r5: (a-b)/b*100  a=json:comprehensive_comparison_metrics.json:containment_90.values[1]  b=json:baseline_plots_results.json:containment_90_radius
+  [J:comprehensive_performance_matrix.json:overall_scores.Project] 2.2  null-FP=37%  (json:comprehensive_performance_matrix.json:overall_s)
+        r2: mean(json:comprehensive_performance_matrix.json:ranking_matrix[0][]+[1.0])
+  [J:comprehensive_performance_matrix.json:overall_scores.Accordi] 1.6  null-FP=42%  (json:comprehensive_performance_matrix.json:overall_s)
+        r2: mean(json:comprehensive_comparison_metrics.json:linearity.values[]+[1.0])
+        r2: std(json:comprehensive_comparison_metrics.json:linearity.values[]+[1.0])
+        r2: std(json:comprehensive_comparison_metrics.json:linearity.values[]drop[0]+[1.0])
+  CORROBORATED family: json:comprehensive_comparison_metrics.json:linearity.values[]+[1.0])  joint-null<=17.6% (product of marginals)  measured joint-null=0.0%
+      mean: [J:comprehensive_performance_matrix.json:overall_scores.Accordi] 1.6  (json:comprehensive_performance_matrix.json:overa)
+      std: [J:comprehensive_performance_matrix.json:overall_scores.Accordi] 1.6  (json:comprehensive_performance_matrix.json:overa)
+  summary: 14 log-verified, 102 json-copies, 28 diagnosed-by-formula, 64 unexplained/ambiguous
+
+### celev4/higgs: pool=12 quantities (0 log-derived), 0 families, 75 targets
+  summary: 0 log-verified, 14 json-copies, 0 diagnosed-by-formula, 61 unexplained/ambiguous
+
+### celev4/muon: pool=55 quantities (26 log-derived), 13 families, 86 targets
+  [J:baseline_performance_metrics.json:muon_mean_edep[0]] 1814.3  null-FP=10%  (json:baseline_performance_metrics.json:muon_mean_ede)
+        r2: mean(json:baseline_performance_metrics.json:muon_mean_edep[])
+  [J:baseline_performance_metrics.json:muon_mean_edep[1]] 1814.3  null-FP=10%  (json:baseline_performance_metrics.json:muon_mean_ede)
+        r2: mean(json:baseline_performance_metrics.json:muon_mean_edep[])
+  [J:baseline_performance_metrics.json:muon_mean_edep[2]] 1814.3  null-FP=10%  (json:baseline_performance_metrics.json:muon_mean_ede)
+        r2: mean(json:baseline_performance_metrics.json:muon_mean_edep[])
+  [J:baseline_performance_metrics.json:muon_mean_edep[3]] 1814.3  null-FP=10%  (json:baseline_performance_metrics.json:muon_mean_ede)
+        r2: mean(json:baseline_performance_metrics.json:muon_mean_edep[])
+  [J:baseline_performance_metrics.json:pion_mean_edep[0]] 75217.4  null-FP=0%  (json:baseline_performance_metrics.json:pion_mean_ede)
+        r2: mean(json:baseline_performance_metrics.json:pion_mean_edep[])
+  [J:baseline_performance_metrics.json:pion_mean_edep[1]] 75217.4  null-FP=0%  (json:baseline_performance_metrics.json:pion_mean_ede)
+        r2: mean(json:baseline_performance_metrics.json:pion_mean_edep[])
+  [J:baseline_performance_metrics.json:pion_mean_edep[2]] 75217.4  null-FP=0%  (json:baseline_performance_metrics.json:pion_mean_ede)
+        r2: mean(json:baseline_performance_metrics.json:pion_mean_edep[])
+  [J:baseline_performance_metrics.json:pion_mean_edep[3]] 75217.4  null-FP=0%  (json:baseline_performance_metrics.json:pion_mean_ede)
+        r2: mean(json:baseline_performance_metrics.json:pion_mean_edep[])
+  [J:baseline_performance_metrics.json:energy_resolution_muon[0]] 2.19684  null-FP=1%  (json:baseline_performance_metrics.json:energy_resolu)
+        r2: mean(json:baseline_performance_metrics.json:energy_resolution_muon[])
+  [J:baseline_performance_metrics.json:energy_resolution_muon[1]] 2.19684  null-FP=1%  (json:baseline_performance_metrics.json:energy_resolu)
+        r2: mean(json:baseline_performance_metrics.json:energy_resolution_muon[])
+  [J:baseline_performance_metrics.json:energy_resolution_muon[2]] 2.19684  null-FP=1%  (json:baseline_performance_metrics.json:energy_resolu)
+        r2: mean(json:baseline_performance_metrics.json:energy_resolution_muon[])
+  [J:baseline_performance_metrics.json:energy_resolution_muon[3]] 2.19684  null-FP=1%  (json:baseline_performance_metrics.json:energy_resolu)
+        r2: mean(json:baseline_performance_metrics.json:energy_resolution_muon[])
+  [J:baseline_performance_metrics.json:energy_resolution_pion[0]] 0.255116  null-FP=0%  (json:baseline_performance_metrics.json:energy_resolu)
+        r2: mean(json:baseline_performance_metrics.json:energy_resolution_pion[])
+  [J:baseline_performance_metrics.json:energy_resolution_pion[1]] 0.255116  null-FP=0%  (json:baseline_performance_metrics.json:energy_resolu)
+        r2: mean(json:baseline_performance_metrics.json:energy_resolution_pion[])
+  [J:baseline_performance_metrics.json:energy_resolution_pion[2]] 0.255116  null-FP=0%  (json:baseline_performance_metrics.json:energy_resolu)
+        r2: mean(json:baseline_performance_metrics.json:energy_resolution_pion[])
+  [J:baseline_performance_metrics.json:energy_resolution_pion[3]] 0.255116  null-FP=0%  (json:baseline_performance_metrics.json:energy_resolu)
+        r2: mean(json:baseline_performance_metrics.json:energy_resolution_pion[])
+  [J:configuration_comparison_summary.json:configurations.baselin] 0.979  null-FP=25%  (json:configuration_comparison_summary.json:configura)
+        r2: mean(json:baseline_performance_plots_summary.json:energy_dependent_pion_rejection[])
+  [J:configuration_comparison_summary.json:configurations.baselin] 0.0045342  null-FP=3%  (json:configuration_comparison_summary.json:configura)
+        r4: a/b*2.0  a=json:baseline_performance_plots_summary.json:overall_pion_rejection_error  b=json:baseline_performance_metrics.json:muon_efficiency[0]
+        r4: a/b/0.1  a=json:baseline_performance_plots_summary.json:overall_pion_rejection_error  b=json:baseline_performance_metrics.json:energies[0]
+        r5: a*(1+b/100)  a=json:baseline_performance_plots_summary.json:overall_pion_rejection_error  b=json:baseline_performance_metrics.json:energies[3]
+        ... multiplicity=4
+  [J:baseline_performance_plots_summary.json:overall_pion_rejecti] 0.979  null-FP=25%  (json:baseline_performance_plots_summary.json:overall)
+        r2: mean(json:baseline_performance_plots_summary.json:energy_dependent_pion_rejection[])
+  [J:baseline_performance_plots_summary.json:energy_dependent_pio] 0.979  null-FP=25%  (json:baseline_performance_plots_summary.json:energy_)
+        r2: mean(json:baseline_performance_plots_summary.json:energy_dependent_pion_rejection[])
+  [J:baseline_performance_plots_summary.json:energy_dependent_pio] 0.979  null-FP=25%  (json:baseline_performance_plots_summary.json:energy_)
+        r2: mean(json:baseline_performance_plots_summary.json:energy_dependent_pion_rejection[])
+  [J:baseline_performance_plots_summary.json:energy_dependent_pio] 0.979  null-FP=25%  (json:baseline_performance_plots_summary.json:energy_)
+        r2: mean(json:baseline_performance_plots_summary.json:energy_dependent_pion_rejection[])
+  [J:baseline_performance_plots_summary.json:energy_dependent_pio] 0.979  null-FP=25%  (json:baseline_performance_plots_summary.json:energy_)
+        r2: mean(json:baseline_performance_plots_summary.json:energy_dependent_pion_rejection[])
+  summary: 3 log-verified, 34 json-copies, 23 diagnosed-by-formula, 26 unexplained/ambiguous
+
+### celev4/tof: pool=36 quantities (24 log-derived), 0 families, 105 targets
+  [R0010] 139.6  null-FP=22%  (stem capable of reliably distinguishing between pion)
+        r4: a/b*5.0  a=log:cylindrical_tof/pip/None:total_hits  b=log:baseline_planar_tof/kaonp/None:sigma
+  [R0074] 111.8  null-FP=34%  ( range for completeness) showed:  - Timing resolutio)
+        r5: (a-b)/b*100  a=json:tof_design_selection.json:all_scores.baseline_planar  b=json:tof_design_selection.json:selection_criteria_weights.timing_resolution
+  summary: 8 log-verified, 6 json-copies, 2 diagnosed-by-formula, 89 unexplained/ambiguous
+
+### celev4/tracking: pool=68 quantities (17 log-derived), 1 families, 168 targets
+  [R0004] 0.1  null-FP=0%  (ergy resolution of 0.347 ± 0.008, hit efficiency of )
+        r2: std(json:comprehensive_performance_comparison.json:performance_scores[])
+  [R0015] 0.1  null-FP=0%  (sses the constraint that energy deposits should appr)
+        r2: std(json:comprehensive_performance_comparison.json:performance_scores[])
+  [R0031] 0.1  null-FP=0%  ( | 0.347 | ± 0.008 | | Hit Detection Efficiency | 99)
+        r2: std(json:comprehensive_performance_comparison.json:performance_scores[])
+  [R0036] 0.1  null-FP=0%  ( measured energy deposit of 0.437 MeV exceeds the ex)
+        r2: std(json:comprehensive_performance_comparison.json:performance_scores[])
+  [R0043] 0.1  null-FP=0%  ((degraded) | | Hit Detection Efficiency | 100.0% ± 0)
+        r2: std(json:comprehensive_performance_comparison.json:performance_scores[])
+  [R0068] 0.1  null-FP=0%  ( most configurations) exceed theoretical MIP expecta)
+        r2: std(json:comprehensive_performance_comparison.json:performance_scores[])
+  [J:baseline_performance_metrics.json:silicon_material_budget_x0] 0.0128068  null-FP=0%  (json:baseline_performance_metrics.json:silicon_mater)
+        r5: a-b  a=json:baseline_performance_metrics.json:total_material_budget_x0  b=json:baseline_performance_metrics.json:air_material_budget_x0
+  [J:baseline_performance_metrics.json:air_material_budget_x0] 0.000657462  null-FP=0%  (json:baseline_performance_metrics.json:air_material_)
+        r5: a-b  a=json:baseline_performance_metrics.json:total_material_budget_x0  b=json:baseline_performance_metrics.json:silicon_material_budget_x0
+  [J:thickness_optimization_metrics.json:optimized_thickness.ener] 0.0104533  null-FP=3%  (json:thickness_optimization_metrics.json:optimized_t)
+        r5: a*(1+b/100)  a=json:baseline_performance_metrics.json:energy_resolution_error  b=json:thickness_optimization_metrics.json:comparisons.resolution_change_vs_baseline_percent
+        r5: a*(1+b/100)  a=json:cylindrical_performance_metrics.json:cylindrical_performance.energy_resolution_error  b=json:thickness_optimization_metrics.json:comparisons.resolution_change_vs_cylindrical_percent
+  [J:thickness_optimization_metrics.json:comparisons.resolution_c] 34.7714  null-FP=2%  (json:thickness_optimization_metrics.json:comparisons)
+        r5: (a-b)/b*100  a=json:thickness_optimization_metrics.json:optimized_thickness.energy_resolution  b=json:final_optimization_results.json:configurations.baseline_planar.energy_resolution
+  [J:thickness_optimization_metrics.json:comparisons.resolution_c] 7.21901  null-FP=0%  (json:thickness_optimization_metrics.json:comparisons)
+        r5: (a-b)/b*100  a=json:thickness_optimization_metrics.json:optimized_thickness.energy_resolution  b=json:final_optimization_results.json:configurations.cylindrical_barrel.energy_resolution
+  [J:thickness_optimization_metrics.json:comparisons.efficiency_c] 0.1001  null-FP=53%  (json:thickness_optimization_metrics.json:comparisons)
+        r4: a/b*0.1  a=json:baseline_performance_metrics.json:hit_efficiency_error  b=json:final_optimization_results.json:configurations.baseline_planar.hit_efficiency_error
+        r4: a/b*0.1  a=json:final_optimization_results.json:configurations.cylindrical_barrel.hit_efficiency  b=json:baseline_performance_metrics.json:hit_detection_efficiency
+        r5: (a-b)/b*100  a=json:final_optimization_results.json:configurations.cylindrical_barrel.hit_efficiency  b=json:baseline_performance_metrics.json:hit_detection_efficiency
+        ... multiplicity=4
+  [J:cylindrical_performance_metrics.json:comparison.energy_chang] 26.9044  null-FP=3%  (json:cylindrical_performance_metrics.json:comparison)
+        r5: (a-b)/b*100  a=json:cylindrical_performance_metrics.json:cylindrical_performance.mean_energy_deposit  b=json:final_optimization_results.json:configurations.baseline_planar.mean_energy_deposit
+        r5: (a-b)/b*100  a=json:final_optimization_results.json:configurations.cylindrical_barrel.mean_energy_deposit  b=json:final_optimization_results.json:configurations.baseline_planar.mean_energy_deposit
+  summary: 5 log-verified, 112 json-copies, 13 diagnosed-by-formula, 38 unexplained/ambiguous
+
+### celev7/calorimeter: pool=110 quantities (46 log-derived), 0 families, 183 targets
+  [R0049] 111.49  null-FP=26%  (---------|-------------------|-----------| | 10     )
+        r4: a/b/5.0  a=json:optimization_summary_results.json:configuration_scores.projective  b=json:baseline_performance_results.json:energy_points[2].resolution_err
+  [R0063] 126.6  null-FP=85%  (  | 0.113     |  **Summary Statistics:** - Mean reso)
+        r4: a/b*2.0  a=json:design_optimization_results.json:configurations.projective.energy_resolution  b=json:baseline_calorimeter_config.json:absorber_thickness_m
+        r4: a/b*2.0  a=json:tungsten_comparison_results.json:projective_avg_resolution  b=json:baseline_calorimeter_config.json:absorber_thickness_m
+        r4: a/b/0.1  a=json:tungsten_comparison_results.json:projective_compactness_factor  b=log:tungsten_barrel_geometry_retry/pip/50.0:res
+        ... multiplicity=5
+  [J:tungsten_comparison_results.json:tungsten_resolution_penalty] 8.30111  null-FP=0%  (json:tungsten_comparison_results.json:tungsten_resol)
+        r3: a/b  a=json:tungsten_comparison_results.json:tungsten_avg_resolution  b=json:tungsten_comparison_results.json:baseline_avg_resolution
+        r4: a/b*1.0  a=json:tungsten_comparison_results.json:tungsten_avg_resolution  b=json:tungsten_comparison_results.json:baseline_avg_resolution
+        r4: a/b/1.0  a=json:tungsten_comparison_results.json:tungsten_avg_resolution  b=json:tungsten_comparison_results.json:baseline_avg_resolution
+  [J:tungsten_comparison_results.json:baseline_depth_cm] 167.022  null-FP=4%  (json:tungsten_comparison_results.json:baseline_depth)
+        r4: a/b*2.0  a=json:optimization_summary_results.json:performance_metrics.baseline.depth_m  b=json:baseline_calorimeter_config.json:absorber_thickness_m
+  [J:design_optimization_results.json:configurations.tungsten.vol] 0.111952  null-FP=5%  (json:design_optimization_results.json:configurations)
+        r4: a/b*2.0  a=json:design_optimization_results.json:configurations.tungsten.cost_factor  b=json:baseline_performance_results.json:energy_points[1].energy_gev
+  [J:baseline_calorimeter_config.json:total_depth_m] 1.6701  null-FP=24%  (json:baseline_calorimeter_config.json:total_depth_m)
+        r4: a/b*2.0  a=json:tungsten_comparison_results.json:tungsten_resolution_penalty  b=json:baseline_calorimeter_config.json:total_interaction_lengths
+  [J:optimization_summary_results.json:performance_metrics.baseli] 1.67022  null-FP=4%  (json:optimization_summary_results.json:performance_m)
+        r4: a/b*0.1  a=json:tungsten_comparison_results.json:baseline_depth_cm  b=json:baseline_performance_results.json:energy_points[0].energy_gev
+        r4: a/b/2.0  a=json:tungsten_comparison_results.json:baseline_depth_cm  b=log:projective_geometry/pip/30.0:n_events
+        r5: a/b*100  a=json:tungsten_comparison_results.json:baseline_depth_cm  b=json:baseline_performance_results.json:energy_points[0].beam_energy_mev
+  [J:baseline_performance_results.json:energy_points[0].mean_edep] 8175.35  null-FP=0%  (json:baseline_performance_results.json:energy_points)
+        r3: a/b  a=json:baseline_performance_results.json:energy_points[0].std_edep_mev  b=json:baseline_performance_results.json:energy_points[0].resolution
+        r4: a/b*1.0  a=json:baseline_performance_results.json:energy_points[0].std_edep_mev  b=json:baseline_performance_results.json:energy_points[0].resolution
+        r4: a/b/1.0  a=json:baseline_performance_results.json:energy_points[0].std_edep_mev  b=json:baseline_performance_results.json:energy_points[0].resolution
+  [J:baseline_performance_results.json:energy_points[0].std_edep_] 781.41  null-FP=0%  (json:baseline_performance_results.json:energy_points)
+        r5: (a-b)/b*100  a=json:tungsten_comparison_results.json:projective_compactness_factor  b=log:tungsten_barrel_geometry_retry/pip/30.0:mu_per_mev
+  [J:baseline_performance_results.json:energy_points[0].resolutio] 0.0955812  null-FP=0%  (json:baseline_performance_results.json:energy_points)
+        r3: a/b  a=json:baseline_performance_results.json:energy_points[0].std_edep_mev  b=json:baseline_performance_results.json:energy_points[0].mean_edep_mev
+        r4: a/b*1.0  a=json:baseline_performance_results.json:energy_points[0].std_edep_mev  b=json:baseline_performance_results.json:energy_points[0].mean_edep_mev
+        r4: a/b*2.0  a=json:baseline_performance_results.json:energy_points[0].resolution_err  b=json:baseline_calorimeter_config.json:absorber_thickness_m
+        ... multiplicity=4
+  [J:baseline_performance_results.json:energy_points[0].resolutio] 0.000955812  null-FP=0%  (json:baseline_performance_results.json:energy_points)
+        r4: a/b*0.1  a=json:baseline_performance_results.json:energy_points[0].resolution  b=json:baseline_performance_results.json:energy_points[0].energy_gev
+        r4: a/b/2.0  a=json:baseline_performance_results.json:energy_points[0].resolution  b=log:projective_geometry/pip/30.0:n_events
+        r5: a/b*100  a=json:baseline_performance_results.json:energy_points[0].resolution  b=json:baseline_performance_results.json:energy_points[0].beam_energy_mev
+  [J:baseline_performance_results.json:energy_points[0].linearity] 0.817535  null-FP=1%  (json:baseline_performance_results.json:energy_points)
+        r3: a/b  a=json:baseline_performance_results.json:energy_points[0].mean_edep_mev  b=json:baseline_performance_results.json:energy_points[0].beam_energy_mev
+        r4: a/b*1.0  a=json:baseline_performance_results.json:energy_points[0].mean_edep_mev  b=json:baseline_performance_results.json:energy_points[0].beam_energy_mev
+        r4: a/b*5.0  a=json:baseline_performance_results.json:energy_points[0].mean_edep_mev  b=json:baseline_performance_results.json:energy_points[2].beam_energy_mev
+        ... multiplicity=5
+  [J:baseline_performance_results.json:energy_points[1].mean_edep] 25111.1  null-FP=2%  (json:baseline_performance_results.json:energy_points)
+        r3: a/b  a=json:baseline_performance_results.json:energy_points[1].std_edep_mev  b=json:baseline_performance_results.json:energy_points[1].resolution
+        r4: a/b*1.0  a=json:baseline_performance_results.json:energy_points[1].std_edep_mev  b=json:baseline_performance_results.json:energy_points[1].resolution
+        r4: a/b/1.0  a=json:baseline_performance_results.json:energy_points[1].std_edep_mev  b=json:baseline_performance_results.json:energy_points[1].resolution
+  [J:baseline_performance_results.json:energy_points[1].resolutio] 0.0772675  null-FP=4%  (json:baseline_performance_results.json:energy_points)
+        r3: a/b  a=json:baseline_performance_results.json:energy_points[1].std_edep_mev  b=json:baseline_performance_results.json:energy_points[1].mean_edep_mev
+        r4: a/b*1.0  a=json:baseline_performance_results.json:energy_points[1].std_edep_mev  b=json:baseline_performance_results.json:energy_points[1].mean_edep_mev
+        r4: a/b*2.0  a=json:baseline_performance_results.json:energy_points[1].resolution_err  b=json:baseline_calorimeter_config.json:absorber_thickness_m
+        ... multiplicity=4
+  [J:baseline_performance_results.json:energy_points[1].resolutio] 0.000772675  null-FP=2%  (json:baseline_performance_results.json:energy_points)
+        r4: a/b*0.1  a=json:baseline_performance_results.json:energy_points[1].resolution  b=json:baseline_performance_results.json:energy_points[0].energy_gev
+        r4: a/b/2.0  a=json:baseline_performance_results.json:energy_points[1].resolution  b=log:projective_geometry/pip/30.0:n_events
+        r5: a/b*100  a=json:baseline_performance_results.json:energy_points[1].resolution  b=json:baseline_performance_results.json:energy_points[0].beam_energy_mev
+  [J:baseline_performance_results.json:energy_points[1].linearity] 0.837036  null-FP=0%  (json:baseline_performance_results.json:energy_points)
+        r3: a/b  a=json:baseline_performance_results.json:energy_points[1].mean_edep_mev  b=json:baseline_performance_results.json:energy_points[1].beam_energy_mev
+        r4: a/b*1.0  a=json:baseline_performance_results.json:energy_points[1].mean_edep_mev  b=json:baseline_performance_results.json:energy_points[1].beam_energy_mev
+        r4: a/b/1.0  a=json:baseline_performance_results.json:energy_points[1].mean_edep_mev  b=json:baseline_performance_results.json:energy_points[1].beam_energy_mev
+  [J:baseline_performance_results.json:energy_points[2].mean_edep] 42250.1  null-FP=1%  (json:baseline_performance_results.json:energy_points)
+        r3: a/b  a=json:baseline_performance_results.json:energy_points[2].std_edep_mev  b=json:baseline_performance_results.json:energy_points[2].resolution
+        r4: a/b*1.0  a=json:baseline_performance_results.json:energy_points[2].std_edep_mev  b=json:baseline_performance_results.json:energy_points[2].resolution
+        r4: a/b/1.0  a=json:baseline_performance_results.json:energy_points[2].std_edep_mev  b=json:baseline_performance_results.json:energy_points[2].resolution
+  [J:baseline_performance_results.json:energy_points[2].resolutio] 0.0707178  null-FP=0%  (json:baseline_performance_results.json:energy_points)
+        r3: a/b  a=json:baseline_performance_results.json:energy_points[2].std_edep_mev  b=json:baseline_performance_results.json:energy_points[2].mean_edep_mev
+        r4: a/b*1.0  a=json:baseline_performance_results.json:energy_points[2].std_edep_mev  b=json:baseline_performance_results.json:energy_points[2].mean_edep_mev
+        r4: a/b*2.0  a=json:baseline_performance_results.json:energy_points[2].resolution_err  b=json:baseline_calorimeter_config.json:absorber_thickness_m
+        ... multiplicity=4
+  [J:baseline_performance_results.json:energy_points[2].resolutio] 0.000707178  null-FP=1%  (json:baseline_performance_results.json:energy_points)
+        r4: a/b*0.1  a=json:baseline_performance_results.json:energy_points[2].resolution  b=json:baseline_performance_results.json:energy_points[0].energy_gev
+        r4: a/b/2.0  a=json:baseline_performance_results.json:energy_points[2].resolution  b=log:projective_geometry/pip/30.0:n_events
+        r5: a/b*100  a=json:baseline_performance_results.json:energy_points[2].resolution  b=json:baseline_performance_results.json:energy_points[0].beam_energy_mev
+  [J:baseline_performance_results.json:energy_points[2].linearity] 0.845002  null-FP=2%  (json:baseline_performance_results.json:energy_points)
+        r3: a/b  a=json:baseline_performance_results.json:energy_points[2].mean_edep_mev  b=json:baseline_performance_results.json:energy_points[2].beam_energy_mev
+        r4: a/b*0.1  a=json:baseline_performance_results.json:energy_points[2].mean_edep_mev  b=json:baseline_performance_results.json:energy_points[0].num_events
+        r4: a/b*1.0  a=json:baseline_performance_results.json:energy_points[2].mean_edep_mev  b=json:baseline_performance_results.json:energy_points[2].beam_energy_mev
+        ... multiplicity=5
+  TABLE-ROW UNSOURCED (2 high-precision cells, 0 verified): | 10           | 111.49         | 1.11                | 1,672.81          | 0.167     |
+  TABLE-ROW UNSOURCED (2 high-precision cells, 0 verified): | 30           | 130.39         | 1.30                | 3,789.70          | 0.126     |
+  TABLE-ROW UNSOURCED (2 high-precision cells, 0 verified): | 50           | 136.65         | 1.37                | 5,659.90          | 0.113     |
+  TABLE-ROW UNSOURCED (2 high-precision cells, 0 verified): | 10           | 61.07          | 0.61                | 4,805.40          | 0.481     |
+  TABLE-ROW UNSOURCED (2 high-precision cells, 0 verified): | 30           | 68.32          | 0.68                | 13,695.60         | 0.457     |
+  TABLE-ROW UNSOURCED (2 high-precision cells, 0 verified): | 50           | 70.42          | 0.70                | 22,513.40         | 0.450     |
+  TABLE-ROW UNSOURCED (2 high-precision cells, 0 verified): | Baseline (Fe) | 1.000           | 1.000           | 0.000        | 0.862      | **0.773**   |
+  summary: 10 log-verified, 55 json-copies, 20 diagnosed-by-formula, 98 unexplained/ambiguous
+
+### celev7/emcal: pool=215 quantities (61 log-derived), 48 families, 373 targets
+  [R0004] 1.49  null-FP=7%  (aterials, achieving energy resolutions of 3.30% at 0)
+        r2: mean(json:pbwo4_performance_plots.json:resolutions_percent[]drop[0]+[1.0])
+  [R0006] 0.95  null-FP=53%  (ergy resolutions of 3.30% at 0.5 GeV, 1.49% at 2.0 G)
+        r2: mean(json:material_comparison_plots.json:csi.linearities[])
+        r2: mean(json:material_comparison_results.json:csi_performance.linearity[])
+        r2: mean(json:materials_comparison_detailed.json:csi.linearities[])
+  [R0009] 0.0138  null-FP=0%  (block designs, with 38.7% better average energy reso)
+        r2: mean(json:geometry_comparison_results.json:projective_geometry.resolutions[])
+  [R0010] 0.0226  null-FP=19%  (gns, with 38.7% better average energy resolution (0.)
+        r2: mean(json:geometry_comparison_results.json:box_geometry.resolutions[])
+        r2: mean(json:material_comparison_plots.json:pbwo4.resolutions[])
+        r2: mean(json:material_comparison_results.json:pbwo4_performance.resolutions[])
+        ... multiplicity=5
+  [R0011] 0.9897  null-FP=90%  (nergy resolution (0.0138 vs 0.0226) and enhanced lin)
+        r2: mean(json:geometry_comparison_results.json:projective_geometry.linearities[])
+  [R0012] 0.9663  null-FP=94%  (lution (0.0138 vs 0.0226) and enhanced linearity (0.)
+        r2: mean(json:geometry_comparison_results.json:box_geometry.linearities[])
+        r2: mean(json:material_comparison_plots.json:pbwo4.linearities[])
+        r2: mean(json:material_comparison_results.json:pbwo4_performance.linearity[])
+        ... multiplicity=4
+  [R0052] 1.49  null-FP=7%  (3%   | 2.17%   | 2.20%   | 2.20%   | | PbWO₄    | 3.)
+        r2: mean(json:pbwo4_performance_plots.json:resolutions_percent[]drop[0]+[1.0])
+  [R0053] 0.95  null-FP=53%  (7%   | 2.20%   | 2.20%   | | PbWO₄    | 3.30%   | 1.)
+        r2: mean(json:material_comparison_plots.json:csi.linearities[])
+        r2: mean(json:material_comparison_results.json:csi_performance.linearity[])
+        r2: mean(json:materials_comparison_detailed.json:csi.linearities[])
+  [R0054] 2.26  null-FP=11%  (0%   | 2.20%   | | PbWO₄    | 3.30%   | 1.49%   | 0.)
+        r2: mean(json:pbwo4_performance_plots.json:resolutions_percent[])
+  [R0058] 2.25  null-FP=7%  (5%   | 2.26%   | | CsI      | 3.12%   | 1.95%   | 1.)
+        r2: mean(json:csi_performance_plots.json:resolutions_percent[])
+  [R0074] 0.9610  null-FP=92%  (-----|---------| | BGO      | 0.9625  | 0.9674  | 0.)
+        r2: mean(json:bgo_performance_plots.json:linearities[])
+        r2: mean(json:material_comparison_plots.json:bgo.linearities[])
+        r2: mean(json:material_comparison_results.json:bgo_performance.linearity[])
+        ... multiplicity=4
+  [R0078] 0.9663  null-FP=94%  (531  | 0.9610  | | PbWO₄    | 0.9678  | 0.9674  | 0.)
+        r2: mean(json:geometry_comparison_results.json:box_geometry.linearities[])
+        r2: mean(json:material_comparison_plots.json:pbwo4.linearities[])
+        r2: mean(json:material_comparison_results.json:pbwo4_performance.linearity[])
+        ... multiplicity=4
+  [R0082] 0.9543  null-FP=95%  (637  | 0.9663  | | CsI      | 0.9553  | 0.9548  | 0.)
+        r2: mean(json:material_comparison_plots.json:csi.linearities[])
+        r2: mean(json:material_comparison_results.json:csi_performance.linearity[])
+        r2: mean(json:materials_comparison_detailed.json:csi.linearities[])
+  [R0086] 0.87  null-FP=27%  (% - **PbWO₄:** Stochastic term a = 1.62%, Constant t)
+        r2: std(json:csi_performance_plots.json:resolutions_percent[]drop[2]+[1.0])
+  [R0089] 2.26  null-FP=11%  (-------|-------------------|-------------| | Single )
+        r2: mean(json:pbwo4_performance_plots.json:resolutions_percent[])
+  [R0090] 0.9663  null-FP=94%  (-------------------|-------------| | Single Block | )
+        r2: mean(json:geometry_comparison_results.json:box_geometry.linearities[])
+        r2: mean(json:material_comparison_plots.json:pbwo4.linearities[])
+        r2: mean(json:material_comparison_results.json:pbwo4_performance.linearity[])
+        ... multiplicity=4
+  [R0092] 0.9897  null-FP=90%  ( | 2.26% | 0.9663 | Baseline | | Projective Tower | )
+        r2: mean(json:geometry_comparison_results.json:projective_geometry.linearities[])
+  [R0106] 0.87  null-FP=27%  (duced fluctuations. The material's excellent constan)
+        r2: std(json:csi_performance_plots.json:resolutions_percent[]drop[2]+[1.0])
+  [R0110] 0.9897  null-FP=90%  (abling shower centroid corrections  The improved lin)
+        r2: mean(json:geometry_comparison_results.json:projective_geometry.linearities[])
+  [R0111] 0.9663  null-FP=94%  (wer centroid corrections  The improved linearity (0.)
+        r2: mean(json:geometry_comparison_results.json:box_geometry.linearities[])
+        r2: mean(json:material_comparison_plots.json:pbwo4.linearities[])
+        r2: mean(json:material_comparison_results.json:pbwo4_performance.linearity[])
+        ... multiplicity=4
+  [J:csi_performance_results.json:energy_points[0].mean_deposit_m] 477.666  null-FP=3%  (json:csi_performance_results.json:energy_points[0].m)
+        r3: a/b  a=json:csi_performance_results.json:energy_points[0].std_deposit_mev  b=json:csi_performance_results.json:energy_points[0].energy_resolution
+        r4: a/b*1.0  a=json:csi_performance_results.json:energy_points[0].std_deposit_mev  b=json:csi_performance_results.json:energy_points[0].energy_resolution
+        r4: a/b/1.0  a=json:csi_performance_results.json:energy_points[0].std_deposit_mev  b=json:csi_performance_results.json:energy_points[0].energy_resolution
+  [J:csi_performance_results.json:energy_points[0].resolution_err] 0.000312281  null-FP=3%  (json:csi_performance_results.json:energy_points[0].r)
+        r4: a/b*5.0  a=json:csi_performance_results.json:energy_points[0].energy_resolution  b=json:csi_performance_results.json:energy_points[0].beam_energy_mev
+        r4: a/b/2.0  a=json:csi_performance_results.json:energy_points[0].energy_resolution  b=log:bgo_box_calorimeter/electron/5.0:n_events
+  [J:csi_performance_results.json:energy_points[0].linearity] 0.955333  null-FP=6%  (json:csi_performance_results.json:energy_points[0].l)
+        r3: a/b  a=json:csi_performance_results.json:energy_points[0].mean_deposit_mev  b=json:csi_performance_results.json:energy_points[0].beam_energy_mev
+        r4: a/b*0.1  a=json:csi_performance_results.json:energy_points[0].mean_deposit_mev  b=log:bgo_box_calorimeter/electron/5.0:n_events
+        r4: a/b*1.0  a=json:csi_performance_results.json:energy_points[0].mean_deposit_mev  b=json:csi_performance_results.json:energy_points[0].beam_energy_mev
+        ... multiplicity=5
+  [J:csi_performance_results.json:energy_points[1].mean_deposit_m] 1909.55  null-FP=11%  (json:csi_performance_results.json:energy_points[1].m)
+        r3: a/b  a=json:csi_performance_results.json:energy_points[1].std_deposit_mev  b=json:csi_performance_results.json:energy_points[1].energy_resolution
+        r4: a/b*1.0  a=json:csi_performance_results.json:energy_points[1].std_deposit_mev  b=json:csi_performance_results.json:energy_points[1].energy_resolution
+        r4: a/b/1.0  a=json:csi_performance_results.json:energy_points[1].std_deposit_mev  b=json:csi_performance_results.json:energy_points[1].energy_resolution
+        ... multiplicity=4
+  [J:csi_performance_results.json:energy_points[1].energy_resolut] 0.0195246  null-FP=15%  (json:csi_performance_results.json:energy_points[1].e)
+        r3: a/b  a=json:csi_performance_results.json:energy_points[1].std_deposit_mev  b=json:csi_performance_results.json:energy_points[1].mean_deposit_mev
+        r4: a/b*1.0  a=json:csi_performance_results.json:energy_points[1].std_deposit_mev  b=json:csi_performance_results.json:energy_points[1].mean_deposit_mev
+        r4: a/b/1.0  a=json:csi_performance_results.json:energy_points[1].std_deposit_mev  b=json:csi_performance_results.json:energy_points[1].mean_deposit_mev
+        ... multiplicity=4
+  [J:csi_performance_results.json:energy_points[1].resolution_err] 0.000195246  null-FP=5%  (json:csi_performance_results.json:energy_points[1].r)
+        r4: a/b*5.0  a=json:csi_performance_results.json:energy_points[1].energy_resolution  b=json:csi_performance_results.json:energy_points[0].beam_energy_mev
+        r4: a/b/2.0  a=json:csi_performance_results.json:energy_points[1].energy_resolution  b=log:bgo_box_calorimeter/electron/5.0:n_events
+  [J:csi_performance_results.json:energy_points[1].linearity] 0.954775  null-FP=8%  (json:csi_performance_results.json:energy_points[1].l)
+        r3: a/b  a=json:csi_performance_results.json:energy_points[1].mean_deposit_mev  b=json:csi_performance_results.json:energy_points[1].beam_energy_mev
+        r4: a/b*1.0  a=json:csi_performance_results.json:energy_points[1].mean_deposit_mev  b=json:csi_performance_results.json:energy_points[1].beam_energy_mev
+        r4: a/b/1.0  a=json:csi_performance_results.json:energy_points[1].mean_deposit_mev  b=json:csi_performance_results.json:energy_points[1].beam_energy_mev
+  [J:csi_performance_results.json:energy_points[2].mean_deposit_m] 4763.59  null-FP=3%  (json:csi_performance_results.json:energy_points[2].m)
+        r3: a/b  a=json:csi_performance_results.json:energy_points[2].std_deposit_mev  b=json:csi_performance_results.json:energy_points[2].energy_resolution
+        r4: a/b*1.0  a=json:csi_performance_results.json:energy_points[2].std_deposit_mev  b=json:csi_performance_results.json:energy_points[2].energy_resolution
+        r4: a/b/1.0  a=json:csi_performance_results.json:energy_points[2].std_deposit_mev  b=json:csi_performance_results.json:energy_points[2].energy_resolution
+  [J:csi_performance_results.json:energy_points[2].energy_resolut] 0.0168295  null-FP=8%  (json:csi_performance_results.json:energy_points[2].e)
+        r3: a/b  a=json:csi_performance_results.json:energy_points[2].std_deposit_mev  b=json:csi_performance_results.json:energy_points[2].mean_deposit_mev
+        r4: a/b*1.0  a=json:csi_performance_results.json:energy_points[2].std_deposit_mev  b=json:csi_performance_results.json:energy_points[2].mean_deposit_mev
+        r4: a/b/1.0  a=json:csi_performance_results.json:energy_points[2].std_deposit_mev  b=json:csi_performance_results.json:energy_points[2].mean_deposit_mev
+        ... multiplicity=4
+  [J:csi_performance_results.json:energy_points[2].resolution_err] 0.000168295  null-FP=8%  (json:csi_performance_results.json:energy_points[2].r)
+        r4: a/b*5.0  a=json:csi_performance_results.json:energy_points[2].energy_resolution  b=json:csi_performance_results.json:energy_points[0].beam_energy_mev
+        r4: a/b/2.0  a=json:csi_performance_results.json:energy_points[2].energy_resolution  b=log:bgo_box_calorimeter/electron/5.0:n_events
+  [J:csi_performance_results.json:energy_points[2].linearity] 0.952719  null-FP=4%  (json:csi_performance_results.json:energy_points[2].l)
+        r3: a/b  a=json:csi_performance_results.json:energy_points[2].mean_deposit_mev  b=json:csi_performance_results.json:energy_points[0].num_events
+        r4: a/b*0.1  a=json:csi_performance_results.json:energy_points[2].mean_deposit_mev  b=json:csi_performance_results.json:energy_points[0].beam_energy_mev
+        r4: a/b*1.0  a=json:csi_performance_results.json:energy_points[2].mean_deposit_mev  b=json:csi_performance_results.json:energy_points[0].num_events
+        ... multiplicity=4
+  [J:geometry_comparison_results.json:box_geometry.avg_resolution] 0.022577  null-FP=46%  (json:geometry_comparison_results.json:box_geometry.a)
+        r2: mean(json:geometry_comparison_results.json:box_geometry.resolutions[])
+        r2: mean(json:material_comparison_plots.json:pbwo4.resolutions[])
+        r2: mean(json:material_comparison_results.json:pbwo4_performance.resolutions[])
+        ... multiplicity=4
+  [J:geometry_comparison_results.json:box_geometry.avg_linearity] 0.9663  null-FP=94%  (json:geometry_comparison_results.json:box_geometry.a)
+        r2: mean(json:geometry_comparison_results.json:box_geometry.linearities[])
+        r2: mean(json:material_comparison_plots.json:pbwo4.linearities[])
+        r2: mean(json:material_comparison_results.json:pbwo4_performance.linearity[])
+        ... multiplicity=4
+  [J:geometry_comparison_results.json:projective_geometry.resolut] 0.0115569  null-FP=9%  (json:geometry_comparison_results.json:projective_geo)
+        r4: a/b/5.0  a=log:csi_box_calorimeter/electron/0.5:mu_per_mev  b=json:calorimeter_design_parameters.json:csi_mass_kg
+  [J:geometry_comparison_results.json:projective_geometry.resolut] 0.0131038  null-FP=7%  (json:geometry_comparison_results.json:projective_geo)
+        r3: a/b  a=json:csi_performance_results.json:energy_points[1].resolution_err  b=json:pbwo4_performance_plots.json:resolution_errors_percent[1]
+        r4: a/b*1.0  a=json:csi_performance_results.json:energy_points[1].resolution_err  b=json:pbwo4_performance_plots.json:resolution_errors_percent[1]
+        r4: a/b/1.0  a=json:csi_performance_results.json:energy_points[1].resolution_err  b=json:pbwo4_performance_plots.json:resolution_errors_percent[1]
+  [J:geometry_comparison_results.json:projective_geometry.lineari] 0.991571  null-FP=10%  (json:geometry_comparison_results.json:projective_geo)
+        r3: a/b  a=json:geometry_comparison_results.json:projective_geometry.mean_deposits[0]  b=json:csi_performance_results.json:energy_points[0].beam_energy_mev
+        r4: a/b*0.1  a=json:geometry_comparison_results.json:projective_geometry.mean_deposits[0]  b=log:bgo_box_calorimeter/electron/5.0:n_events
+        r4: a/b*1.0  a=json:geometry_comparison_results.json:projective_geometry.mean_deposits[0]  b=json:csi_performance_results.json:energy_points[0].beam_energy_mev
+        ... multiplicity=5
+  [J:geometry_comparison_results.json:projective_geometry.lineari] 0.989973  null-FP=5%  (json:geometry_comparison_results.json:projective_geo)
+        r3: a/b  a=json:geometry_comparison_results.json:projective_geometry.mean_deposits[1]  b=json:csi_performance_results.json:energy_points[1].beam_energy_mev
+        r4: a/b*1.0  a=json:geometry_comparison_results.json:projective_geometry.mean_deposits[1]  b=json:csi_performance_results.json:energy_points[1].beam_energy_mev
+        r4: a/b/1.0  a=json:geometry_comparison_results.json:projective_geometry.mean_deposits[1]  b=json:csi_performance_results.json:energy_points[1].beam_energy_mev
+        ... multiplicity=5
+  [J:geometry_comparison_results.json:projective_geometry.lineari] 0.987593  null-FP=7%  (json:geometry_comparison_results.json:projective_geo)
+        r3: a/b  a=json:geometry_comparison_results.json:projective_geometry.mean_deposits[2]  b=json:csi_performance_results.json:energy_points[0].num_events
+        r4: a/b*0.1  a=json:geometry_comparison_results.json:projective_geometry.mean_deposits[2]  b=json:csi_performance_results.json:energy_points[0].beam_energy_mev
+        r4: a/b*1.0  a=json:geometry_comparison_results.json:projective_geometry.mean_deposits[2]  b=json:csi_performance_results.json:energy_points[0].num_events
+        ... multiplicity=4
+  [J:geometry_comparison_results.json:projective_geometry.avg_res] 0.013835  null-FP=46%  (json:geometry_comparison_results.json:projective_geo)
+        r2: mean(json:geometry_comparison_results.json:projective_geometry.resolutions[])
+  [J:geometry_comparison_results.json:projective_geometry.avg_lin] 0.989713  null-FP=4%  (json:geometry_comparison_results.json:projective_geo)
+        r2: mean(json:geometry_comparison_results.json:projective_geometry.linearities[])
+  [J:geometry_comparison_results.json:improvements.linearity_diff] 0.0234126  null-FP=6%  (json:geometry_comparison_results.json:improvements.l)
+        r5: a-b  a=json:geometry_comparison_results.json:projective_geometry.avg_linearity  b=json:geometry_comparison_results.json:box_geometry.avg_linearity
+  [J:geometry_comparison_results.json:improvements.linearity_impr] 0.0225734  null-FP=10%  (json:geometry_comparison_results.json:improvements.l)
+        r5: a-b  a=json:geometry_comparison_results.json:projective_geometry.linearities[1]  b=json:geometry_comparison_results.json:box_geometry.linearities[1]
+  [J:material_comparison_results.json:pbwo4_performance.constant_] 0.87  null-FP=27%  (json:material_comparison_results.json:pbwo4_performa)
+        r2: std(json:csi_performance_plots.json:resolutions_percent[]drop[2]+[1.0])
+  [J:pbwo4_performance_plots.json:constant_term_percent] 0.87  null-FP=27%  (json:pbwo4_performance_plots.json:constant_term_perc)
+        r2: std(json:csi_performance_plots.json:resolutions_percent[]drop[2]+[1.0])
+  [J:pbwo4_performance_plots.json:resolution_errors_percent[2]] 0.0198  null-FP=3%  (json:pbwo4_performance_plots.json:resolution_errors_)
+        r2: std(json:material_comparison_plots.json:csi.linearities[]+[1.0])
+        r2: std(json:material_comparison_results.json:csi_performance.linearity[]+[1.0])
+        r2: std(json:materials_comparison_detailed.json:csi.linearities[]+[1.0])
+  [J:material_comparison_plots.json:bgo.avg_resolution] 0.0219863  null-FP=12%  (json:material_comparison_plots.json:bgo.avg_resoluti)
+        r2: mean(json:bgo_performance_plots.json:energy_resolutions[])
+        r2: mean(json:material_comparison_plots.json:bgo.resolutions[])
+        r2: mean(json:material_comparison_results.json:bgo_performance.resolutions[])
+        ... multiplicity=4
+  [J:material_comparison_plots.json:bgo.avg_linearity] 0.960967  null-FP=6%  (json:material_comparison_plots.json:bgo.avg_linearit)
+        r2: mean(json:bgo_performance_plots.json:linearities[])
+        r2: mean(json:material_comparison_plots.json:bgo.linearities[])
+        r2: mean(json:material_comparison_results.json:bgo_performance.linearity[])
+        ... multiplicity=4
+  [J:material_comparison_plots.json:pbwo4.avg_resolution] 0.022577  null-FP=46%  (json:material_comparison_plots.json:pbwo4.avg_resolu)
+        r2: mean(json:geometry_comparison_results.json:box_geometry.resolutions[])
+        r2: mean(json:material_comparison_plots.json:pbwo4.resolutions[])
+        r2: mean(json:material_comparison_results.json:pbwo4_performance.resolutions[])
+        ... multiplicity=4
+  [J:material_comparison_plots.json:pbwo4.avg_linearity] 0.9663  null-FP=94%  (json:material_comparison_plots.json:pbwo4.avg_linear)
+        r2: mean(json:geometry_comparison_results.json:box_geometry.linearities[])
+        r2: mean(json:material_comparison_plots.json:pbwo4.linearities[])
+        r2: mean(json:material_comparison_results.json:pbwo4_performance.linearity[])
+        ... multiplicity=4
+  [J:material_comparison_plots.json:csi.avg_resolution] 0.0225273  null-FP=8%  (json:material_comparison_plots.json:csi.avg_resoluti)
+        r2: mean(json:material_comparison_plots.json:csi.resolutions[])
+        r2: mean(json:material_comparison_results.json:csi_performance.resolutions[])
+        r2: mean(json:materials_comparison_detailed.json:csi.resolutions[])
+  [J:material_comparison_plots.json:csi.avg_linearity] 0.954267  null-FP=12%  (json:material_comparison_plots.json:csi.avg_linearit)
+        r2: mean(json:material_comparison_plots.json:csi.linearities[])
+        r2: mean(json:material_comparison_results.json:csi_performance.linearity[])
+        r2: mean(json:materials_comparison_detailed.json:csi.linearities[])
+  [J:bgo_performance_results.json:resolutions[0]] 0.0263094  null-FP=4%  (json:bgo_performance_results.json:resolutions[0])
+        r3: a/b  a=json:bgo_performance_results.json:detailed_results[0].std_deposit_mev  b=json:bgo_performance_results.json:mean_deposits_mev[0]
+        r4: a/b*1.0  a=json:bgo_performance_results.json:detailed_results[0].std_deposit_mev  b=json:bgo_performance_results.json:mean_deposits_mev[0]
+        r4: a/b/1.0  a=json:bgo_performance_results.json:detailed_results[0].std_deposit_mev  b=json:bgo_performance_results.json:mean_deposits_mev[0]
+        ... multiplicity=4
+  [J:bgo_performance_results.json:resolution_errors[0]] 0.000263094  null-FP=3%  (json:bgo_performance_results.json:resolution_errors[)
+        r4: a/b*5.0  a=json:bgo_performance_results.json:resolutions[0]  b=json:csi_performance_results.json:energy_points[0].beam_energy_mev
+        r4: a/b/2.0  a=json:bgo_performance_results.json:resolutions[0]  b=log:bgo_box_calorimeter/electron/5.0:n_events
+  [J:bgo_performance_results.json:resolution_errors[1]] 0.000217252  null-FP=2%  (json:bgo_performance_results.json:resolution_errors[)
+        r4: a/b*5.0  a=json:bgo_performance_results.json:resolutions[1]  b=json:csi_performance_results.json:energy_points[0].beam_energy_mev
+        r4: a/b/2.0  a=json:bgo_performance_results.json:resolutions[1]  b=log:bgo_box_calorimeter/electron/5.0:n_events
+  [J:bgo_performance_results.json:resolution_errors[2]] 0.000179252  null-FP=5%  (json:bgo_performance_results.json:resolution_errors[)
+        r4: a/b*5.0  a=json:bgo_performance_results.json:resolutions[2]  b=json:csi_performance_results.json:energy_points[0].beam_energy_mev
+        r4: a/b/2.0  a=json:bgo_performance_results.json:resolutions[2]  b=log:bgo_box_calorimeter/electron/5.0:n_events
+  [J:bgo_performance_results.json:detailed_results[0].std_deposit] 12.6609  null-FP=8%  (json:bgo_performance_results.json:detailed_results[0)
+        r4: a/b/5.0  a=json:geometry_comparison_results.json:box_geometry.resolutions[2]  b=json:material_comparison_plots.json:csi.resolution_errors[0]
+  [J:bgo_performance_results.json:detailed_results[0].linearity] 0.962464  null-FP=8%  (json:bgo_performance_results.json:detailed_results[0)
+        r3: a/b  a=json:bgo_performance_results.json:mean_deposits_mev[0]  b=json:csi_performance_results.json:energy_points[0].beam_energy_mev
+        r4: a/b*0.1  a=json:bgo_performance_results.json:mean_deposits_mev[0]  b=log:bgo_box_calorimeter/electron/5.0:n_events
+        r4: a/b*1.0  a=json:bgo_performance_results.json:mean_deposits_mev[0]  b=json:csi_performance_results.json:energy_points[0].beam_energy_mev
+        ... multiplicity=5
+  [J:bgo_performance_results.json:detailed_results[1].linearity] 0.961401  null-FP=4%  (json:bgo_performance_results.json:detailed_results[1)
+        r3: a/b  a=json:bgo_performance_results.json:mean_deposits_mev[1]  b=json:csi_performance_results.json:energy_points[1].beam_energy_mev
+        r4: a/b*1.0  a=json:bgo_performance_results.json:mean_deposits_mev[1]  b=json:csi_performance_results.json:energy_points[1].beam_energy_mev
+        r4: a/b/1.0  a=json:bgo_performance_results.json:mean_deposits_mev[1]  b=json:csi_performance_results.json:energy_points[1].beam_energy_mev
+        ... multiplicity=5
+  [J:pbwo4_performance_results.json:energy_points[0].resolution_e] 0.00033044  null-FP=16%  (json:pbwo4_performance_results.json:energy_points[0])
+        r4: a/b*5.0  a=json:geometry_comparison_results.json:box_geometry.resolutions[0]  b=json:csi_performance_results.json:energy_points[0].beam_energy_mev
+        r4: a/b*5.0  a=json:pbwo4_performance_results.json:energy_points[0].energy_resolution  b=json:csi_performance_results.json:energy_points[0].beam_energy_mev
+        r4: a/b/2.0  a=json:geometry_comparison_results.json:box_geometry.resolutions[0]  b=log:bgo_box_calorimeter/electron/5.0:n_events
+        ... multiplicity=4
+  [J:pbwo4_performance_results.json:energy_points[0].linearity] 0.967819  null-FP=8%  (json:pbwo4_performance_results.json:energy_points[0])
+        r3: a/b  a=json:pbwo4_performance_results.json:energy_points[0].mean_deposit_mev  b=json:csi_performance_results.json:energy_points[0].beam_energy_mev
+        r4: a/b*0.1  a=json:pbwo4_performance_results.json:energy_points[0].mean_deposit_mev  b=log:bgo_box_calorimeter/electron/5.0:n_events
+        r4: a/b*1.0  a=json:pbwo4_performance_results.json:energy_points[0].mean_deposit_mev  b=json:csi_performance_results.json:energy_points[0].beam_energy_mev
+        ... multiplicity=5
+  [J:pbwo4_performance_results.json:energy_points[1].resolution_e] 0.000149365  null-FP=2%  (json:pbwo4_performance_results.json:energy_points[1])
+        r4: a/b*5.0  a=json:pbwo4_performance_results.json:energy_points[1].energy_resolution  b=json:csi_performance_results.json:energy_points[0].beam_energy_mev
+        r4: a/b/2.0  a=json:pbwo4_performance_results.json:energy_points[1].energy_resolution  b=log:bgo_box_calorimeter/electron/5.0:n_events
+  [J:pbwo4_performance_results.json:energy_points[1].linearity] 0.967442  null-FP=5%  (json:pbwo4_performance_results.json:energy_points[1])
+        r3: a/b  a=json:pbwo4_performance_results.json:energy_points[1].mean_deposit_mev  b=json:csi_performance_results.json:energy_points[1].beam_energy_mev
+        r4: a/b*1.0  a=json:pbwo4_performance_results.json:energy_points[1].mean_deposit_mev  b=json:csi_performance_results.json:energy_points[1].beam_energy_mev
+        r4: a/b/1.0  a=json:pbwo4_performance_results.json:energy_points[1].mean_deposit_mev  b=json:csi_performance_results.json:energy_points[1].beam_energy_mev
+  [J:pbwo4_performance_results.json:energy_points[2].energy_resol] 0.0197512  null-FP=11%  (json:pbwo4_performance_results.json:energy_points[2])
+        r3: a/b  a=json:pbwo4_performance_results.json:energy_points[2].std_deposit_mev  b=json:pbwo4_performance_results.json:energy_points[2].mean_deposit_mev
+        r4: a/b*1.0  a=json:pbwo4_performance_results.json:energy_points[2].std_deposit_mev  b=json:pbwo4_performance_results.json:energy_points[2].mean_deposit_mev
+        r4: a/b/1.0  a=json:pbwo4_performance_results.json:energy_points[2].std_deposit_mev  b=json:pbwo4_performance_results.json:energy_points[2].mean_deposit_mev
+        ... multiplicity=4
+  [J:pbwo4_performance_results.json:energy_points[2].resolution_e] 0.000197512  null-FP=7%  (json:pbwo4_performance_results.json:energy_points[2])
+        r4: a/b*5.0  a=json:pbwo4_performance_results.json:energy_points[2].energy_resolution  b=json:csi_performance_results.json:energy_points[0].beam_energy_mev
+        r4: a/b/2.0  a=json:pbwo4_performance_results.json:energy_points[2].energy_resolution  b=log:bgo_box_calorimeter/electron/5.0:n_events
+  [J:csi_performance_plots.json:resolutions_percent[0]] 3.1228  null-FP=34%  (json:csi_performance_plots.json:resolutions_percent[)
+        r4: a/b*5.0  a=log:optimal_projective_tower_calorimeter_retry/electron/0.5:mu_per_mev  b=json:pbwo4_performance_plots.json:resolutions_percent[0]
+        r4: a/b/5.0  a=json:csi_performance_results.json:energy_points[0].std_deposit_mev  b=json:csi_performance_results.json:energy_points[0].linearity
+        r5: a/b*100  a=json:csi_performance_results.json:energy_points[0].energy_resolution  b=json:material_comparison_results.json:bgo_performance.meets_target_count
+        ... multiplicity=5
+  [J:csi_performance_plots.json:resolutions_percent[2]] 1.6829  null-FP=52%  (json:csi_performance_plots.json:resolutions_percent[)
+        r5: a/b*100  a=json:csi_performance_results.json:energy_points[2].energy_resolution  b=json:material_comparison_results.json:bgo_performance.meets_target_count
+        r5: a/b*100  a=json:csi_performance_results.json:energy_points[2].std_deposit_mev  b=json:csi_performance_results.json:energy_points[2].mean_deposit_mev
+        r5: a/b*100  a=json:material_comparison_results.json:csi_performance.resolutions[2]  b=json:material_comparison_results.json:bgo_performance.meets_target_count
+  summary: 3 log-verified, 175 json-copies, 66 diagnosed-by-formula, 129 unexplained/ambiguous
+
+### celev7/higgs: pool=72 quantities (0 log-derived), 0 families, 114 targets
+  [R0019] 0.9975  null-FP=53%  (ssing pipeline, with signal events showing a mean we)
+        r3: a/b  a=json:visualization_results.json:background_events  b=json:baseline_classifier_results.json:training_events
+        r4: a/b*1.0  a=json:visualization_results.json:background_events  b=json:baseline_classifier_results.json:training_events
+        r4: a/b/1.0  a=json:visualization_results.json:background_events  b=json:baseline_classifier_results.json:training_events
+  [R0052] 280.6  null-FP=42%  (, indicating good initial strategy - **Time Distribu)
+        r3: a/b  a=json:visualization_results.json:top_discriminating_variables[9][1]  b=json:baseline_classifier_results.json:feature_importance.has_jets
+        r4: a/b*1.0  a=json:visualization_results.json:top_discriminating_variables[9][1]  b=json:baseline_classifier_results.json:feature_importance.has_jets
+        r4: a/b/1.0  a=json:visualization_results.json:top_discriminating_variables[9][1]  b=json:baseline_classifier_results.json:feature_importance.has_jets
+  [J:baseline_classifier_results.json:feature_importance.PRI_tau_] 0.0254673  null-FP=0%  (json:baseline_classifier_results.json:feature_import)
+        r5: a*(1+b/100)  a=json:baseline_classifier_results.json:feature_importance.DER_delta_phi_tau_lep  b=json:baseline_classifier_results.json:feature_importance.DER_deltaeta_jet_jet
+        r5: a*(1+b/100)  a=json:baseline_classifier_results.json:feature_importance.DER_delta_phi_tau_lep  b=json:baseline_classifier_results.json:feature_importance.DER_pt_h
+  [J:baseline_classifier_results.json:feature_importance.mass_rat] 0.0236938  null-FP=1%  (json:baseline_classifier_results.json:feature_import)
+        r5: a*(1+b/100)  a=json:baseline_classifier_results.json:feature_importance.DER_pt_ratio_lep_tau  b=json:baseline_classifier_results.json:feature_importance.DER_mass_MMC
+  [J:visualization_summary.json:signal_fraction] 0.30106  null-FP=14%  (json:visualization_summary.json:signal_fraction)
+        r3: a/b  a=json:visualization_summary.json:signal_events  b=json:visualization_summary.json:total_events
+        r4: a/b*1.0  a=json:visualization_summary.json:signal_events  b=json:visualization_summary.json:total_events
+        r4: a/b/1.0  a=json:visualization_summary.json:signal_events  b=json:visualization_summary.json:total_events
+  [J:visualization_summary.json:background_fraction] 0.69894  null-FP=6%  (json:visualization_summary.json:background_fraction)
+        r3: a/b  a=json:visualization_summary.json:background_events  b=json:visualization_summary.json:total_events
+        r4: a/b*1.0  a=json:visualization_summary.json:background_events  b=json:visualization_summary.json:total_events
+        r4: a/b/1.0  a=json:visualization_summary.json:background_events  b=json:visualization_summary.json:total_events
+  summary: 0 log-verified, 6 json-copies, 6 diagnosed-by-formula, 102 unexplained/ambiguous
+
+### celev7/muon: pool=218 quantities (91 log-derived), 13 families, 296 targets
+  [R0002] 20  null-FP=27%  (Three detector topologies were evaluated: planar (4 )
+        r2: std(json:cylindrical_plotting_results.json:cylindrical_detector_performance.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_1_box.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_2_cylinder_barrel.energy_range_gev[]drop[0]+[1.0])
+        ... multiplicity=5
+  [R0003] 20  null-FP=27%  (ayers, 20 cm iron absorbers), cylindrical barrel (4 )
+        r2: std(json:cylindrical_plotting_results.json:cylindrical_detector_performance.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_1_box.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_2_cylinder_barrel.energy_range_gev[]drop[0]+[1.0])
+        ... multiplicity=5
+  [R0005] 20  null-FP=27%  (mulations using Geant4 were performed across energie)
+        r2: std(json:cylindrical_plotting_results.json:cylindrical_detector_performance.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_1_box.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_2_cylinder_barrel.energy_range_gev[]drop[0]+[1.0])
+        ... multiplicity=5
+  [R0018] 20  null-FP=27%  (Layers: 4 iron/plastic scintillator pairs - Iron thi)
+        r2: std(json:cylindrical_plotting_results.json:cylindrical_detector_performance.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_1_box.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_2_cylinder_barrel.energy_range_gev[]drop[0]+[1.0])
+        ... multiplicity=5
+  [R0022] 5.0  null-FP=40%  (ntillator thickness: 1.0 cm per layer - Total depth:)
+        r2: std(json:detector_comparison_results.json:pion_rejection_factors[]drop[0]+[1.0])
+  [R0023] 20  null-FP=27%  (Layers: 4 iron/plastic scintillator pairs - Iron thi)
+        r2: std(json:cylindrical_plotting_results.json:cylindrical_detector_performance.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_1_box.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_2_cylinder_barrel.energy_range_gev[]drop[0]+[1.0])
+        ... multiplicity=5
+  [R0027] 5.0  null-FP=40%  (or thickness: 1.0 cm per layer - Total radial depth:)
+        r2: std(json:detector_comparison_results.json:pion_rejection_factors[]drop[0]+[1.0])
+  [R0033] 20  null-FP=27%  (rticle types: Muons (μ⁻) and pions (π⁻) - Energy poi)
+        r2: std(json:cylindrical_plotting_results.json:cylindrical_detector_performance.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_1_box.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_2_cylinder_barrel.energy_range_gev[]drop[0]+[1.0])
+        ... multiplicity=5
+  [R0039] 20  null-FP=27%  (tion characteristics:  | Configuration | 5 GeV Resol)
+        r2: std(json:cylindrical_plotting_results.json:cylindrical_detector_performance.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_1_box.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_2_cylinder_barrel.energy_range_gev[]drop[0]+[1.0])
+        ... multiplicity=5
+  [R0055] 0.4628  null-FP=93%  (41 | 0.2980 | | Thick Absorber | 0.1413 | 0.4455 | 0)
+        r2: mean(json:thick_absorber_plotting_results.json:muon_performance.energy_resolutions[])
+  [R0056] 20  null-FP=27%  (among configurations:  | Configuration | 5 GeV Resol)
+        r2: std(json:cylindrical_plotting_results.json:cylindrical_detector_performance.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_1_box.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_2_cylinder_barrel.energy_range_gev[]drop[0]+[1.0])
+        ... multiplicity=5
+  [R0072] 0.1763  null-FP=100%  (9336 | 2.1361 | 1.9336 | 4.06 | | Thick Absorber | 0)
+        r2: mean(json:thick_absorber_plotting_results.json:pion_performance.energy_resolutions[])
+  [R0074] 0.1763  null-FP=100%  (9336 | 4.06 | | Thick Absorber | 0.1464 | 0.1763 | 0)
+        r2: mean(json:thick_absorber_plotting_results.json:pion_performance.energy_resolutions[])
+  [R0077] 20  null-FP=27%  ( **Muon Energy Deposition (MeV):** - Planar: 5 GeV ()
+        r2: std(json:cylindrical_plotting_results.json:cylindrical_detector_performance.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_1_box.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_2_cylinder_barrel.energy_range_gev[]drop[0]+[1.0])
+        ... multiplicity=5
+  [R0078] 249.16  null-FP=28%  (Energy Deposition (MeV):** - Planar: 5 GeV (62.29), )
+        r5: a*(1+b/100)  a=json:detector_comparison_results.json:detailed_metrics.cylindrical.muon_5gev_edep  b=json:thick_absorber_analysis_results.json:geometry.absorber_thickness_mm
+  [R0080] 622.90  null-FP=19%  ( (MeV):** - Planar: 5 GeV (62.29), 20 GeV (249.16), )
+        r4: a/b/0.1  a=json:detector_comparison_results.json:detailed_metrics.cylindrical.muon_5gev_edep  b=json:detector_configurations.json:config_1_box.active_thickness_cm
+  [R0082] 20  null-FP=27%  (GeV (249.16), 50 GeV (622.90) - Cylindrical: 5 GeV ()
+        r2: std(json:cylindrical_plotting_results.json:cylindrical_detector_performance.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_1_box.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_2_cylinder_barrel.energy_range_gev[]drop[0]+[1.0])
+        ... multiplicity=5
+  [R0083] 249.16  null-FP=28%  (.16), 50 GeV (622.90) - Cylindrical: 5 GeV (62.29), )
+        r5: a*(1+b/100)  a=json:detector_comparison_results.json:detailed_metrics.cylindrical.muon_5gev_edep  b=json:thick_absorber_analysis_results.json:geometry.absorber_thickness_mm
+  [R0085] 622.90  null-FP=19%  (.90) - Cylindrical: 5 GeV (62.29), 20 GeV (249.16), )
+        r4: a/b/0.1  a=json:detector_comparison_results.json:detailed_metrics.cylindrical.muon_5gev_edep  b=json:detector_configurations.json:config_1_box.active_thickness_cm
+  [R0087] 20  null-FP=27%  (249.16), 50 GeV (622.90) - Thick Absorber: 5 GeV (12)
+        r2: std(json:cylindrical_plotting_results.json:cylindrical_detector_performance.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_1_box.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_2_cylinder_barrel.energy_range_gev[]drop[0]+[1.0])
+        ... multiplicity=5
+  [R0092] 20  null-FP=27%  (**Pion Energy Deposition (MeV):** - Planar: 5 GeV (1)
+        r2: std(json:cylindrical_plotting_results.json:cylindrical_detector_performance.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_1_box.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_2_cylinder_barrel.energy_range_gev[]drop[0]+[1.0])
+        ... multiplicity=5
+  [R0097] 20  null-FP=27%  (V (407.33), 50 GeV (1017.33) - Cylindrical: 5 GeV (1)
+        r2: std(json:cylindrical_plotting_results.json:cylindrical_detector_performance.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_1_box.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_2_cylinder_barrel.energy_range_gev[]drop[0]+[1.0])
+        ... multiplicity=5
+  [R0102] 20  null-FP=27%  (07.33), 50 GeV (1017.33) - Thick Absorber: 5 GeV (39)
+        r2: std(json:cylindrical_plotting_results.json:cylindrical_detector_performance.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_1_box.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_2_cylinder_barrel.energy_range_gev[]drop[0]+[1.0])
+        ... multiplicity=5
+  [R0112] 20  null-FP=27%  (er, its limited pion rejection factor (1.72) indicat)
+        r2: std(json:cylindrical_plotting_results.json:cylindrical_detector_performance.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_1_box.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_2_cylinder_barrel.energy_range_gev[]drop[0]+[1.0])
+        ... multiplicity=5
+  [R0115] 20  null-FP=27%  (he effectiveness of increased absorber thickness (30)
+        r2: std(json:cylindrical_plotting_results.json:cylindrical_detector_performance.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_1_box.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_2_cylinder_barrel.energy_range_gev[]drop[0]+[1.0])
+        ... multiplicity=5
+  [R0118] 0.4628  null-FP=93%  (t the cost of increased muon energy resolution uncer)
+        r2: mean(json:thick_absorber_plotting_results.json:muon_performance.energy_resolutions[])
+  [R0121] 0.1763  null-FP=100%  (ficantly exceeding both planar (0.0434) and thick ab)
+        r2: mean(json:thick_absorber_plotting_results.json:pion_performance.energy_resolutions[])
+  [R0129] 5.0  null-FP=40%  (y and construction requirements - Moderate material )
+        r2: std(json:detector_comparison_results.json:pion_rejection_factors[]drop[0]+[1.0])
+  [R0134] 20  null-FP=27%  (The AI agent demonstrated high-quality execution acr)
+        r2: std(json:cylindrical_plotting_results.json:cylindrical_detector_performance.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_1_box.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_2_cylinder_barrel.energy_range_gev[]drop[0]+[1.0])
+        ... multiplicity=5
+  [R0136] 20  null-FP=27%  (ed workflow steps with 100% successful tool executio)
+        r2: std(json:cylindrical_plotting_results.json:cylindrical_detector_performance.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_1_box.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_2_cylinder_barrel.energy_range_gev[]drop[0]+[1.0])
+        ... multiplicity=5
+  [R0137] 20  null-FP=27%  (workflow steps with 100% successful tool execution r)
+        r2: std(json:cylindrical_plotting_results.json:cylindrical_detector_performance.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_1_box.energy_range_gev[]drop[0]+[1.0])
+        r2: std(json:detector_configurations.json:config_2_cylinder_barrel.energy_range_gev[]drop[0]+[1.0])
+        ... multiplicity=5
+  [J:planar_analysis_results.json:muon.5.0.resolution] 0.00441572  null-FP=5%  (json:planar_analysis_results.json:muon.5.0.resolutio)
+        r5: a/b*100  a=json:planar_analysis_results.json:muon.5.0.resolution_err  b=json:detector_configurations.json:config_1_box.active_thickness_cm
+  [J:planar_analysis_results.json:muon.50.0.resolution] 0.330639  null-FP=3%  (json:planar_analysis_results.json:muon.50.0.resoluti)
+        r5: a/b*100  a=json:planar_analysis_results.json:muon.50.0.resolution_err  b=json:detector_configurations.json:config_1_box.active_thickness_cm
+  [J:planar_analysis_results.json:pion.5.0.resolution] 0.0563829  null-FP=3%  (json:planar_analysis_results.json:pion.5.0.resolutio)
+        r5: a/b*100  a=json:planar_analysis_results.json:pion.5.0.resolution_err  b=json:detector_configurations.json:config_1_box.active_thickness_cm
+  [J:planar_analysis_results.json:pion.20.0.resolution] 0.0406501  null-FP=4%  (json:planar_analysis_results.json:pion.20.0.resoluti)
+        r5: a/b*100  a=json:planar_analysis_results.json:pion.20.0.resolution_err  b=json:detector_configurations.json:config_1_box.active_thickness_cm
+  [J:planar_analysis_results.json:pion.50.0.resolution] 0.0331005  null-FP=2%  (json:planar_analysis_results.json:pion.50.0.resoluti)
+        r5: a*(1+b/100)  a=json:detector_comparison_results.json:detailed_metrics.planar.pion_50gev_resolution  b=json:planar_analysis_results.json:muon.20.0.resolution_err
+        r5: a*(1+b/100)  a=json:detector_comparison_results.json:detailed_metrics.planar.pion_50gev_resolution  b=json:thick_absorber_analysis_results.json:analysis_results.5.0.muon_resolution_err
+        r5: a/b*100  a=json:planar_analysis_results.json:pion.50.0.resolution_err  b=json:detector_configurations.json:config_1_box.active_thickness_cm
+  [J:detector_comparison_results.json:average_muon_resolution[2]] 0.462767  null-FP=6%  (json:detector_comparison_results.json:average_muon_r)
+        r2: mean(json:thick_absorber_plotting_results.json:muon_performance.energy_resolutions[])
+  [J:detector_comparison_results.json:average_pion_resolution[2]] 0.1763  null-FP=100%  (json:detector_comparison_results.json:average_pion_r)
+        r2: mean(json:thick_absorber_plotting_results.json:pion_performance.energy_resolutions[])
+  [J:detector_comparison_results.json:pion_rejection_factors[0]] 1.71888  null-FP=7%  (json:detector_comparison_results.json:pion_rejection)
+        r3: a/b  a=json:detector_comparison_results.json:detailed_metrics.planar.pion_20gev_edep  b=json:detector_comparison_results.json:detailed_metrics.planar.muon_20gev_edep
+        r4: a/b*1.0  a=json:detector_comparison_results.json:detailed_metrics.planar.pion_20gev_edep  b=json:detector_comparison_results.json:detailed_metrics.planar.muon_20gev_edep
+        r4: a/b/1.0  a=json:detector_comparison_results.json:detailed_metrics.planar.pion_20gev_edep  b=json:detector_comparison_results.json:detailed_metrics.planar.muon_20gev_edep
+  [J:detector_comparison_results.json:detailed_metrics.planar.pio] 17905.7  null-FP=7%  (json:detector_comparison_results.json:detailed_metri)
+        r5: a*(1+b/100)  a=json:planar_analysis_results.json:pion.20.0.mean_edep  b=json:planar_analysis_results.json:muon.5.0.resolution_err
+        r5: a*(1+b/100)  a=json:planar_analysis_results.json:pion.20.0.mean_edep  b=json:planar_analysis_results.json:pion.20.0.resolution_err
+        r5: a*(1+b/100)  a=json:planar_analysis_results.json:pion.20.0.mean_edep  b=json:planar_analysis_results.json:pion.50.0.resolution_err
+  [J:detector_configurations.json:config_1_box.interaction_length] 8.92857  null-FP=2%  (json:detector_configurations.json:config_1_box.inter)
+        r4: a/b*0.1  a=json:detector_configurations.json:config_1_box.num_layers  b=json:detector_optimization_results.json:all_configurations.Cylindrical.total_depth
+        r4: a/b/2.0  a=json:detector_configurations.json:config_1_box.active_thickness_cm  b=json:detector_optimization_results.json:all_configurations.Cylindrical.total_depth
+  [J:detector_configurations.json:config_1_box.transverse_size_cm] 18964.2  null-FP=9%  (json:detector_configurations.json:config_1_box.trans)
+        r5: (a-b)/b*100  a=log:muon_spectrometer_retry/mum/20.0:mu  b=json:cylindrical_analysis_results.json:cylindrical_muon_50.0gev_resolution
+  [J:detector_optimization_results.json:performance_metrics.total] 9.009  null-FP=87%  (json:detector_optimization_results.json:performance_)
+        r4: a/b*5.0  a=log:planar_muon_spectrometer_retry/pim/50.0:res  b=json:planar_analysis_results.json:pion.20.0.resolution
+        r5: a*(1+b/100)  a=log:planar_muon_spectrometer_retry/pim/5.0:mu_per_mev  b=json:detector_comparison_results.json:detailed_metrics.cylindrical.pion_5gev_edep
+        r5: a/b*100  a=json:detector_comparison_results.json:average_muon_resolution[0]  b=log:thick_absorber_muon_spectrometer/pim/50.0:mu_per_mev
+  [J:detector_optimization_results.json:all_configurations.Thick_] 0.4628  null-FP=93%  (json:detector_optimization_results.json:all_configur)
+        r2: mean(json:thick_absorber_plotting_results.json:muon_performance.energy_resolutions[])
+  [J:cylindrical_analysis_results.json:cylindrical_muon_5.0gev_re] 0.265289  null-FP=4%  (json:cylindrical_analysis_results.json:cylindrical_m)
+        r5: a/b*100  a=json:cylindrical_analysis_results.json:cylindrical_muon_5.0gev_resolution_err  b=json:detector_configurations.json:config_1_box.active_thickness_cm
+  [J:cylindrical_analysis_results.json:cylindrical_pion_5.0gev_re] 1.63111  null-FP=9%  (json:cylindrical_analysis_results.json:cylindrical_p)
+        r5: a*(1+b/100)  a=json:detector_comparison_results.json:detailed_metrics.cylindrical.pion_5gev_resolution  b=json:planar_analysis_results.json:pion.20.0.resolution_err
+        r5: a*(1+b/100)  a=json:detector_comparison_results.json:detailed_metrics.cylindrical.pion_5gev_resolution  b=json:planar_analysis_results.json:pion.5.0.resolution_err
+        r5: a*(1+b/100)  a=json:detector_comparison_results.json:detailed_metrics.cylindrical.pion_5gev_resolution  b=json:planar_analysis_results.json:pion.50.0.resolution_err
+        ... multiplicity=4
+  [J:cylindrical_analysis_results.json:cylindrical_pion_5.0gev_me] 184.909  null-FP=10%  (json:cylindrical_analysis_results.json:cylindrical_p)
+        r5: a-b  a=json:detector_comparison_results.json:detailed_metrics.cylindrical.pion_5gev_edep  b=json:planar_analysis_results.json:muon.20.0.resolution_err
+        r5: a-b  a=json:detector_comparison_results.json:detailed_metrics.cylindrical.pion_5gev_edep  b=json:planar_analysis_results.json:pion.5.0.resolution_err
+        r5: a-b  a=json:detector_comparison_results.json:detailed_metrics.cylindrical.pion_5gev_edep  b=json:thick_absorber_analysis_results.json:analysis_results.5.0.muon_resolution_err
+        ... multiplicity=4
+  [J:cylindrical_analysis_results.json:cylindrical_muon_20.0gev_r] 0.31456  null-FP=35%  (json:cylindrical_analysis_results.json:cylindrical_m)
+        r3: a/b  a=log:planar_muon_spectrometer_retry/pim/20.0:res  b=log:thick_absorber_muon_spectrometer/pim/5.0:res
+        r4: a/b*1.0  a=log:planar_muon_spectrometer_retry/pim/20.0:res  b=log:thick_absorber_muon_spectrometer/pim/5.0:res
+        r4: a/b/1.0  a=log:planar_muon_spectrometer_retry/pim/20.0:res  b=log:thick_absorber_muon_spectrometer/pim/5.0:res
+        ... multiplicity=5
+  [J:cylindrical_analysis_results.json:cylindrical_pion_20.0gev_r] 1.96452  null-FP=9%  (json:cylindrical_analysis_results.json:cylindrical_p)
+        r5: a*(1+b/100)  a=json:detector_comparison_results.json:detailed_metrics.cylindrical.pion_20gev_resolution  b=log:muon_spectrometer_retry/mum/50.0:mu_per_mev
+        r5: a/b*100  a=json:cylindrical_analysis_results.json:cylindrical_pion_20.0gev_resolution_err  b=json:detector_configurations.json:config_1_box.active_thickness_cm
+  [J:cylindrical_analysis_results.json:cylindrical_muon_50.0gev_r] 0.313992  null-FP=13%  (json:cylindrical_analysis_results.json:cylindrical_m)
+        r5: a/b*100  a=json:cylindrical_analysis_results.json:cylindrical_muon_50.0gev_resolution_err  b=json:detector_configurations.json:config_1_box.active_thickness_cm
+  [J:cylindrical_analysis_results.json:cylindrical_pion_50.0gev_r] 2.20512  null-FP=10%  (json:cylindrical_analysis_results.json:cylindrical_p)
+        r5: a/b*100  a=json:cylindrical_analysis_results.json:cylindrical_pion_50.0gev_resolution_err  b=json:detector_configurations.json:config_1_box.active_thickness_cm
+  [J:cylindrical_analysis_results.json:cylindrical_pion_50.0gev_m] 330.478  null-FP=3%  (json:cylindrical_analysis_results.json:cylindrical_p)
+        r4: a/b/2.0  a=json:detector_comparison_results.json:detailed_metrics.thick_absorber.muon_5gev_edep  b=json:detector_comparison_results.json:detailed_metrics.cylindrical.pion_20gev_resolution
+  [J:thick_absorber_analysis_results.json:analysis_results.5.0.mu] 0.141261  null-FP=15%  (json:thick_absorber_analysis_results.json:analysis_r)
+        r5: a/b*100  a=json:thick_absorber_analysis_results.json:analysis_results.5.0.muon_resolution_err  b=json:detector_configurations.json:config_1_box.active_thickness_cm
+  [J:thick_absorber_analysis_results.json:analysis_results.20.0.m] 0.44546  null-FP=31%  (json:thick_absorber_analysis_results.json:analysis_r)
+        r5: a-b  a=json:detector_comparison_results.json:detailed_metrics.thick_absorber.muon_20gev_resolution  b=json:planar_analysis_results.json:muon.5.0.resolution_err
+        r5: a/b*100  a=json:thick_absorber_analysis_results.json:analysis_results.20.0.muon_resolution_err  b=json:detector_configurations.json:config_1_box.active_thickness_cm
+  [J:thick_absorber_analysis_results.json:analysis_results.50.0.m] 0.801481  null-FP=1%  (json:thick_absorber_analysis_results.json:analysis_r)
+        r5: a/b*100  a=json:thick_absorber_analysis_results.json:analysis_results.50.0.muon_resolution_err  b=json:detector_configurations.json:config_1_box.active_thickness_cm
+  [J:configuration_comparison_results.json:thick_absorber_muon_re] 0.4628  null-FP=93%  (json:configuration_comparison_results.json:thick_abs)
+        r2: mean(json:thick_absorber_plotting_results.json:muon_performance.energy_resolutions[])
+  summary: 16 log-verified, 160 json-copies, 56 diagnosed-by-formula, 64 unexplained/ambiguous
+
+### celev7/tof: pool=467 quantities (134 log-derived), 13 families, 485 targets
+  [R0005] 3.0  null-FP=34%  (r π⁺, K⁺, and proton particles at energies of 1.0, 2)
+        r2: mean(json:tof_theoretical_analysis.json:topology_recommendations.barrel_tof.thickness_range[])
+        r2: mean(json:tof_theoretical_analysis.json:topology_recommendations.endcap_tof.thickness_range[]+[1.0])
+  [R0030] 3.0  null-FP=34%  (Particle types**: π⁺, K⁺, protons - **Energies**: 1.)
+        r2: mean(json:tof_theoretical_analysis.json:topology_recommendations.barrel_tof.thickness_range[])
+        r2: mean(json:tof_theoretical_analysis.json:topology_recommendations.endcap_tof.thickness_range[]+[1.0])
+  [R0085] 1.75  null-FP=23%  (- K⁺: 2.05 ± 0.02 (1 GeV) to 3.85 ± 0.04 (3 GeV) - P)
+        r2: mean(json:cylindrical_detector_analysis.json:energy_points[]+[1.0])
+        r2: mean(json:cylindrical_tof_plots_summary.json:energy_range_gev[]+[1.0])
+        r2: mean(json:planar_tof_plots_summary.json:energies_analyzed[]+[1.0])
+        ... multiplicity=5
+  [J:segmented_tof_plots_summary.json:analysis_summary.overall_av] 3.27671  null-FP=43%  (json:segmented_tof_plots_summary.json:analysis_summa)
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_0.5GeV.tof_proton  b=json:cylindrical_detector_analysis.json:results_by_particle.pion[2].energy_resolution
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 5.19482  null-FP=26%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_0.5GeV.tof_pi  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_0.5GeV.tof_kaon  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_0.5GeV.sep_pi_kaon_ns
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_0.5GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_0.5GeV.sep_pi_proton_ns
+        ... multiplicity=4
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 7.03153  null-FP=24%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_0.5GeV.tof_kaon  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_0.5GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_0.5GeV.sep_kaon_proton_ns
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_0.5GeV.tof_kaon  b=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_0.5GeV.tof_kaon
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 10.6394  null-FP=67%  (json:tof_theoretical_analysis.json:timing_separation)
+        r4: a/b/0.1  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.5GeV.tof_proton  b=log:planar_tof_detector/kaonp/1.0:sigma
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_0.5GeV.tof_proton  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_0.5GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_0.5GeV.tof_proton
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 1.83671  null-FP=71%  (json:tof_theoretical_analysis.json:timing_separation)
+        r4: a/b/5.0  a=log:planar_tof_detector/kaonp/3.0:mu  b=log:cylindrical_tof_detector/pip/3.0:res
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_0.5GeV.sep_pi_kaon_ns  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_0.5GeV.sep_pi_proton_ns  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_0.5GeV.sep_kaon_proton_ns
+        ... multiplicity=5
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 3.60789  null-FP=40%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_0.5GeV.sep_kaon_proton_ns  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_0.5GeV.sep_pi_proton_ns  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_0.5GeV.sep_pi_kaon_ns
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_0.5GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_0.5GeV.tof_kaon
+        ... multiplicity=4
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 5.05198  null-FP=22%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_1.0GeV.tof_pi  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.0GeV.tof_kaon  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.0GeV.sep_pi_kaon_ns
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.0GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.0GeV.sep_pi_proton_ns
+        ... multiplicity=4
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 5.58001  null-FP=24%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_1.0GeV.tof_kaon  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.0GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.0GeV.sep_kaon_proton_ns
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_1.0GeV.tof_kaon  b=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_1.0GeV.tof_kaon
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 6.86114  null-FP=19%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_1.0GeV.tof_proton  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_1.0GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_1.0GeV.tof_proton
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 0.528034  null-FP=21%  (json:tof_theoretical_analysis.json:timing_separation)
+        r4: a/b/2.0  a=json:cylindrical_detector_analysis.json:results_by_particle.kaon[1].mean_edep_mev  b=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_1.0GeV.tof_kaon
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_1.0GeV.sep_pi_kaon_ns  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.0GeV.sep_pi_proton_ns  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.0GeV.sep_kaon_proton_ns
+        ... multiplicity=5
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 1.28113  null-FP=69%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_1.0GeV.sep_kaon_proton_ns  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.0GeV.sep_pi_proton_ns  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.0GeV.sep_pi_kaon_ns
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.0GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.0GeV.tof_kaon
+        ... multiplicity=4
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 1.80916  null-FP=62%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_1.0GeV.sep_pi_proton_ns  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.0GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.0GeV.tof_pi
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_1.0GeV.sep_pi_proton_ns  b=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_1.0GeV.sep_pi_proton_ns
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 5.90173  null-FP=27%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_1.5GeV.tof_proton  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_1.5GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_1.5GeV.tof_proton
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 0.242421  null-FP=35%  (json:tof_theoretical_analysis.json:timing_separation)
+        r4: a/b/2.0  a=log:segmented_tof_detector/kaonp/1.0:mu_per_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.kaon[2].linearity
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_1.5GeV.sep_pi_kaon_ns  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.5GeV.sep_pi_proton_ns  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.5GeV.sep_kaon_proton_ns
+        ... multiplicity=5
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 0.634231  null-FP=21%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_1.5GeV.sep_kaon_proton_ns  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.5GeV.sep_pi_proton_ns  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.5GeV.sep_pi_kaon_ns
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.5GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.5GeV.tof_kaon
+        ... multiplicity=4
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 0.876652  null-FP=19%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_1.5GeV.sep_pi_proton_ns  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.5GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.5GeV.tof_pi
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_1.5GeV.sep_pi_proton_ns  b=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_1.5GeV.sep_pi_proton_ns
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 5.01564  null-FP=31%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_2.0GeV.tof_pi  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.0GeV.tof_kaon  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.0GeV.sep_pi_kaon_ns
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.0GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.0GeV.sep_pi_proton_ns
+        ... multiplicity=4
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 5.15365  null-FP=31%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_2.0GeV.tof_kaon  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.0GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.0GeV.sep_kaon_proton_ns
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_2.0GeV.tof_kaon  b=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_2.0GeV.tof_kaon
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 5.52673  null-FP=22%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_2.0GeV.tof_proton  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_2.0GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_2.0GeV.tof_proton
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 0.138015  null-FP=34%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_2.0GeV.sep_pi_kaon_ns  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.0GeV.sep_pi_proton_ns  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.0GeV.sep_kaon_proton_ns
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.0GeV.tof_kaon  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.0GeV.tof_pi
+        ... multiplicity=4
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 0.373084  null-FP=33%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_2.0GeV.sep_kaon_proton_ns  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.0GeV.sep_pi_proton_ns  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.0GeV.sep_pi_kaon_ns
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.0GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.0GeV.tof_kaon
+        ... multiplicity=4
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 0.511099  null-FP=21%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_2.0GeV.sep_pi_proton_ns  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.0GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.0GeV.tof_pi
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_2.0GeV.sep_pi_proton_ns  b=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_2.0GeV.sep_pi_proton_ns
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 5.01126  null-FP=23%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_2.5GeV.tof_pi  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.5GeV.tof_kaon  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.5GeV.sep_pi_kaon_ns
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.5GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.5GeV.sep_pi_proton_ns
+        ... multiplicity=4
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 5.10009  null-FP=25%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_2.5GeV.tof_kaon  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a*(1+b/100)  a=log:planar_tof_detector/pip/1.0:sigma  b=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_3.0GeV.tof_kaon
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.5GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.5GeV.sep_kaon_proton_ns
+        ... multiplicity=5
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 5.34426  null-FP=32%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_2.5GeV.tof_proton  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_2.5GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_2.5GeV.tof_proton
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 0.0888357  null-FP=10%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_2.5GeV.sep_kaon_proton_ns  b=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_1.0GeV.tof_proton
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_2.5GeV.sep_pi_kaon_ns  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.5GeV.sep_pi_proton_ns  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.5GeV.sep_kaon_proton_ns
+        ... multiplicity=5
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 0.333006  null-FP=27%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_2.5GeV.sep_pi_proton_ns  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.5GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.5GeV.tof_pi
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_2.5GeV.sep_pi_proton_ns  b=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_2.5GeV.sep_pi_proton_ns
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 5.00888  null-FP=23%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_3.0GeV.tof_pi  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_3.0GeV.tof_kaon  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_3.0GeV.sep_pi_kaon_ns
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_3.0GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_3.0GeV.sep_pi_proton_ns
+        ... multiplicity=4
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 5.07076  null-FP=30%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_3.0GeV.tof_kaon  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_3.0GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_3.0GeV.sep_kaon_proton_ns
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_3.0GeV.tof_kaon  b=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_3.0GeV.tof_kaon
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 5.24248  null-FP=33%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_3.0GeV.tof_proton  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a*(1+b/100)  a=log:planar_tof_detector/kaonp/2.0:mu  b=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_1.0GeV.sep_pi_proton_ns
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_3.0GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_3.0GeV.tof_proton
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 0.0618855  null-FP=14%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_3.0GeV.sep_pi_kaon_ns  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_3.0GeV.sep_pi_proton_ns  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_3.0GeV.sep_kaon_proton_ns
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_3.0GeV.tof_kaon  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_3.0GeV.tof_pi
+        ... multiplicity=4
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 0.171718  null-FP=41%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_3.0GeV.sep_kaon_proton_ns  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_3.0GeV.sep_pi_proton_ns  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_3.0GeV.sep_pi_kaon_ns
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_3.0GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_3.0GeV.tof_kaon
+        ... multiplicity=4
+  [J:tof_theoretical_analysis.json:timing_separations.path_1.5m.p] 0.233604  null-FP=39%  (json:tof_theoretical_analysis.json:timing_separation)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_3.0GeV.sep_pi_proton_ns  b=log:cylindrical_tof_detector/pip/3.0:n_events
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_3.0GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_3.0GeV.tof_pi
+        r5: a-b  a=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_3.0GeV.sep_pi_proton_ns  b=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_3.0GeV.sep_pi_proton_ns
+  [J:planar_detector_analysis.json:particle_results.pip[0].moment] 0.990212  null-FP=18%  (json:planar_detector_analysis.json:particle_results.)
+        r3: a/b  a=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_1.5GeV.sep_kaon_proton_ns  b=json:topology_comparison_plots_summary.json:optimal_score
+        r4: a/b*1.0  a=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_1.5GeV.sep_kaon_proton_ns  b=json:topology_comparison_plots_summary.json:optimal_score
+        r4: a/b*2.0  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_1.5GeV.sep_kaon_proton_ns  b=json:topology_comparison_plots_summary.json:optimal_score
+        ... multiplicity=4
+  [J:planar_detector_analysis.json:particle_results.pip[0].tof_ns] 3.36861  null-FP=54%  (json:planar_detector_analysis.json:particle_results.)
+        r5: a-b  a=json:planar_detector_analysis.json:particle_results.kaonp[0].tof_ns  b=json:planar_detector_analysis.json:timing_separations.pi_kaon_1.0GeV
+  [J:planar_detector_analysis.json:particle_results.pip[0].std_ed] 11.4527  null-FP=67%  (json:planar_detector_analysis.json:particle_results.)
+        r4: a/b*2.0  a=log:cylindrical_tof_detector/kaonp/3.0:mu  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.5GeV.sep_pi_proton_ns
+  [J:planar_detector_analysis.json:particle_results.pip[1].mean_p] 74221.2  null-FP=7%  (json:planar_detector_analysis.json:particle_results.)
+        r4: a/b/0.1  a=json:planar_detector_analysis.json:particle_results.pip[1].mean_edep_mev  b=log:segmented_tof_detector/proton/2.0:mu_per_mev
+        r5: a*(1+b/100)  a=json:planar_detector_analysis.json:particle_results.proton[0].mean_photons  b=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_2.5GeV.sep_pi_kaon_ns
+  [J:planar_detector_analysis.json:particle_results.pip[2].moment] 2.99675  null-FP=38%  (json:planar_detector_analysis.json:particle_results.)
+        r5: a-b  a=json:tof_theoretical_analysis.json:topology_recommendations.endcap_tof.thickness_range[0]  b=json:cylindrical_detector_analysis.json:results_by_particle.pion[2].linearity
+        r5: a-b  a=json:tof_theoretical_analysis.json:topology_recommendations.endcap_tof.thickness_range[0]  b=log:cylindrical_tof_detector/kaonp/2.0:mu_per_mev
+  [J:planar_detector_analysis.json:particle_results.pip[2].tof_ns] 3.33926  null-FP=32%  (json:planar_detector_analysis.json:particle_results.)
+        r5: a-b  a=json:planar_detector_analysis.json:particle_results.kaonp[2].tof_ns  b=json:planar_detector_analysis.json:timing_separations.pi_kaon_3.0GeV
+  [J:planar_detector_analysis.json:particle_results.pip[2].std_ed] 26.5868  null-FP=24%  (json:planar_detector_analysis.json:particle_results.)
+        r4: a/b*0.1  a=json:planar_detector_analysis.json:particle_results.proton[0].mean_photons  b=log:planar_tof_detector/proton/1.0:total_hits
+  [J:planar_detector_analysis.json:particle_results.pip[2].mean_p] 75824.5  null-FP=4%  (json:planar_detector_analysis.json:particle_results.)
+        r4: a/b/0.1  a=json:planar_detector_analysis.json:particle_results.pip[2].mean_edep_mev  b=log:segmented_tof_detector/proton/2.0:mu_per_mev
+  [J:planar_detector_analysis.json:particle_results.kaonp[0].tof_] 3.83564  null-FP=31%  (json:planar_detector_analysis.json:particle_results.)
+        r5: a-b  a=json:planar_detector_analysis.json:particle_results.proton[0].tof_ns  b=json:planar_detector_analysis.json:timing_separations.kaon_proton_1.0GeV
+  [J:planar_detector_analysis.json:particle_results.kaonp[0].std_] 11.0138  null-FP=61%  (json:planar_detector_analysis.json:particle_results.)
+        r3: a/b  a=log:planar_tof_detector/kaonp/3.0:sigma  b=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_3.0GeV.tof_proton
+        r4: a/b*1.0  a=log:planar_tof_detector/kaonp/3.0:sigma  b=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_3.0GeV.tof_proton
+        r4: a/b*2.0  a=log:cylindrical_tof_detector/kaonp/2.0:mu_per_mev  b=json:segmented_detector_analysis.json:detailed_results.pion.2.0.mean_edep_mev
+        ... multiplicity=5
+  [J:planar_detector_analysis.json:particle_results.kaonp[0].mean] 56037.9  null-FP=5%  (json:planar_detector_analysis.json:particle_results.)
+        r4: a/b/0.1  a=json:planar_detector_analysis.json:particle_results.kaonp[0].mean_edep_mev  b=log:segmented_tof_detector/proton/2.0:mu_per_mev
+  [J:planar_detector_analysis.json:particle_results.kaonp[1].tof_] 3.44215  null-FP=51%  (json:planar_detector_analysis.json:particle_results.)
+        r4: a/b/0.1  a=json:planar_detector_analysis.json:particle_results.kaonp[0].tof_ns  b=log:cylindrical_tof_detector/kaonp/2.0:sigma
+        r5: a-b  a=json:planar_detector_analysis.json:particle_results.proton[1].tof_ns  b=json:planar_detector_analysis.json:timing_separations.kaon_proton_2.0GeV
+  [J:planar_detector_analysis.json:particle_results.kaonp[1].mean] 61420.1  null-FP=3%  (json:planar_detector_analysis.json:particle_results.)
+        r4: a/b/0.1  a=json:planar_detector_analysis.json:particle_results.kaonp[1].mean_edep_mev  b=log:segmented_tof_detector/proton/2.0:mu_per_mev
+  [J:planar_detector_analysis.json:particle_results.kaonp[2].tof_] 3.38174  null-FP=34%  (json:planar_detector_analysis.json:particle_results.)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_2.5GeV.tof_pi  b=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_0.5GeV.sep_pi_kaon_ns
+        r5: a-b  a=json:planar_detector_analysis.json:particle_results.proton[2].tof_ns  b=json:planar_detector_analysis.json:timing_separations.kaon_proton_3.0GeV
+  [J:planar_detector_analysis.json:particle_results.proton[0].mea] 74177.3  null-FP=3%  (json:planar_detector_analysis.json:particle_results.)
+        r4: a/b/0.1  a=json:planar_detector_analysis.json:particle_results.proton[0].mean_edep_mev  b=log:segmented_tof_detector/proton/2.0:mu_per_mev
+  [J:planar_detector_analysis.json:particle_results.proton[1].mea] 72167.9  null-FP=1%  (json:planar_detector_analysis.json:particle_results.)
+        r4: a/b/0.1  a=json:planar_detector_analysis.json:particle_results.proton[1].mean_edep_mev  b=log:segmented_tof_detector/proton/2.0:mu_per_mev
+  [J:planar_detector_analysis.json:particle_results.proton[2].tof] 3.51182  null-FP=32%  (json:planar_detector_analysis.json:particle_results.)
+        r5: a*(1+b/100)  a=json:planar_detector_analysis.json:particle_results.pip[1].tof_ns  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.5GeV.tof_pi
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_1.5GeV.tof_kaon  b=json:cylindrical_detector_analysis.json:results_by_particle.pion[1].linearity
+  [J:planar_detector_analysis.json:particle_results.proton[2].mea] 71768.8  null-FP=4%  (json:planar_detector_analysis.json:particle_results.)
+        r4: a/b/0.1  a=json:planar_detector_analysis.json:particle_results.proton[2].mean_edep_mev  b=log:segmented_tof_detector/proton/2.0:mu_per_mev
+  [J:planar_detector_analysis.json:timing_separations.pi_kaon_1.0] 0.467029  null-FP=11%  (json:planar_detector_analysis.json:timing_separation)
+        r5: a-b  a=json:planar_detector_analysis.json:particle_results.kaonp[0].tof_ns  b=json:planar_detector_analysis.json:particle_results.pip[0].tof_ns
+  [J:planar_detector_analysis.json:timing_separations.kaon_proton] 5.80762  null-FP=20%  (json:planar_detector_analysis.json:timing_separation)
+        r4: a/b/5.0  a=json:planar_detector_analysis.json:particle_results.proton[1].tof_ns  b=json:planar_detector_analysis.json:timing_separations.kaon_proton_3.0GeV
+        r5: a-b  a=json:planar_detector_analysis.json:particle_results.proton[0].tof_ns  b=json:planar_detector_analysis.json:particle_results.kaonp[0].tof_ns
+  [J:planar_detector_analysis.json:timing_separations.pi_kaon_2.0] 0.0983612  null-FP=13%  (json:planar_detector_analysis.json:timing_separation)
+        r5: a-b  a=json:planar_detector_analysis.json:particle_results.kaonp[1].tof_ns  b=json:planar_detector_analysis.json:particle_results.pip[1].tof_ns
+  [J:planar_detector_analysis.json:timing_separations.kaon_proton] 0.334928  null-FP=31%  (json:planar_detector_analysis.json:timing_separation)
+        r5: a-b  a=json:planar_detector_analysis.json:particle_results.proton[1].tof_ns  b=json:planar_detector_analysis.json:particle_results.kaonp[1].tof_ns
+  [J:planar_detector_analysis.json:timing_separations.pi_kaon_3.0] 0.0424873  null-FP=9%  (json:planar_detector_analysis.json:timing_separation)
+        r5: a-b  a=json:planar_detector_analysis.json:particle_results.kaonp[2].tof_ns  b=json:planar_detector_analysis.json:particle_results.pip[2].tof_ns
+  [J:planar_detector_analysis.json:timing_separations.kaon_proton] 0.130073  null-FP=44%  (json:planar_detector_analysis.json:timing_separation)
+        r4: a/b/5.0  a=json:planar_detector_analysis.json:particle_results.proton[1].tof_ns  b=json:planar_detector_analysis.json:timing_separations.kaon_proton_1.0GeV
+        r5: a-b  a=json:planar_detector_analysis.json:particle_results.proton[2].tof_ns  b=json:planar_detector_analysis.json:particle_results.kaonp[2].tof_ns
+  [J:topology_comparison_plots_summary.json:performance_metrics.p] 2.8848  null-FP=98%  (json:topology_comparison_plots_summary.json:performa)
+        r4: a/b/5.0  a=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_1.0GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_1.5GeV.sep_kaon_proton_ns
+        r5: (a-b)/b*100  a=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_2.0GeV.tof_pi  b=log:cylindrical_tof_detector/kaonp/2.0:mu
+        r5: a-b  a=json:cylindrical_detector_analysis.json:average_resolutions.kaon  b=json:cylindrical_detector_analysis.json:results_by_particle.proton[1].linearity
+  [J:segmented_detector_analysis.json:detailed_results.pion.1.0.e] 4.07438  null-FP=20%  (json:segmented_detector_analysis.json:detailed_resul)
+        r4: a/b*0.1  a=json:segmented_detector_analysis.json:detailed_results.pion.1.0.resolution_err  b=log:segmented_tof_detector/proton/2.0:mu_per_mev
+        r4: a/b/0.1  a=json:segmented_detector_analysis.json:detailed_results.pion.1.0.resolution_err  b=json:tof_theoretical_analysis.json:analysis_parameters.timing_resolution_assumption_ns
+        r4: a/b/2.0  a=json:segmented_detector_analysis.json:detailed_results.pion.1.0.resolution_err  b=json:cylindrical_tof_plots_summary.json:overall_performance.avg_linearity
+        ... multiplicity=4
+  [J:segmented_detector_analysis.json:detailed_results.pion.1.0.t] 894.63  null-FP=59%  (json:segmented_detector_analysis.json:detailed_resul)
+        r5: a-b  a=json:segmented_detector_analysis.json:detailed_results.proton.3.0.timing_resolution_ps  b=log:planar_tof_detector/pip/2.0:mu
+  [J:segmented_detector_analysis.json:detailed_results.pion.2.0.e] 1.79122  null-FP=54%  (json:segmented_detector_analysis.json:detailed_resul)
+        r4: a/b*0.1  a=json:segmented_detector_analysis.json:detailed_results.pion.2.0.resolution_err  b=log:segmented_tof_detector/proton/2.0:mu_per_mev
+        r4: a/b/0.1  a=json:segmented_detector_analysis.json:detailed_results.pion.2.0.resolution_err  b=json:tof_theoretical_analysis.json:analysis_parameters.timing_resolution_assumption_ns
+        r4: a/b/2.0  a=json:segmented_detector_analysis.json:detailed_results.pion.2.0.resolution_err  b=json:cylindrical_tof_plots_summary.json:overall_performance.avg_linearity
+        ... multiplicity=4
+  [J:segmented_detector_analysis.json:detailed_results.pion.3.0.t] 897.608  null-FP=10%  (json:segmented_detector_analysis.json:detailed_resul)
+        r5: (a-b)/b*100  a=json:cylindrical_detector_analysis.json:results_by_particle.proton[1].resolution_err  b=log:cylindrical_tof_detector/pip/2.0:mu_per_mev
+  [J:segmented_detector_analysis.json:detailed_results.kaon.1.0.e] 2.26438  null-FP=47%  (json:segmented_detector_analysis.json:detailed_resul)
+        r4: a/b*0.1  a=json:segmented_detector_analysis.json:detailed_results.kaon.1.0.resolution_err  b=log:segmented_tof_detector/proton/2.0:mu_per_mev
+        r4: a/b/0.1  a=json:segmented_detector_analysis.json:detailed_results.kaon.1.0.resolution_err  b=json:tof_theoretical_analysis.json:analysis_parameters.timing_resolution_assumption_ns
+        r4: a/b/2.0  a=json:segmented_detector_analysis.json:detailed_results.kaon.1.0.resolution_err  b=json:cylindrical_tof_plots_summary.json:overall_performance.avg_linearity
+        ... multiplicity=5
+  [J:segmented_detector_analysis.json:detailed_results.kaon.2.0.e] 1.91526  null-FP=51%  (json:segmented_detector_analysis.json:detailed_resul)
+        r4: a/b*0.1  a=json:segmented_detector_analysis.json:detailed_results.kaon.2.0.resolution_err  b=log:segmented_tof_detector/proton/2.0:mu_per_mev
+        r4: a/b/0.1  a=json:segmented_detector_analysis.json:detailed_results.kaon.2.0.resolution_err  b=json:tof_theoretical_analysis.json:analysis_parameters.timing_resolution_assumption_ns
+        r4: a/b/2.0  a=json:segmented_detector_analysis.json:detailed_results.kaon.2.0.resolution_err  b=json:cylindrical_tof_plots_summary.json:overall_performance.avg_linearity
+        ... multiplicity=4
+  [J:segmented_detector_analysis.json:detailed_results.kaon.3.0.e] 2.16998  null-FP=39%  (json:segmented_detector_analysis.json:detailed_resul)
+        r4: a/b*0.1  a=json:segmented_detector_analysis.json:detailed_results.kaon.3.0.resolution_err  b=log:segmented_tof_detector/proton/2.0:mu_per_mev
+        r4: a/b/0.1  a=json:segmented_detector_analysis.json:detailed_results.kaon.3.0.resolution_err  b=json:tof_theoretical_analysis.json:analysis_parameters.timing_resolution_assumption_ns
+        r4: a/b/2.0  a=json:segmented_detector_analysis.json:detailed_results.kaon.3.0.resolution_err  b=json:cylindrical_tof_plots_summary.json:overall_performance.avg_linearity
+        ... multiplicity=4
+  [J:segmented_detector_analysis.json:detailed_results.proton.1.0] 3.24597  null-FP=36%  (json:segmented_detector_analysis.json:detailed_resul)
+        r4: a/b*0.1  a=json:segmented_detector_analysis.json:detailed_results.proton.1.0.resolution_err  b=log:segmented_tof_detector/proton/2.0:mu_per_mev
+        r4: a/b/0.1  a=json:segmented_detector_analysis.json:detailed_results.proton.1.0.resolution_err  b=json:tof_theoretical_analysis.json:analysis_parameters.timing_resolution_assumption_ns
+        r4: a/b/2.0  a=json:segmented_detector_analysis.json:detailed_results.proton.1.0.resolution_err  b=json:cylindrical_tof_plots_summary.json:overall_performance.avg_linearity
+        ... multiplicity=4
+  [J:segmented_detector_analysis.json:detailed_results.proton.1.0] 868.941  null-FP=12%  (json:segmented_detector_analysis.json:detailed_resul)
+        r5: a/b*100  a=json:segmented_detector_analysis.json:detailed_results.pion.1.0.timing_resolution_ps  b=json:tof_topology_comparison.json:comparison_metrics.cylindrical.timing_resolution_ps
+  [J:segmented_detector_analysis.json:detailed_results.proton.2.0] 9.61064  null-FP=13%  (json:segmented_detector_analysis.json:detailed_resul)
+        r4: a/b*0.1  a=json:segmented_detector_analysis.json:detailed_results.proton.2.0.resolution_err  b=log:segmented_tof_detector/proton/2.0:mu_per_mev
+        r4: a/b/0.1  a=json:segmented_detector_analysis.json:detailed_results.proton.2.0.resolution_err  b=json:tof_theoretical_analysis.json:analysis_parameters.timing_resolution_assumption_ns
+        r4: a/b/2.0  a=json:segmented_detector_analysis.json:detailed_results.proton.2.0.resolution_err  b=json:cylindrical_tof_plots_summary.json:overall_performance.avg_linearity
+        ... multiplicity=4
+  [J:segmented_detector_analysis.json:detailed_results.proton.3.0] 901.869  null-FP=11%  (json:segmented_detector_analysis.json:detailed_resul)
+        r5: (a-b)/b*100  a=json:cylindrical_detector_analysis.json:results_by_particle.kaon[1].std_edep_mev  b=json:segmented_detector_analysis.json:detailed_results.kaon.3.0.energy_resolution
+  [J:tof_topology_comparison.json:comparison_metrics.segmented.pa] 2748.9  null-FP=82%  (json:tof_topology_comparison.json:comparison_metrics)
+        r4: a/b*5.0  a=log:planar_tof_detector/proton/1.0:sigma  b=json:segmented_detector_analysis.json:detailed_results.kaon.3.0.resolution_err
+        r4: a/b*5.0  a=log:segmented_tof_detector/proton/3.0:res  b=log:segmented_tof_detector/kaonp/3.0:mu_per_mev
+        r5: (a-b)/b*100  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_3.0GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_2.0GeV.sep_pi_kaon_ns
+  [J:cylindrical_detector_analysis.json:results_by_particle.pion[] 16.3169  null-FP=45%  (json:cylindrical_detector_analysis.json:results_by_p)
+        r5: a*(1+b/100)  a=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_1.0GeV.tof_pi  b=json:segmented_detector_analysis.json:detailed_results.proton.1.0.timing_resolution_ps
+  [J:cylindrical_detector_analysis.json:results_by_particle.pion[] 8.51947  null-FP=19%  (json:cylindrical_detector_analysis.json:results_by_p)
+        r3: a/b  a=json:cylindrical_detector_analysis.json:results_by_particle.pion[1].std_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.pion[1].energy_resolution
+        r4: a/b*1.0  a=json:cylindrical_detector_analysis.json:results_by_particle.pion[1].std_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.pion[1].energy_resolution
+        r4: a/b*2.0  a=json:cylindrical_detector_analysis.json:results_by_particle.pion[1].linearity  b=log:segmented_tof_detector/proton/2.0:mu_per_mev
+        ... multiplicity=5
+  [J:cylindrical_detector_analysis.json:results_by_particle.pion[] 25.0979  null-FP=22%  (json:cylindrical_detector_analysis.json:results_by_p)
+        r4: a/b/0.1  a=log:cylindrical_tof_detector/kaonp/1.0:mu  b=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_1.0GeV.tof_proton
+        r4: a/b/5.0  a=log:cylindrical_tof_detector/kaonp/1.0:total_hits  b=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_1.0GeV.tof_proton
+  [J:cylindrical_detector_analysis.json:results_by_particle.pion[] 0.00425973  null-FP=8%  (json:cylindrical_detector_analysis.json:results_by_p)
+        r3: a/b  a=json:cylindrical_detector_analysis.json:results_by_particle.pion[1].mean_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.pion[1].beam_energy_mev
+        r4: a/b*1.0  a=json:cylindrical_detector_analysis.json:results_by_particle.pion[1].mean_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.pion[1].beam_energy_mev
+        r4: a/b*5.0  a=json:cylindrical_detector_analysis.json:results_by_particle.pion[1].mean_edep_mev  b=json:segmented_tof_plots_summary.json:performance_metrics.light_yield_per_mev
+        ... multiplicity=5
+  [J:cylindrical_detector_analysis.json:results_by_particle.pion[] 9.75423  null-FP=16%  (json:cylindrical_detector_analysis.json:results_by_p)
+        r3: a/b  a=json:cylindrical_detector_analysis.json:results_by_particle.pion[2].std_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.pion[2].energy_resolution
+        r4: a/b*1.0  a=json:cylindrical_detector_analysis.json:results_by_particle.pion[2].std_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.pion[2].energy_resolution
+        r4: a/b/1.0  a=json:cylindrical_detector_analysis.json:results_by_particle.pion[2].std_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.pion[2].energy_resolution
+  [J:cylindrical_detector_analysis.json:results_by_particle.pion[] 0.00325141  null-FP=17%  (json:cylindrical_detector_analysis.json:results_by_p)
+        r3: a/b  a=json:cylindrical_detector_analysis.json:results_by_particle.pion[2].mean_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.pion[2].beam_energy_mev
+        r4: a/b*0.1  a=json:cylindrical_detector_analysis.json:results_by_particle.pion[2].mean_edep_mev  b=json:tof_topology_comparison.json:comparison_metrics.planar.particle_separation_3sigma_ps
+        r4: a/b*1.0  a=json:cylindrical_detector_analysis.json:results_by_particle.pion[2].mean_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.pion[2].beam_energy_mev
+        ... multiplicity=4
+  [J:cylindrical_detector_analysis.json:results_by_particle.kaon[] 7.85717  null-FP=18%  (json:cylindrical_detector_analysis.json:results_by_p)
+        r3: a/b  a=json:cylindrical_detector_analysis.json:results_by_particle.kaon[1].std_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.kaon[1].energy_resolution
+        r4: a/b*1.0  a=json:cylindrical_detector_analysis.json:results_by_particle.kaon[1].std_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.kaon[1].energy_resolution
+        r4: a/b*2.0  a=json:cylindrical_detector_analysis.json:results_by_particle.kaon[1].linearity  b=log:segmented_tof_detector/proton/2.0:mu_per_mev
+        ... multiplicity=5
+  [J:cylindrical_detector_analysis.json:results_by_particle.kaon[] 21.7403  null-FP=40%  (json:cylindrical_detector_analysis.json:results_by_p)
+        r4: a/b*0.1  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_1.0GeV.sep_kaon_proton_ns  b=json:cylindrical_detector_analysis.json:results_by_particle.kaon[1].linearity
+        r4: a/b/5.0  a=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_1.0GeV.sep_kaon_proton_ns  b=json:cylindrical_detector_analysis.json:results_by_particle.kaon[1].linearity
+        r5: a*(1+b/100)  a=json:segmented_detector_analysis.json:detailed_results.kaon.3.0.energy_resolution  b=json:segmented_detector_analysis.json:detailed_results.proton.3.0.timing_resolution_ps
+        ... multiplicity=4
+  [J:cylindrical_detector_analysis.json:results_by_particle.kaon[] 0.00392859  null-FP=6%  (json:cylindrical_detector_analysis.json:results_by_p)
+        r3: a/b  a=json:cylindrical_detector_analysis.json:results_by_particle.kaon[1].mean_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.pion[1].beam_energy_mev
+        r4: a/b*1.0  a=json:cylindrical_detector_analysis.json:results_by_particle.kaon[1].mean_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.pion[1].beam_energy_mev
+        r4: a/b*5.0  a=json:cylindrical_detector_analysis.json:results_by_particle.kaon[1].mean_edep_mev  b=json:segmented_tof_plots_summary.json:performance_metrics.light_yield_per_mev
+        ... multiplicity=5
+  [J:cylindrical_detector_analysis.json:results_by_particle.kaon[] 9.52888  null-FP=14%  (json:cylindrical_detector_analysis.json:results_by_p)
+        r3: a/b  a=json:cylindrical_detector_analysis.json:results_by_particle.kaon[2].std_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.kaon[2].energy_resolution
+        r4: a/b*1.0  a=json:cylindrical_detector_analysis.json:results_by_particle.kaon[2].std_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.kaon[2].energy_resolution
+        r4: a/b/1.0  a=json:cylindrical_detector_analysis.json:results_by_particle.kaon[2].std_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.kaon[2].energy_resolution
+  [J:cylindrical_detector_analysis.json:results_by_particle.kaon[] 0.00317629  null-FP=23%  (json:cylindrical_detector_analysis.json:results_by_p)
+        r3: a/b  a=json:cylindrical_detector_analysis.json:results_by_particle.kaon[2].mean_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.pion[2].beam_energy_mev
+        r4: a/b*0.1  a=json:cylindrical_detector_analysis.json:results_by_particle.kaon[2].mean_edep_mev  b=json:tof_topology_comparison.json:comparison_metrics.planar.particle_separation_3sigma_ps
+        r4: a/b*1.0  a=json:cylindrical_detector_analysis.json:results_by_particle.kaon[2].mean_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.pion[2].beam_energy_mev
+        ... multiplicity=4
+  [J:cylindrical_detector_analysis.json:results_by_particle.proto] 15.069  null-FP=100%  (json:cylindrical_detector_analysis.json:results_by_p)
+        r4: a/b*5.0  a=json:tof_theoretical_analysis.json:timing_separations.path_2.0m.p_1.0GeV.sep_pi_kaon_ns  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_3.0GeV.sep_pi_proton_ns
+        r4: a/b/0.1  a=json:tof_theoretical_analysis.json:timing_separations.path_1.0m.p_1.0GeV.sep_pi_kaon_ns  b=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_3.0GeV.sep_pi_proton_ns
+        r4: a/b/0.1  a=json:tof_theoretical_analysis.json:timing_separations.path_1.5m.p_2.5GeV.tof_proton  b=json:tof_theoretical_analysis.json:timing_separations.path_0.5m.p_0.5GeV.tof_proton
+  [J:cylindrical_detector_analysis.json:results_by_particle.proto] 9.26177  null-FP=10%  (json:cylindrical_detector_analysis.json:results_by_p)
+        r3: a/b  a=json:cylindrical_detector_analysis.json:results_by_particle.proton[1].std_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.proton[1].energy_resolution
+        r4: a/b*1.0  a=json:cylindrical_detector_analysis.json:results_by_particle.proton[1].std_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.proton[1].energy_resolution
+        r4: a/b*2.0  a=json:cylindrical_detector_analysis.json:results_by_particle.proton[1].linearity  b=log:segmented_tof_detector/proton/2.0:mu_per_mev
+        ... multiplicity=5
+  [J:cylindrical_detector_analysis.json:results_by_particle.proto] 0.00463088  null-FP=16%  (json:cylindrical_detector_analysis.json:results_by_p)
+        r3: a/b  a=json:cylindrical_detector_analysis.json:results_by_particle.proton[1].mean_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.pion[1].beam_energy_mev
+        r4: a/b*1.0  a=json:cylindrical_detector_analysis.json:results_by_particle.proton[1].mean_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.pion[1].beam_energy_mev
+        r4: a/b*5.0  a=json:cylindrical_detector_analysis.json:results_by_particle.proton[1].mean_edep_mev  b=json:segmented_tof_plots_summary.json:performance_metrics.light_yield_per_mev
+        ... multiplicity=5
+  [J:cylindrical_detector_analysis.json:results_by_particle.proto] 9.11221  null-FP=9%  (json:cylindrical_detector_analysis.json:results_by_p)
+        r3: a/b  a=json:cylindrical_detector_analysis.json:results_by_particle.proton[2].std_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.proton[2].energy_resolution
+        r4: a/b*1.0  a=json:cylindrical_detector_analysis.json:results_by_particle.proton[2].std_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.proton[2].energy_resolution
+        r4: a/b*5.0  a=json:segmented_detector_analysis.json:detailed_results.pion.3.0.energy_resolution  b=log:planar_tof_detector/pip/1.0:res
+        ... multiplicity=4
+  [J:cylindrical_detector_analysis.json:results_by_particle.proto] 0.0030374  null-FP=85%  (json:cylindrical_detector_analysis.json:results_by_p)
+        r3: a/b  a=json:cylindrical_detector_analysis.json:results_by_particle.proton[2].mean_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.pion[2].beam_energy_mev
+        r4: a/b*0.1  a=json:cylindrical_detector_analysis.json:results_by_particle.proton[2].mean_edep_mev  b=json:tof_topology_comparison.json:comparison_metrics.planar.particle_separation_3sigma_ps
+        r4: a/b*1.0  a=json:cylindrical_detector_analysis.json:results_by_particle.proton[2].mean_edep_mev  b=json:cylindrical_detector_analysis.json:results_by_particle.pion[2].beam_energy_mev
+        ... multiplicity=5
+  summary: 60 log-verified, 77 json-copies, 89 diagnosed-by-formula, 259 unexplained/ambiguous
+
+### celev7/tracking: pool=57 quantities (0 log-derived), 10 families, 88 targets
+  [R0000] 50  null-FP=87%  (metries for charged particle momentum measurements i)
+        r2: std(json:detector_configurations.json:[2].disk_z_positions_cm[]drop[2]+[1.0])
+        r2: std(json:detector_configurations.json:[2].disk_z_positions_cm[]drop[5]+[1.0])
+  [R0001] 150  null-FP=0%  (s were designed: a minimal material box topology (4 )
+        r2: mean(json:silicon_detector_configurations.json:config2_cylinder_barrel.geometry.pixel_size_um[]+[1.0])
+  [R0006] 50  null-FP=87%  (esolution, particularly for low-momentum particles i)
+        r2: std(json:detector_configurations.json:[2].disk_z_positions_cm[]drop[2]+[1.0])
+        r2: std(json:detector_configurations.json:[2].disk_z_positions_cm[]drop[5]+[1.0])
+  [R0007] 100  null-FP=0%  (y parameters including layer count (3-8 layers), thi)
+        r2: mean(json:silicon_detector_configurations.json:config3_forward_disks.geometry.pixel_size_um[])
+  [R0010] 150  null-FP=0%  (nt redundancy with material budget - **Silicon Thick)
+        r2: mean(json:silicon_detector_configurations.json:config2_cylinder_barrel.geometry.pixel_size_um[]+[1.0])
+  [R0015] 150  null-FP=0%  (erial Box Topology - **Layers**: 4 - **Silicon thick)
+        r2: mean(json:silicon_detector_configurations.json:config2_cylinder_barrel.geometry.pixel_size_um[]+[1.0])
+  [R0024] 0.14  null-FP=0%  (ial budget**: 1.9% X₀ - **Momentum resolution (10 Ge)
+        r2: std(json:silicon_detector_configurations.json:config2_cylinder_barrel.geometry.layer_radii_m[]drop[0]+[1.0])
+  [R0026] 1.1  null-FP=5%  (*: 5 - **Silicon thickness**: 200 μm - **Material bu)
+        r2: mean(json:silicon_detector_configurations.json:config3_forward_disks.geometry.disk_z_positions_m[]drop[2]+[1.0])
+        r2: mean(json:silicon_detector_configurations.json:config3_forward_disks.geometry.disk_z_positions_m[]drop[3]+[1.0])
+  [R0030] 150  null-FP=0%  (-----|-------------------------| | Box Minimal   | 4)
+        r2: mean(json:silicon_detector_configurations.json:config2_cylinder_barrel.geometry.pixel_size_um[]+[1.0])
+  [R0035] 0.14  null-FP=0%  (        | 6      | 300           | 1.9              )
+        r2: std(json:silicon_detector_configurations.json:config2_cylinder_barrel.geometry.layer_radii_m[]drop[0]+[1.0])
+  [R0037] 1.1  null-FP=5%  (               | | Forward Disk  | 5      | 200     )
+        r2: mean(json:silicon_detector_configurations.json:config3_forward_disks.geometry.disk_z_positions_m[]drop[2]+[1.0])
+        r2: mean(json:silicon_detector_configurations.json:config3_forward_disks.geometry.disk_z_positions_m[]drop[3]+[1.0])
+  [R0039] 100  null-FP=0%  (ter Translation Errors**: Silicon thickness specific)
+        r2: mean(json:silicon_detector_configurations.json:config3_forward_disks.geometry.pixel_size_um[])
+  [R0046] 0.1  null-FP=0%  (the-art performance, while momentum resolutions in t)
+        r2: mean(json:silicon_detector_configurations.json:config1_box.geometry.layer_positions_m[])
+        r2: std(json:silicon_detector_configurations.json:config1_box.geometry.layer_positions_m[])
+        r2: std(json:silicon_detector_configurations.json:config2_cylinder_barrel.geometry.layer_radii_m[])
+        ... multiplicity=5
+  [R0047] 150  null-FP=0%  (ied Optimal Configuration**: Box topology with 4 lay)
+        r2: mean(json:silicon_detector_configurations.json:config2_cylinder_barrel.geometry.pixel_size_um[]+[1.0])
+  [R0054] 100  null-FP=0%  (: 80% (4/5 successful tool executions) - **Recovery )
+        r2: mean(json:silicon_detector_configurations.json:config3_forward_disks.geometry.pixel_size_um[])
+  [J:detector_configurations.json:[1].material_budget_percent] 1.92102  null-FP=1%  (json:detector_configurations.json:[1].material_budge)
+        r5: a*(1+b/100)  a=json:detector_configurations.json:[0].material_budget_percent  b=json:silicon_detector_configurations.json:config1_box.silicon_thickness_um
+        r5: a*(1+b/100)  a=json:silicon_detector_configurations.json:config1_box.physics_performance.material_budget_percent_x0  b=json:silicon_detector_configurations.json:config1_box.momentum_range_gev[1]
+  [J:silicon_detector_configurations.json:config1_box.geometry.la] 0.1  null-FP=0%  (json:silicon_detector_configurations.json:config1_bo)
+        r2: mean(json:silicon_detector_configurations.json:config1_box.geometry.layer_positions_m[])
+        r2: std(json:silicon_detector_configurations.json:config1_box.geometry.layer_positions_m[])
+        r2: std(json:silicon_detector_configurations.json:config2_cylinder_barrel.geometry.layer_radii_m[])
+        ... multiplicity=5
+  [J:silicon_detector_configurations.json:config1_box.geometry.la] 0.25  null-FP=30%  (json:silicon_detector_configurations.json:config1_bo)
+        r2: mean(json:silicon_detector_configurations.json:config1_box.geometry.layer_positions_m[]+[1.0])
+        r2: mean(json:silicon_detector_configurations.json:config1_box.geometry.layer_positions_m[]drop[5]+[1.0])
+  [J:silicon_detector_configurations.json:config2_cylinder_barrel] 0.800427  null-FP=0%  (json:silicon_detector_configurations.json:config2_cy)
+        r4: a/b*5.0  a=json:detector_configurations.json:[0].material_budget_percent  b=json:detector_configurations.json:[0].layer_count
+        r4: a/b*5.0  a=json:silicon_detector_configurations.json:config1_box.physics_performance.material_budget_percent_x0  b=json:detector_configurations.json:[2].layer_count
+        r4: a/b/0.1  a=json:detector_configurations.json:[0].material_budget_percent  b=json:detector_configurations.json:[2].layer_count
+        ... multiplicity=5
+  [J:silicon_detector_configurations.json:config2_cylinder_barrel] 0.66  null-FP=0%  (json:silicon_detector_configurations.json:config2_cy)
+        r2: mean(json:silicon_detector_configurations.json:config2_cylinder_barrel.geometry.layer_radii_m[])
+  [J:silicon_detector_configurations.json:config2_cylinder_barrel] 0.74  null-FP=64%  (json:silicon_detector_configurations.json:config2_cy)
+        r2: mean(json:silicon_detector_configurations.json:config2_cylinder_barrel.geometry.layer_radii_m[]drop[1]+[1.0])
+  [J:silicon_detector_configurations.json:config3_forward_disks.g] 1.15  null-FP=26%  (json:silicon_detector_configurations.json:config3_fo)
+        r2: mean(json:silicon_detector_configurations.json:config3_forward_disks.geometry.disk_z_positions_m[]drop[2]+[1.0])
+  CORROBORATED family: json:silicon_detector_configurations.json:config1_box.geometry.layer_positions_m  joint-null<=0.0% (product of marginals)  measured joint-null=0.0%
+      mean: [R0046] 0.1  (the-art performance, while momentum resolutions )
+      mean: [J:silicon_detector_configurations.json:config1_box.geometry.la] 0.1  (json:silicon_detector_configurations.json:config)
+      std: [R0046] 0.1  (the-art performance, while momentum resolutions )
+      std: [J:silicon_detector_configurations.json:config1_box.geometry.la] 0.1  (json:silicon_detector_configurations.json:config)
+  CORROBORATED family: json:silicon_detector_configurations.json:config2_cylinder_barrel.geometry.layer  joint-null<=0.0% (product of marginals)  measured joint-null=0.0%
+      mean: [J:silicon_detector_configurations.json:config2_cylinder_barrel] 0.66  (json:silicon_detector_configurations.json:config)
+      std: [R0046] 0.1  (the-art performance, while momentum resolutions )
+      std: [J:silicon_detector_configurations.json:config1_box.geometry.la] 0.1  (json:silicon_detector_configurations.json:config)
+  summary: 0 log-verified, 33 json-copies, 22 diagnosed-by-formula, 33 unexplained/ambiguous
+
+### optiv5/darkside_lar: pool=69 quantities (10 log-derived), 0 families, 292 targets
+  [J:position_plots_results.json:edge_resolution_baseline_mm] 14.6025  null-FP=3%  (json:position_plots_results.json:edge_resolution_bas)
+        r5: a*(1+b/100)  a=json:position_plots_results.json:baseline_position_resolution_3d_mm  b=json:baseline_performance_metrics.json:containment_90_radius_mm
+        r5: a*(1+b/100)  a=json:position_reconstruction_results.json:baseline_position_resolution.3d_mm  b=json:baseline_performance_metrics.json:containment_90_radius_mm
+        r5: a/b*100  a=json:position_plots_results.json:baseline_position_resolution_3d_mm  b=json:optimized_performance_analysis.json:improvements.light_yield_improvement_percent
+        ... multiplicity=4
+  [J:optimized_performance_analysis.json:optimized_metrics.light_] 3.53333  null-FP=1%  (json:optimized_performance_analysis.json:optimized_m)
+        r5: a*(1+b/100)  a=json:optimized_performance_analysis.json:baseline_metrics.light_yield_pe_kev  b=json:optimized_performance_analysis.json:improvements.light_yield_improvement_percent
+  [J:optimized_performance_analysis.json:improvements.containment] 75.7576  null-FP=0%  (json:optimized_performance_analysis.json:improvement)
+        r4: a/b*0.1  a=json:pmt_optimization_results.json:coverage_improvement  b=json:optimized_performance_analysis.json:baseline_metrics.energy_resolution_error
+        r5: a/b*100  a=json:optimization_comparison_results.json:containment_improvement_percent  b=log:baseline_geometry/electron/None:n_events
+  [J:pmt_optimization_results.json:expected_light_yield_pe_kev] 2.73691  null-FP=0%  (json:pmt_optimization_results.json:expected_light_yi)
+        r3: a/b  a=json:optimized_performance_analysis.json:optimized_metrics.light_yield_pe_kev  b=json:pmt_optimization_results.json:light_yield_improvement
+        r4: a/b*1.0  a=json:optimized_performance_analysis.json:optimized_metrics.light_yield_pe_kev  b=json:pmt_optimization_results.json:light_yield_improvement
+        r4: a/b/1.0  a=json:optimized_performance_analysis.json:optimized_metrics.light_yield_pe_kev  b=json:pmt_optimization_results.json:light_yield_improvement
+  [J:pmt_optimization_results.json:expected_energy_resolution] 0.0271074  null-FP=0%  (json:pmt_optimization_results.json:expected_energy_r)
+        r3: a/b  a=json:optimization_comparison_results.json:baseline_resolution  b=json:pmt_optimization_results.json:resolution_improvement_factor
+        r4: a/b*1.0  a=json:optimization_comparison_results.json:baseline_resolution  b=json:pmt_optimization_results.json:resolution_improvement_factor
+        r4: a/b/1.0  a=json:optimization_comparison_results.json:baseline_resolution  b=json:pmt_optimization_results.json:resolution_improvement_factor
+  [J:pmt_optimization_results.json:resolution_improvement_factor] 1.13622  null-FP=2%  (json:pmt_optimization_results.json:resolution_improv)
+        r3: a/b  a=json:optimization_comparison_results.json:baseline_resolution  b=json:pmt_optimization_results.json:expected_energy_resolution
+        r4: a/b*1.0  a=json:optimization_comparison_results.json:baseline_resolution  b=json:pmt_optimization_results.json:expected_energy_resolution
+        r4: a/b/1.0  a=json:optimization_comparison_results.json:baseline_resolution  b=json:pmt_optimization_results.json:expected_energy_resolution
+  [J:pmt_optimization_results.json:pmt_positions.z[16]] 0.105986  null-FP=0%  (json:pmt_optimization_results.json:pmt_positions.z[1)
+        r4: a/b/0.1  a=json:optimization_comparison_results.json:optimized_resolution  b=json:multi_energy_results.json:energy_points_mev[0]
+  [J:pmt_optimization_results.json:pmt_positions.z[34]] 0.12753  null-FP=6%  (json:pmt_optimization_results.json:pmt_positions.z[3)
+        r4: a/b/5.0  a=json:baseline_performance_metrics.json:mean_energy_deposit_mev  b=json:position_plots_results.json:center_resolution_baseline_mm
+  [J:energy_response_analysis.json:energy_resolution[0]] 0.043917  null-FP=3%  (json:energy_response_analysis.json:energy_resolution)
+        r4: a/b/0.1  a=json:energy_response_analysis.json:linearity_errors[0]  b=json:energy_response_analysis.json:linearity_ratios[0]
+  [J:energy_response_analysis.json:linearity_ratios[0]] 0.9908  null-FP=27%  (json:energy_response_analysis.json:linearity_ratios[)
+        r4: a/b/0.1  a=json:energy_response_analysis.json:linearity_errors[0]  b=json:energy_response_analysis.json:energy_resolution[0]
+        r4: a/b/2.0  a=json:position_plots_results.json:edge_resolution_optimized_mm  b=json:position_reconstruction_results.json:baseline_position_resolution.y_mm
+  [J:energy_response_analysis.json:light_yield_errors[0]] 9.9825  null-FP=5%  (json:energy_response_analysis.json:light_yield_error)
+        r4: a/b*5.0  a=json:energy_response_analysis.json:light_yields_per_mev[0]  b=log:optimized_geometry/electron/None:n_events
+  [J:multi_energy_results.json:light_yields_pe_kev[0]] 199.649  null-FP=0%  (json:multi_energy_results.json:light_yields_pe_kev[0)
+        r5: a-b  a=json:energy_response_analysis.json:light_yields_per_mev[0]  b=json:multi_energy_results.json:resolution_errors[0]
+  summary: 5 log-verified, 76 json-copies, 12 diagnosed-by-formula, 199 unexplained/ambiguous
+
+### optiv5/detector: pool=29 quantities (13 log-derived), 0 families, 90 targets
+  [R0044] 313.5  null-FP=3%  ( surfaces resulted in non-uniform detector response,)
+        r5: (a-b)/b*100  a=json:detector_comparison_results.json:configurations.baseline.cost_effectiveness  b=json:detector_comparison_results.json:configurations.endcap.cost_effectiveness
+        r5: (a-b)/b*100  a=json:detector_comparison_results.json:configurations.baseline.cost_effectiveness_error  b=json:detector_comparison_results.json:configurations.endcap.cost_effectiveness_error
+        r5: (a-b)/b*100  a=json:detector_comparison_results.json:configurations.endcap.spatial_uniformity  b=json:detector_comparison_results.json:configurations.baseline.spatial_uniformity
+        ... multiplicity=4
+  [J:detector_comparison_results.json:configurations.baseline.cos] 0.127535  null-FP=1%  (json:detector_comparison_results.json:configurations)
+        r4: a/b*0.1  a=json:detector_comparison_results.json:configurations.baseline.cost_effectiveness  b=json:detector_comparison_results.json:configurations.baseline.light_collection_efficiency
+        r4: a/b*0.1  a=json:detector_comparison_results.json:configurations.baseline.light_collection_efficiency  b=json:detector_comparison_results.json:configurations.baseline.spatial_uniformity
+        r4: a/b/0.1  a=json:detector_comparison_results.json:configurations.baseline.cost_effectiveness  b=log:endcap_heavy/electron/None:n_events
+        ... multiplicity=5
+  [J:detector_comparison_results.json:configurations.endcap.spati] 0.32419  null-FP=1%  (json:detector_comparison_results.json:configurations)
+        r4: a/b*0.1  a=json:detector_comparison_results.json:configurations.baseline.light_collection_efficiency  b=json:detector_comparison_results.json:configurations.endcap.cost_effectiveness
+        r4: a/b*0.1  a=json:detector_comparison_results.json:configurations.endcap.spatial_uniformity  b=json:detector_comparison_results.json:configurations.baseline.light_collection_efficiency
+        r4: a/b/0.1  a=json:detector_comparison_results.json:configurations.endcap.spatial_uniformity  b=log:endcap_heavy/electron/None:n_events
+        ... multiplicity=5
+  [J:detector_comparison_results.json:configurations.endcap.cost_] 0.0308461  null-FP=0%  (json:detector_comparison_results.json:configurations)
+        r4: a/b*0.1  a=json:detector_comparison_results.json:configurations.baseline.light_collection_efficiency  b=json:detector_comparison_results.json:configurations.endcap.spatial_uniformity
+        r4: a/b*0.1  a=json:detector_comparison_results.json:configurations.endcap.cost_effectiveness  b=json:detector_comparison_results.json:configurations.baseline.light_collection_efficiency
+        r4: a/b/0.1  a=json:detector_comparison_results.json:configurations.endcap.cost_effectiveness  b=log:endcap_heavy/electron/None:n_events
+        ... multiplicity=5
+  summary: 12 log-verified, 39 json-copies, 4 diagnosed-by-formula, 35 unexplained/ambiguous
+
+### optiv5/protodune_lar: pool=57 quantities (10 log-derived), 0 families, 111 targets
+  [J:baseline_performance_metrics.json:baseline_performance.energ] 3.17286  null-FP=2%  (json:baseline_performance_metrics.json:baseline_perf)
+        r3: a/b  a=json:baseline_performance_metrics.json:baseline_performance.energy_resolution_error  b=json:optimization_comparison_results.json:baseline_metrics.detection_efficiency
+        r4: a/b*1.0  a=json:baseline_performance_metrics.json:baseline_performance.energy_resolution_error  b=json:optimization_comparison_results.json:baseline_metrics.detection_efficiency
+        r4: a/b/0.1  a=json:baseline_performance_metrics.json:baseline_performance.energy_resolution_error  b=json:energy_response_characterization.json:linearity.input_energy_mev
+        ... multiplicity=4
+  [J:baseline_performance_metrics.json:baseline_performance.energ] 0.317286  null-FP=2%  (json:baseline_performance_metrics.json:baseline_perf)
+        r4: a/b*0.1  a=json:baseline_performance_metrics.json:baseline_performance.energy_resolution  b=json:energy_response_characterization.json:linearity.input_energy_mev
+        r4: a/b*2.0  a=json:baseline_performance_metrics.json:baseline_performance.energy_resolution  b=json:energy_response_characterization.json:detector_parameters.sensor_count
+        r4: a/b*5.0  a=json:baseline_performance_metrics.json:baseline_performance.energy_resolution  b=json:baseline_performance_metrics.json:baseline_performance.total_events
+        ... multiplicity=5
+  [J:baseline_performance_metrics.json:baseline_performance.light] 0.692291  null-FP=0%  (json:baseline_performance_metrics.json:baseline_perf)
+        r4: a/b/0.1  a=json:baseline_performance_metrics.json:baseline_performance.mean_energy_deposit_mev  b=json:energy_response_characterization.json:light_yield.quantum_efficiency
+  [J:baseline_performance_metrics.json:baseline_performance.mean_] 0.0173073  null-FP=0%  (json:baseline_performance_metrics.json:baseline_perf)
+        r4: a/b/2.0  a=json:baseline_performance_metrics.json:baseline_performance.light_yield_pe_per_mev  b=json:energy_response_characterization.json:detector_parameters.sensor_count
+  [J:optimized_performance_analysis.json:optimized_metrics.light_] 22.6052  null-FP=1%  (json:optimized_performance_analysis.json:optimized_m)
+        r5: a*(1+b/100)  a=json:optimization_comparison_results.json:baseline_metrics.light_yield_pe_per_mev  b=json:optimized_performance_analysis.json:improvements.light_yield_improvement_percent
+  [J:optimized_performance_analysis.json:improvements.light_yield] 3129.31  null-FP=1%  (json:optimized_performance_analysis.json:improvement)
+        r5: (a-b)/b*100  a=json:optimized_performance_analysis.json:optimized_metrics.light_yield_pe_per_mev  b=json:optimization_comparison_results.json:baseline_metrics.light_yield_pe_per_mev
+        r5: a-b  a=json:optimization_comparison_results.json:improvements.light_yield_improvement_percent  b=json:baseline_performance_metrics.json:baseline_performance.light_yield_pe_per_mev
+  [J:optimized_performance_analysis.json:statistical_significance] 1.23575  null-FP=4%  (json:optimized_performance_analysis.json:statistical)
+        r5: a*(1+b/100)  a=json:optimization_comparison_results.json:statistical_significance.detection_efficiency_significance_sigma  b=json:optimized_performance_analysis.json:optimized_metrics.mean_energy_deposit
+  [J:energy_response_characterization.json:energy_response.resolu] 4.04097  null-FP=0%  (json:energy_response_characterization.json:energy_re)
+        r3: a/b  a=json:energy_response_characterization.json:energy_response.energy_spread  b=json:energy_response_characterization.json:energy_response.mean_energy_deposit
+        r4: a/b*1.0  a=json:energy_response_characterization.json:energy_response.energy_spread  b=json:energy_response_characterization.json:energy_response.mean_energy_deposit
+        r4: a/b/0.1  a=json:energy_response_characterization.json:linearity.coefficient_error  b=json:energy_response_characterization.json:energy_response.mean_energy_deposit
+        ... multiplicity=4
+  [J:energy_response_characterization.json:energy_response.resolu] 0.28574  null-FP=8%  (json:energy_response_characterization.json:energy_re)
+        r5: a*(1+b/100)  a=json:energy_response_plots_results.json:energy_resolution_error  b=json:energy_response_characterization.json:light_yield.scaling_factor
+  [J:energy_response_characterization.json:energy_response.mean_e] 0.0414315  null-FP=0%  (json:energy_response_characterization.json:energy_re)
+        r3: a/b  a=json:energy_response_characterization.json:energy_response.energy_spread  b=json:energy_response_characterization.json:energy_response.resolution
+        r4: a/b*1.0  a=json:energy_response_characterization.json:energy_response.energy_spread  b=json:energy_response_characterization.json:energy_response.resolution
+        r4: a/b/0.1  a=json:energy_response_characterization.json:linearity.coefficient_error  b=json:energy_response_characterization.json:energy_response.resolution
+        ... multiplicity=4
+  [J:energy_response_characterization.json:energy_response.energy] 0.167423  null-FP=1%  (json:energy_response_characterization.json:energy_re)
+        r3: a/b  a=json:energy_response_characterization.json:linearity.coefficient_error  b=json:optimization_comparison_results.json:baseline_metrics.detection_efficiency
+        r4: a/b*1.0  a=json:energy_response_characterization.json:linearity.coefficient_error  b=json:optimization_comparison_results.json:baseline_metrics.detection_efficiency
+        r4: a/b/0.1  a=json:energy_response_characterization.json:linearity.coefficient_error  b=json:energy_response_characterization.json:linearity.input_energy_mev
+        ... multiplicity=4
+  [J:energy_response_characterization.json:linearity.coefficient_] 0.0167423  null-FP=1%  (json:energy_response_characterization.json:linearity)
+        r4: a/b*0.1  a=json:energy_response_characterization.json:energy_response.energy_spread  b=json:energy_response_characterization.json:linearity.input_energy_mev
+        r4: a/b*2.0  a=json:energy_response_characterization.json:energy_response.energy_spread  b=json:energy_response_characterization.json:detector_parameters.sensor_count
+        r4: a/b*5.0  a=json:energy_response_characterization.json:energy_response.energy_spread  b=json:baseline_performance_metrics.json:baseline_performance.total_events
+        ... multiplicity=5
+  summary: 4 log-verified, 67 json-copies, 12 diagnosed-by-formula, 28 unexplained/ambiguous
+
+### optiv9/darkside_lar: pool=122 quantities (43 log-derived), 12 families, 194 targets
+  [R0000] 50  null-FP=0%  (# DarkSide-50 Detector Simulation and Optimization: )
+        r2: std(json:spatial_response_analysis.json:position_resolutions_mm[]drop[1]+[1.0])
+  [R0001] 50  null-FP=0%  (ents a comprehensive computational analysis of the D)
+        r2: std(json:spatial_response_analysis.json:position_resolutions_mm[]drop[1]+[1.0])
+  [R0004] 0.54  null-FP=44%  ( detector configuration achieved a light yield of 14)
+        r2: mean(logfam:darkside_detector:proton/electron_ratiodrop[1]+[1.0])
+  [R0006] 0.0003  null-FP=0%  (3 ± 0.54 PE/MeV at 1 MeV with energy resolution of 0)
+        r2: std(json:energy_response_results.json:resolution_errors[])
+  [R0007] 0.631  null-FP=3%  ( recoil simulations revealed an average quenching fa)
+        r2: mean(logfam:darkside_detector:proton/electron_ratiodrop[2]+[1.0])
+  [R0008] 0.264  null-FP=5%  (simulations revealed an average quenching factor of )
+        r2: std(logfam:darkside_detector:proton/electron_ratiodrop[2]+[1.0])
+  [R0016] 50  null-FP=0%  (identifying extremely rare interaction events. The D)
+        r2: std(json:spatial_response_analysis.json:position_resolutions_mm[]drop[1]+[1.0])
+  [R0017] 50  null-FP=0%  (rformance characterization and optimization of the D)
+        r2: std(json:spatial_response_analysis.json:position_resolutions_mm[]drop[1]+[1.0])
+  [R0018] 50  null-FP=0%  (objectives of this work are:  1. Extract authentic D)
+        r2: std(json:spatial_response_analysis.json:position_resolutions_mm[]drop[1]+[1.0])
+  [R0021] 50  null-FP=0%  (e extracted from the DarkSide Collaboration paper "D)
+        r2: std(json:spatial_response_analysis.json:position_resolutions_mm[]drop[1]+[1.0])
+  [R0030] 50  null-FP=0%  ( under specific computational constraints: - **PMT C)
+        r2: std(json:spatial_response_analysis.json:position_resolutions_mm[]drop[1]+[1.0])
+  [R0032] 50  null-FP=0%  (zation employed systematic testing of three configur)
+        r2: std(json:spatial_response_analysis.json:position_resolutions_mm[]drop[1]+[1.0])
+  [R0042] 0.54  null-FP=44%  (0008  | High precision         | | 1.0          | 14)
+        r2: mean(logfam:darkside_detector:proton/electron_ratiodrop[1]+[1.0])
+  [R0044] 0.0003  null-FP=0%  (on         | | 1.0          | 1479.23 ± 0.54     | 0)
+        r2: std(json:energy_response_results.json:resolution_errors[])
+  [R0047] 0.34  null-FP=71%  (0003  | Optimal performance    | | 5.0          | 14)
+        r2: mean(json:spatial_response_analysis.json:energies_gev[]drop[0]+[1.0])
+        r2: mean(json:spatial_response_analysis.json:energies_gev[]drop[1]+[1.0])
+  [R0050] 0.29  null-FP=33%  (n        |  The average light yield across all energ)
+        r2: std(logfam:darkside_detector:proton/electron_ratio+[1.0])
+  [R0052] 0.58  null-FP=30%  (----------------------|------------------| | 100    )
+        r2: mean(logfam:darkside_detector:proton/electron_ratiodrop[0]+[1.0])
+  [R0063] 0.631  null-FP=3%  (      | 1.000           |  The average quenching fac)
+        r2: mean(logfam:darkside_detector:proton/electron_ratiodrop[2]+[1.0])
+  [R0064] 0.264  null-FP=5%  (1.000           |  The average quenching factor was )
+        r2: std(logfam:darkside_detector:proton/electron_ratiodrop[2]+[1.0])
+  [R0066] 50  null-FP=0%  (-----|----------------------------|-----------------)
+        r2: std(json:spatial_response_analysis.json:position_resolutions_mm[]drop[1]+[1.0])
+  [R0089] 11.94  null-FP=99%  (        | 25.27                     | 21.86         )
+        r4: a/b*0.1  a=log:darkside_optimized/electron/0.0:mu  b=json:pmt_optimization_results.json:configurations_tested[0].total_pmt_area_m2
+        r4: a/b/0.1  a=json:spatial_response_analysis.json:position_resolutions_mm[0]  b=json:discrimination_analysis.json:nuclear_light_yield_5mev
+        r4: a/b/2.0  a=json:detector_comparison_results.json:baseline_metrics.pmt_count  b=json:pmt_optimization_results.json:configurations_tested[2].total_pmt_area_m2
+        ... multiplicity=5
+  [R0091] 50.85  null-FP=56%  (| 21.86               | 11.94            | | 5.0    )
+        r4: a/b/5.0  a=log:darkside_detector/electron/0.0:sigma  b=log:darkside_optimized/electron/0.005:res
+  [R0092] 44.00  null-FP=69%  (4            | | 5.0          | 50.85               )
+        r4: a/b/5.0  a=json:spatial_response_analysis.json:radial_resolutions_mm[0]  b=json:spatial_response_analysis.json:energies_gev[2]
+  [R0093] 24.01  null-FP=82%  (        | 50.85                     | 44.00         )
+        r2: std(json:spatial_response_analysis.json:component_resolutions.z_mm[]+[1.0])
+  [R0098] 0.631  null-FP=3%  (ing Factor Analysis  The nuclear recoil quenching fa)
+        r2: mean(logfam:darkside_detector:proton/electron_ratiodrop[2]+[1.0])
+  [R0099] 0.264  null-FP=5%  (or Analysis  The nuclear recoil quenching factor of )
+        r2: std(logfam:darkside_detector:proton/electron_ratiodrop[2]+[1.0])
+  [R0104] 50.85  null-FP=56%  (on reconstruction at higher energies (1.23 mm at 0.1)
+        r4: a/b/5.0  a=log:darkside_detector/electron/0.0:sigma  b=log:darkside_optimized/electron/0.005:res
+  [R0106] 50  null-FP=0%  (ikely underestimates the performance of the actual D)
+        r2: std(json:spatial_response_analysis.json:position_resolutions_mm[]drop[1]+[1.0])
+  [J:energy_response_results.json:energy_resolutions[2]] 0.0160211  null-FP=1%  (json:energy_response_results.json:energy_resolutions)
+        r4: a/b*0.1  a=json:energy_response_results.json:resolution_errors[2]  b=json:spatial_response_analysis.json:energies_gev[1]
+        r4: a/b/0.1  a=json:energy_response_results.json:resolution_errors[2]  b=json:energy_response_results.json:energies_mev[0]
+        r4: a/b/2.0  a=json:energy_response_results.json:resolution_errors[2]  b=json:spatial_response_analysis.json:energies_gev[2]
+        ... multiplicity=4
+  [J:energy_response_results.json:resolution_errors[0]] 0.000830248  null-FP=0%  (json:energy_response_results.json:resolution_errors[)
+        r3: a/b  a=log:darkside_detector/electron/0.0:res  b=json:detector_comparison_results.json:optimized_metrics.pmt_count
+        r4: a/b*0.1  a=log:darkside_detector/electron/0.0:sigma  b=json:energy_response_results.json:light_yields_pe_per_mev[0]
+        r4: a/b*1.0  a=log:darkside_detector/electron/0.0:res  b=json:detector_comparison_results.json:optimized_metrics.pmt_count
+        ... multiplicity=5
+  [J:energy_response_results.json:resolution_errors[1]] 0.000258466  null-FP=0%  (json:energy_response_results.json:resolution_errors[)
+        r3: a/b  a=log:darkside_detector/electron/0.001:res  b=json:detector_comparison_results.json:optimized_metrics.pmt_count
+        r4: a/b*1.0  a=log:darkside_detector/electron/0.001:res  b=json:detector_comparison_results.json:optimized_metrics.pmt_count
+        r4: a/b/1.0  a=log:darkside_detector/electron/0.001:res  b=json:detector_comparison_results.json:optimized_metrics.pmt_count
+        ... multiplicity=4
+  [J:energy_response_results.json:resolution_errors[2]] 0.000160211  null-FP=1%  (json:energy_response_results.json:resolution_errors[)
+        r3: a/b  a=json:energy_response_results.json:energy_resolutions[2]  b=json:detector_comparison_results.json:optimized_metrics.pmt_count
+        r4: a/b*1.0  a=json:energy_response_results.json:energy_resolutions[2]  b=json:detector_comparison_results.json:optimized_metrics.pmt_count
+        r4: a/b/1.0  a=json:energy_response_results.json:energy_resolutions[2]  b=json:detector_comparison_results.json:optimized_metrics.pmt_count
+        ... multiplicity=4
+  [J:energy_response_results.json:average_light_yield] 1474.39  null-FP=2%  (json:energy_response_results.json:average_light_yiel)
+        r2: mean(json:energy_response_results.json:light_yields_pe_per_mev[])
+  [J:detector_comparison_results.json:baseline_metrics.light_yiel] 1474.39  null-FP=2%  (json:detector_comparison_results.json:baseline_metri)
+        r2: mean(json:energy_response_results.json:light_yields_pe_per_mev[])
+  [J:detector_comparison_results.json:optimized_metrics.coverage_] 0.0544218  null-FP=1%  (json:detector_comparison_results.json:optimized_metr)
+        r5: a*(1+b/100)  a=json:detector_comparison_results.json:baseline_metrics.coverage_fraction  b=json:optimization_analysis.json:improvements.coverage_percent
+  [J:detector_comparison_results.json:optimized_metrics.light_yie] 4491.29  null-FP=0%  (json:detector_comparison_results.json:optimized_metr)
+        r5: a*(1+b/100)  a=json:detector_comparison_results.json:baseline_metrics.light_yield_pe_per_mev  b=json:detector_comparison_results.json:improvements.light_yield_percent
+  [J:optimization_analysis.json:optimized.light_yield] 6.12695  null-FP=0%  (json:optimization_analysis.json:optimized.light_yiel)
+        r5: a*(1+b/100)  a=json:optimization_analysis.json:baseline.light_yield  b=json:optimization_analysis.json:improvements.light_yield_percent
+  [J:optimization_analysis.json:improvements.coverage_percent] 33.3335  null-FP=1%  (json:optimization_analysis.json:improvements.coverag)
+        r5: (a-b)/b*100  a=json:detector_comparison_results.json:optimized_metrics.coverage_fraction  b=json:detector_comparison_results.json:baseline_metrics.coverage_fraction
+  [J:pmt_optimization_results.json:configurations_tested[1].total] 2.356  null-FP=88%  (json:pmt_optimization_results.json:configurations_te)
+        r4: a/b/2.0  a=json:energy_response_results.json:resolution_errors[2]  b=json:pmt_optimization_results.json:configurations_tested[1].efficiency_per_pmt
+  [J:spatial_response_analysis.json:position_resolutions_mm[1]] 25.27  null-FP=83%  (json:spatial_response_analysis.json:position_resolut)
+        r4: a/b*0.1  a=json:optimization_analysis.json:statistics.z_score  b=json:optimization_analysis.json:baseline.light_yield
+        r4: a/b/5.0  a=json:optimization_analysis.json:optimized.total_hits  b=log:darkside_detector/electron/0.001:mu
+  [J:spatial_response_analysis.json:position_resolutions_mm[2]] 106.19  null-FP=36%  (json:spatial_response_analysis.json:position_resolut)
+        r3: a/b  a=log:darkside_optimized/electron/0.005:sigma  b=json:optimization_analysis.json:baseline.light_yield
+        r4: a/b*1.0  a=log:darkside_optimized/electron/0.005:sigma  b=json:optimization_analysis.json:baseline.light_yield
+        r4: a/b/1.0  a=log:darkside_optimized/electron/0.005:sigma  b=json:optimization_analysis.json:baseline.light_yield
+  [J:spatial_response_analysis.json:radial_resolutions_mm[0]] 1.1  null-FP=5%  (json:spatial_response_analysis.json:radial_resolutio)
+        r2: mean(json:energy_response_results.json:light_yield_errors[]drop[2]+[1.0])
+  [J:spatial_response_analysis.json:component_resolutions.y_mm[0]] 1.08  null-FP=0%  (json:spatial_response_analysis.json:component_resolu)
+        r2: mean(json:energy_response_results.json:light_yield_errors[]drop[2]+[1.0])
+  [J:spatial_response_analysis.json:component_resolutions.y_mm[1]] 15.87  null-FP=95%  (json:spatial_response_analysis.json:component_resolu)
+        r4: a/b*0.1  a=json:detector_comparison_results.json:improvements.pmt_count_percent  b=json:spatial_response_analysis.json:component_resolutions.x_mm[0]
+        r4: a/b*0.1  a=json:optimization_analysis.json:improvements.coverage_percent  b=json:spatial_response_analysis.json:component_resolutions.x_mm[0]
+        r4: a/b*0.1  a=json:optimization_analysis.json:improvements.pmt_count_percent  b=json:spatial_response_analysis.json:component_resolutions.x_mm[0]
+        ... multiplicity=5
+  [J:scintillation_analysis_results.json:[0].pe_resolution] 0.0830331  null-FP=1%  (json:scintillation_analysis_results.json:[0].pe_reso)
+        r4: a/b*0.1  a=json:scintillation_analysis_results.json:[0].pe_resolution_err  b=json:spatial_response_analysis.json:energies_gev[1]
+        r4: a/b/0.1  a=json:scintillation_analysis_results.json:[0].pe_resolution_err  b=json:energy_response_results.json:energies_mev[0]
+        r4: a/b/2.0  a=json:scintillation_analysis_results.json:[0].pe_resolution_err  b=json:spatial_response_analysis.json:energies_gev[2]
+        ... multiplicity=4
+  [J:scintillation_analysis_results.json:[0].pe_resolution_err] 0.000830331  null-FP=1%  (json:scintillation_analysis_results.json:[0].pe_reso)
+        r3: a/b  a=json:scintillation_analysis_results.json:[0].pe_resolution  b=json:detector_comparison_results.json:optimized_metrics.pmt_count
+        r4: a/b*1.0  a=json:scintillation_analysis_results.json:[0].pe_resolution  b=json:detector_comparison_results.json:optimized_metrics.pmt_count
+        r4: a/b/1.0  a=json:scintillation_analysis_results.json:[0].pe_resolution  b=json:detector_comparison_results.json:optimized_metrics.pmt_count
+        ... multiplicity=4
+  [J:scintillation_analysis_results.json:[1].light_yield_pe_per_k] 0.295847  null-FP=3%  (json:scintillation_analysis_results.json:[1].light_y)
+        r3: a/b  a=log:darkside_detector/electron/0.001:mu  b=log:darkside_optimized/electron/0.001:n_events
+        r4: a/b*0.1  a=json:scintillation_analysis_results.json:[1].mean_pe  b=json:detector_comparison_results.json:optimized_metrics.pmt_count
+        r4: a/b*1.0  a=log:darkside_detector/electron/0.001:mu  b=log:darkside_optimized/electron/0.001:n_events
+        ... multiplicity=5
+  [J:scintillation_analysis_results.json:[1].pe_resolution] 0.0258492  null-FP=2%  (json:scintillation_analysis_results.json:[1].pe_reso)
+        r4: a/b*0.1  a=json:scintillation_analysis_results.json:[1].pe_resolution_err  b=json:spatial_response_analysis.json:energies_gev[1]
+        r4: a/b/0.1  a=json:scintillation_analysis_results.json:[1].pe_resolution_err  b=json:energy_response_results.json:energies_mev[0]
+        r4: a/b/2.0  a=json:scintillation_analysis_results.json:[1].pe_resolution_err  b=json:spatial_response_analysis.json:energies_gev[2]
+        ... multiplicity=4
+  [J:scintillation_analysis_results.json:[1].pe_resolution_err] 0.000258492  null-FP=0%  (json:scintillation_analysis_results.json:[1].pe_reso)
+        r3: a/b  a=json:scintillation_analysis_results.json:[1].pe_resolution  b=json:detector_comparison_results.json:optimized_metrics.pmt_count
+        r4: a/b*1.0  a=json:scintillation_analysis_results.json:[1].pe_resolution  b=json:detector_comparison_results.json:optimized_metrics.pmt_count
+        r4: a/b/1.0  a=json:scintillation_analysis_results.json:[1].pe_resolution  b=json:detector_comparison_results.json:optimized_metrics.pmt_count
+        ... multiplicity=4
+  [J:discrimination_analysis.json:average_quenching_factor] 0.6314  null-FP=47%  (json:discrimination_analysis.json:average_quenching_)
+        r2: mean(logfam:darkside_detector:proton/electron_ratiodrop[2]+[1.0])
+  [J:discrimination_analysis.json:quenching_factor_uncertainty] 0.2639  null-FP=91%  (json:discrimination_analysis.json:quenching_factor_u)
+        r2: std(logfam:darkside_detector:proton/electron_ratiodrop[2]+[1.0])
+  CORROBORATED family: logfam:darkside_detector:proton/electron_ratiodrop[2]+[1.0])  joint-null<=0.1% (product of marginals)  measured joint-null=0.0%
+      mean: [R0007] 0.631  ( recoil simulations revealed an average quenchin)
+      mean: [R0063] 0.631  (      | 1.000           |  The average quenching)
+      mean: [R0098] 0.631  (ing Factor Analysis  The nuclear recoil quenchin)
+      mean: [J:discrimination_analysis.json:average_quenching_factor] 0.6314  (json:discrimination_analysis.json:average_quench)
+      std: [R0008] 0.264  (simulations revealed an average quenching factor)
+      std: [R0064] 0.264  (1.000           |  The average quenching factor )
+      std: [R0099] 0.264  (or Analysis  The nuclear recoil quenching factor)
+      std: [J:discrimination_analysis.json:quenching_factor_uncertainty] 0.2639  (json:discrimination_analysis.json:quenching_fact)
+  TABLE-ROW UNSOURCED (3 high-precision cells, 0 verified): | 5.0          | 50.85                     | 44.00               | 24.01            |
+  summary: 25 log-verified, 68 json-copies, 51 diagnosed-by-formula, 50 unexplained/ambiguous
+
+### optiv9/detector: pool=33 quantities (10 log-derived), 3 families, 71 targets
+  [J:lar_detector_configurations.json:endcap_heavy.sensor_positio] 1.25  null-FP=0%  (json:lar_detector_configurations.json:endcap_heavy.s)
+        r2: std(json:lar_detector_configurations.json:barrel_heavy.sensor_positions.barrel.z_range[])
+        r2: std(json:lar_detector_configurations.json:endcap_heavy.sensor_positions.barrel.z_range[])
+        r2: std(json:lar_detector_configurations.json:uniform.sensor_positions.barrel.z_range[])
+  [J:lar_detector_configurations.json:endcap_heavy.sensor_positio] 1.25  null-FP=0%  (json:lar_detector_configurations.json:endcap_heavy.s)
+        r2: std(json:lar_detector_configurations.json:barrel_heavy.sensor_positions.barrel.z_range[])
+        r2: std(json:lar_detector_configurations.json:endcap_heavy.sensor_positions.barrel.z_range[])
+        r2: std(json:lar_detector_configurations.json:uniform.sensor_positions.barrel.z_range[])
+  [J:lar_detector_configurations.json:barrel_heavy.sensor_positio] 1.25  null-FP=0%  (json:lar_detector_configurations.json:barrel_heavy.s)
+        r2: std(json:lar_detector_configurations.json:barrel_heavy.sensor_positions.barrel.z_range[])
+        r2: std(json:lar_detector_configurations.json:endcap_heavy.sensor_positions.barrel.z_range[])
+        r2: std(json:lar_detector_configurations.json:uniform.sensor_positions.barrel.z_range[])
+  [J:lar_detector_configurations.json:barrel_heavy.sensor_positio] 1.25  null-FP=0%  (json:lar_detector_configurations.json:barrel_heavy.s)
+        r2: std(json:lar_detector_configurations.json:barrel_heavy.sensor_positions.barrel.z_range[])
+        r2: std(json:lar_detector_configurations.json:endcap_heavy.sensor_positions.barrel.z_range[])
+        r2: std(json:lar_detector_configurations.json:uniform.sensor_positions.barrel.z_range[])
+  [J:lar_detector_configurations.json:barrel_heavy.geometry_param] 1.90986  null-FP=0%  (json:lar_detector_configurations.json:barrel_heavy.g)
+        r5: a-b  a=json:lar_detector_configurations.json:endcap_heavy.geometry_parameters.endcap_sensor_density  b=json:lar_detector_configurations.json:endcap_heavy.geometry_parameters.barrel_sensor_density
+  [J:lar_detector_configurations.json:uniform.endcap_coverage] 0.506667  null-FP=0%  (json:lar_detector_configurations.json:uniform.endcap)
+        r3: a/b  a=json:lar_detector_configurations.json:uniform.endcap_sensors  b=json:lar_detector_configurations.json:endcap_heavy.total_sensors
+        r4: a/b*1.0  a=json:lar_detector_configurations.json:uniform.endcap_sensors  b=json:lar_detector_configurations.json:endcap_heavy.total_sensors
+        r4: a/b*2.0  a=json:lar_detector_configurations.json:uniform.sensor_positions.endcap_top.count  b=json:lar_detector_configurations.json:endcap_heavy.total_sensors
+        ... multiplicity=5
+  [J:lar_detector_configurations.json:uniform.sensor_positions.en] 1.25  null-FP=0%  (json:lar_detector_configurations.json:uniform.sensor)
+        r2: std(json:lar_detector_configurations.json:barrel_heavy.sensor_positions.barrel.z_range[])
+        r2: std(json:lar_detector_configurations.json:endcap_heavy.sensor_positions.barrel.z_range[])
+        r2: std(json:lar_detector_configurations.json:uniform.sensor_positions.barrel.z_range[])
+  [J:lar_detector_configurations.json:uniform.sensor_positions.ba] 1.25  null-FP=0%  (json:lar_detector_configurations.json:uniform.sensor)
+        r2: std(json:lar_detector_configurations.json:barrel_heavy.sensor_positions.barrel.z_range[])
+        r2: std(json:lar_detector_configurations.json:endcap_heavy.sensor_positions.barrel.z_range[])
+        r2: std(json:lar_detector_configurations.json:uniform.sensor_positions.barrel.z_range[])
+  summary: 8 log-verified, 12 json-copies, 8 diagnosed-by-formula, 43 unexplained/ambiguous
+
+### optiv9/protodune_lar: pool=49 quantities (16 log-derived), 0 families, 89 targets
+  [J:optimized_pds_config1.json:predicted_performance.light_yield] 870.133  null-FP=0%  (json:optimized_pds_config1.json:predicted_performanc)
+        r5: a/b*100  a=json:baseline_optical_plots_summary.json:baseline_metrics.light_yield_pe_per_mev  b=json:baseline_optical_performance.json:baseline_sensor_count
+  [J:optimized_pds_config1.json:predicted_performance.coverage_fr] 0.0265756  null-FP=0%  (json:optimized_pds_config1.json:predicted_performanc)
+        r3: a/b  a=json:optimized_pds_config2.json:predicted_performance.coverage_fraction  b=json:baseline_optical_plots_summary.json:baseline_metrics.light_yield_std
+        r4: a/b*1.0  a=json:optimized_pds_config2.json:predicted_performance.coverage_fraction  b=json:baseline_optical_plots_summary.json:baseline_metrics.light_yield_std
+        r4: a/b/1.0  a=json:optimized_pds_config2.json:predicted_performance.coverage_fraction  b=json:baseline_optical_plots_summary.json:baseline_metrics.light_yield_std
+        ... multiplicity=4
+  [J:optimized_pds_config2.json:predicted_performance.spatial_uni] 2.2152  null-FP=3%  (json:optimized_pds_config2.json:predicted_performanc)
+        r4: a/b/5.0  a=json:baseline_optical_plots_summary.json:baseline_metrics.spatial_uniformity_cv  b=json:optimized_pds_config2.json:sensors.endcap_fraction
+  summary: 6 log-verified, 40 json-copies, 3 diagnosed-by-formula, 40 unexplained/ambiguous

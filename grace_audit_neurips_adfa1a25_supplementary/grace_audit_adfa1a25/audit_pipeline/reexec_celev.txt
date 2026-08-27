@@ -1,0 +1,12 @@
+
+### celev7/calorimeter  (synthesized 9 parquet inputs)
+  MATCH    grace_python_01f082a9e4e0.py  (all regenerated JSON leaves equal archive)
+  FAILED   grace_python_0609f0cbfce4.py  KeyError: 'totalEdep'
+  MATCH    grace_python_1ac7c9ff733d.py  (all regenerated JSON leaves equal archive)
+  MATCH    grace_python_6b05043a54ad.py  (all regenerated JSON leaves equal archive)
+  FAILED   grace_python_bb5cd5068d3b.py  KeyError: 'totalEdep'
+  FAILED   grace_python_bbb8c736ed49.py  KeyError: 'totalEdep'
+  MATCH    grace_python_c75f52f29230.py  (all regenerated JSON leaves equal archive)
+  FAILED   grace_python_d84c6264b06e.py  KeyError: 'totalEdep'
+  MATCH    grace_python_e98fcb88fdfd.py  (all regenerated JSON leaves equal archive)
+  stats: {'RAN': 5, 'FAILED': 4, 'TIMEOUT': 0}
